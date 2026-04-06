@@ -147,11 +147,10 @@
         "Damage": 100,
         "TextBoostsDamage": false,
         "UseCost": {
-          "White": 3,
-          "Red": 1
+          "White": 3
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "♰漆黒の翼♰",
         "Text": "このアーツで相手のホロメンをダウンさせた時、与えたダメージが残りHPを50以上オーバーしていれば、相手のライフ-１。"
@@ -315,11 +314,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "White": 1,
-          "Neutral": 2,
-          "Purple": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "みんな一緒に",
         "Text": "このターンの間、自分のバックホロメン１人につき、自分のセンターホロメンとコラボホロメンのアーツ+10。"
@@ -396,11 +394,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "White": 2,
-          "Neutral": 1,
-          "Red": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "止まらねえぞ",
         "Text": "サイコロを１回振れる：奇数の時、同じホロメンに、このアーツをもう１回使う（このアーツはそのホロメンがダウンするまで繰り返せる）。"
@@ -617,11 +614,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "White": 1,
-          "Neutral": 2,
-          "Red": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "約束の力",
         "Text": "自分の#Promiseを持つホロメン１人につき、このアーツ+20。"
@@ -789,11 +785,10 @@
         "Damage": 70,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Green": 3,
-          "White": 1
+          "Green": 3
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "秘密の合鍵",
         "Text": "このホロメンにツールが付いている時、このアーツ+50。"
@@ -957,11 +952,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Green": 3,
-          "Neutral": 1,
-          "Blue": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "全人類兎化計画",
         "Text": "サイコロを３回振れる：出た目の合計数１につき、このアーツ+10。"
@@ -1066,11 +1060,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Green": 3,
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "新たな地図",
         "Text": ""
@@ -1295,11 +1288,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Green": 1,
-          "Neutral": 2,
-          "Blue": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "リレーションスカイ",
         "Text": "自分のステージに〈アイラニ・イオフィフティーン〉以外の#IDを持つホロメンがいる時、このアーツ+50。"
@@ -1475,11 +1467,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Red": 2,
-          "Neutral": 1,
-          "Yellow": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ホークレイヴ",
         "Text": "自分の手札１～５枚をアーカイブできる：相手のセンターホロメンかコラボホロメンどちらかに、アーカイブしたカード１枚につき特殊ダメージ20を与える。"
@@ -1636,11 +1627,10 @@
         "Damage": 70,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Red": 2,
-          "Green": 1
+          "Red": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "焔色の導き",
         "Text": ""
@@ -1649,11 +1639,10 @@
         "Damage": 80,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Red": 3,
-          "Green": 1
+          "Red": 3
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "マジェスティック・フェニックス",
         "Text": "自分のアーカイブのホロメン１枚につき、このアーツ+10。そして自分のアーカイブのホロメン６枚をデッキに戻してシャッフルする。"
@@ -1871,11 +1860,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Red": 1,
-          "Neutral": 1,
-          "Green": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Disorder",
         "Text": ""
@@ -2044,11 +2032,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Blue": 3,
-          "Neutral": 1,
-          "Red": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "輝く彗星",
         "Text": "このホロメンの青エール2枚をアーカイブできる：このホロメンに重なっているホロメン1枚につき、このアーツ+60（このアーツは相手のバックホロメンも対象にできる）。"
@@ -2208,11 +2195,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 1,
-          "Neutral": 1,
-          "Purple": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "雨のマントラ",
         "Text": "このホロメンのエール１枚をアーカイブできる：相手のバックホロメン全員に特殊ダメージ20を与える（ダウンしても相手のライフは減らない）。"
@@ -2222,11 +2208,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 2,
-          "Neutral": 1,
-          "Purple": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "波のマントラ",
         "Text": "このホロメンのエール２枚をアーカイブできる：相手のセンターホロメンに、相手のバックホロメン全員が受けているダメージの合計数と同じ数値の特殊ダメージを与える。"
@@ -2450,11 +2435,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 1,
-          "Neutral": 2,
-          "Red": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "早送り",
         "Text": "自分のこのターンに出したDebutバックホロメン１人を、自分の手札の１stホロメンにBloomできる。"
@@ -2792,11 +2776,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "White": 2,
-          "Neutral": 1,
-          "Purple": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "マスコットたちの饗宴",
         "Text": "自分のステージのマスコット1枚につき、このアーツ+20。"
@@ -3077,11 +3060,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Green": 1,
-          "Neutral": 3,
-          "White": 1
+          "Neutral": 3
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "孔雀の舞",
         "Text": "自分のステージのエール1色につき、このアーツ+20。"
@@ -3362,11 +3344,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Red": 1,
-          "Neutral": 2,
-          "Purple": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "キミたち～？\u3000船長、かわいい？",
         "Text": "このホロメンに重なっているホロメン1枚につき、このアーツ+20。"
@@ -3561,11 +3542,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Blue": 2,
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ホロックスロット",
         "Text": "自分のデッキの上から3枚を公開できる：公開したホロメン1枚につき、このアーツ+20。そして公開したカードをアーカイブする。"
@@ -3763,11 +3743,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Purple": 2,
-          "Neutral": 1,
-          "Green": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ヴァイオレットマジック",
         "Text": "相手のセンターホロメンとコラボホロメンに、相手のセンターホロメンのエール1枚につき、特殊ダメージ20を与える。"
@@ -3936,11 +3915,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 2,
-          "Yellow": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "計算された戦術",
         "Text": "自分のステージに#ID2期生を持つ2ndホロメンが2人以上いる時、このアーツ+40。"
@@ -4098,11 +4076,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Purple": 2,
-          "Neutral": 1,
-          "Blue": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Featuring Myth",
         "Text": "自分のアーカイブに#Mythを持つホロメンが、4枚以上ある時、このアーツ+40。8枚以上ある時、さらに、このアーツ+40。"
@@ -4342,11 +4319,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 2,
-          "Yellow": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "歌に宿りし愛情",
         "Text": ""
@@ -4684,11 +4660,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "White": 2,
-          "Neutral": 1,
-          "Purple": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "お疲れ様なのらね",
         "Text": "このホロメンに〈ルーナイト〉が付いている時、このアーツ+50。"
@@ -4714,11 +4689,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "White": 1,
-          "Neutral": 2,
-          "Red": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "これが番長の実力ってやつよ",
         "Text": "自分の#ReGLOSSを持つバックホロメンが4人以上いる時、このホロメンのアーツ+40。"
@@ -4888,11 +4862,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Green": 1,
-          "Neutral": 2,
-          "Blue": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "神エイム",
         "Text": "自分の推しホロメンが〈獅白ぼたん〉の時、自分のバックホロメンのエール1枚をアーカイブできる：相手のセンターホロメンかコラボホロメンに特殊ダメージ40を与える。"
@@ -4975,11 +4948,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Green": 1,
-          "Neutral": 3,
-          "White": 1
+          "Neutral": 3
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "風真が斬る",
         "Text": "このホロメンに緑以外のエールが2枚以上付いている時、このアーツ+50。"
@@ -5158,11 +5130,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Red": 1,
-          "Neutral": 2,
-          "Green": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "エリート巫女",
         "Text": "このホロメンに付いている〈35P〉1枚につき、このアーツ+20。"
@@ -5506,11 +5477,10 @@
         "Damage": 60,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Blue": 1,
-          "Purple": 1
+          "Blue": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ドーナツ大好き",
         "Text": ""
@@ -5521,11 +5491,10 @@
         "UseCost": {
           "Blue": 1,
           "Red": 1,
-          "Neutral": 1,
-          "Purple": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "一緒に食べる？",
         "Text": "[センターポジション限定]自分の推しホロメンが〈FUWAMOCO〉の時、このホロメンのエール1枚を、自分の〈モココ・アビスガード〉に付け替えられる：相手のセンターホロメンに特殊ダメージ50を与える。"
@@ -5908,11 +5877,10 @@
         "Damage": 30,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Purple": 1,
-          "Yellow": 1
+          "Purple": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "私を縛る固定概念を壊せ",
         "Text": "相手のセンターホロメンかコラボホロメンに特殊ダメージ30を与える。"
@@ -5922,11 +5890,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Purple": 2,
-          "Neutral": 1,
-          "Yellow": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Break your ×××",
         "Text": "相手のセンターホロメンかコラボホロメンどちらかに、自分の#歌を持つバックホロメン1人につき、特殊ダメージ20を与える。ただし、数える人数は4人まで。"
@@ -6033,11 +6000,10 @@
         "Damage": 70,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Neutral": 1,
-          "Green": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "自称【高性能】",
         "Text": "相手のステージにエールが7枚以上ある時、このアーツ+70。"
@@ -6213,11 +6179,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Yellow": 2,
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "最凶天災",
         "Text": "このアーツの対象が相手の2ndホロメンの時、このホロメンに重なっている1stホロメン1枚をアーカイブできる：このアーツ+50。"
@@ -6381,11 +6346,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Yellow": 1,
-          "Neutral": 2,
-          "Blue": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "わためぇ Night Fever!!",
         "Text": "[センターポジション限定]このホロメンにエールが6枚以上付いている時、このターンの間、このホロメンと自分のコラボホロメンのアーツ+100。"
@@ -6562,11 +6526,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Yellow": 1,
-          "Neutral": 2,
-          "Blue": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "魔法の森のリスの女の子",
         "Text": "■このホロメンに緑エールが付いている時、このアーツ+50。"
@@ -6870,11 +6833,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "White": 1,
-          "Neutral": 2,
-          "Green": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "かくせいのこより",
         "Text": "このホロメンに#こよラボを持つサポートカードが付いている時、自分のデッキから、#こよラボを持つサポートカード1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
@@ -6900,11 +6862,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "White": 1,
-          "Neutral": 2,
-          "Green": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "私の大切な人",
         "Text": "自分のステージに〈白上フブキ〉以外の#ゲーマーズを持つホロメンがいる時、このアーツ+50。"
@@ -7027,11 +6988,10 @@
         "Damage": 70,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Neutral": 3,
-          "Red": 1
+          "Neutral": 3
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Art Streamer",
         "Text": "[コラボポジション限定]自分のセンターホロメンが#絵を持つ時、このアーツ+80。"
@@ -7213,11 +7173,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Green": 2,
-          "Neutral": 2,
-          "White": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "御後がよろしいようで",
         "Text": "自分の推しホロメンが〈儒烏風亭らでん〉の時、このホロメンのエール2枚を、自分のバックホロメン2人に1枚ずつ付け替えられる：このアーツ+30。"
@@ -7243,11 +7202,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Green": 1,
-          "Neutral": 2,
-          "White": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "うちってフブキのものだったの？",
         "Text": "自分のステージに〈大神ミオ〉以外の#ゲーマーズを持つホロメンがいる時、このアーツ+50。"
@@ -7376,11 +7334,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Green": 1,
-          "Neutral": 1,
-          "Yellow": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "マルチリンガル",
         "Text": "自分の#語学を持つバックホロメン1人を選ぶ。自分のエールデッキから、選んだホロメンと同色のエール1枚を公開し、選んだホロメンに送る。そしてエールデッキをシャッフルする。"
@@ -7557,11 +7514,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Red": 1,
-          "Neutral": 2,
-          "Yellow": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "お？\u3000喧嘩する？",
         "Text": "相手のセンターホロメンに特殊ダメージ50を与える。その後、このターンに自分が〈限界飯〉を使っていた時、相手のセンターホロメンかコラボホロメンに特殊ダメージ30を与える。"
@@ -7587,11 +7543,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Red": 1,
-          "Neutral": 1,
-          "Green": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "えっち♥♥",
         "Text": "このホロメンに重なっているホロメン1枚につき、このアーツ+20。"
@@ -7879,11 +7834,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 1,
-          "Neutral": 2,
-          "Red": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "今日も祝福がありますように",
         "Text": "このホロメンのエール1枚をアーカイブできる：相手のセンターホロメンかバックホロメン1人に特殊ダメージ30を与える。"
@@ -7903,11 +7857,10 @@
         "Damage": 50,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "月と星のステージ",
         "Text": ""
@@ -7917,11 +7870,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Blue": 1,
-          "Neutral": 2,
-          "White": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Shining Moon",
         "Text": "相手のバックホロメン1人に特殊ダメージ20を与える。その後、自分のステージにこのホロメンと異なる色のホロメンがいる時、このアーツ+50。"
@@ -8204,11 +8156,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 2,
-          "Blue": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "吾輩最強伝説",
         "Text": "相手のセンターホロメンに、このターンに自分が能力でサイコロを振った回数1回につき、特殊ダメージ10を与える。"
@@ -8263,11 +8214,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 1,
-          "Green": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "HOLOROの魂",
         "Text": "自分のステージのこのホロメン以外の#ID2期生を持つ2ndホロメン1人につき、このアーツ+20。"
@@ -8401,11 +8351,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 1,
-          "Green": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "この輝きが、伝わればいいな",
         "Text": "相手のアーカイブのエール1枚につき、このアーツ+10。"
@@ -8595,11 +8544,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Yellow": 2,
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "太陽少女",
         "Text": "お互いのステージのエール1枚につき、このアーツ+10。ただし、数える枚数は8枚まで。"
@@ -8769,11 +8717,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Yellow": 2,
-          "Neutral": 2,
-          "Red": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ダンジョンアドベンチャー",
         "Text": ""
@@ -8889,11 +8836,10 @@
         "Damage": 60,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Yellow": 1,
-          "White": 1
+          "Yellow": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "お気に入りみつけた",
         "Text": "このホロメンのエール1枚につき、このアーツ+20。"
@@ -9000,11 +8946,10 @@
         "Damage": 50,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ハズバンドいっぱい",
         "Text": ""
@@ -9014,11 +8959,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Blue": 1,
-          "Yellow": 1,
-          "White": 1
+          "Yellow": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ギラギラパワー",
         "Text": "自分のアーカイブのエール1枚につき、このアーツ+20。ただし、数える枚数は5枚まで。"
@@ -9207,11 +9151,10 @@
         "Damage": 80,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Neutral": 2,
-          "Green": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "騎士団の道",
         "Text": "このホロメンのHPが減っているなら、このアーツ+40。"
@@ -9221,11 +9164,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "White": 1,
-          "Neutral": 2,
-          "Green": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "慈悲の一撃",
         "Text": "[センターポジション限定]自分の#3期生を持つコラボホロメンがいるなら、このアーツ+30。"
@@ -9250,11 +9192,10 @@
         "Damage": 90,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Neutral": 2,
-          "Red": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "7周年いえーい✩°｡⋆⸜(*╹꒳ ╹* )⸝",
         "Text": ""
@@ -9337,11 +9278,10 @@
         "Damage": 120,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Neutral": 4,
-          "Red": 1
+          "Neutral": 4
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ウーサペコラを崇めるぺこ",
         "Text": "このホロメンに重なっているホロメン1枚につき、サイコロを1回振れる：出た目の合計数1につき、このアーツ+10。"
@@ -9398,11 +9338,10 @@
         "Damage": 60,
         "TextBoostsDamage": false,
         "UseCost": {
-          "White": 1,
-          "Purple": 1
+          "White": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "海に行こう！",
         "Text": "自分のステージに#ID3期生を持つBuzzホロメンがいるなら、自分のデッキを1枚引く。"
@@ -9412,11 +9351,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "White": 1,
-          "Neutral": 2,
-          "Purple": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Summer Vibes",
         "Text": "このアーツで相手のホロメンをダウンさせた時、自分のデッキから、#ID3期生を持つ1stホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
@@ -9555,11 +9493,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Green": 1,
-          "Neutral": 2,
-          "White": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "リレーションガーデン",
         "Text": "[センターポジション限定]自分の推しホロメンが〈アイラニ・イオフィフティーン〉なら、自分のステージのエール3枚につき、このアーツ+20。"
@@ -9673,11 +9610,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Green": 1,
-          "Neutral": 2,
-          "Blue": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ワンフォーオール",
         "Text": "このアーツで相手のホロメンをダウンさせた時、自分のデッキを1枚引く。その後、自分の推しホロメンが〈アキ・ローゼンタール〉なら、自分のホロメン全員のHP20回復。"
@@ -9884,11 +9820,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Red": 1,
-          "Neutral": 2,
-          "Green": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Are you ready？",
         "Text": "自分の推しホロメンが〈尾丸ポルカ〉なら、自分のアーカイブのカード10枚につき、このアーツ+30。"
@@ -9913,11 +9848,10 @@
         "Damage": 90,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Red": 2,
-          "Yellow": 1
+          "Red": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "あえんびえん",
         "Text": "自分の手札2枚をアーカイブできる：相手のセンターホロメンかコラボホロメンに特殊ダメージ50を与える。自分のステージに〈35P〉があるなら、さらに、自分のデッキを1枚引く。"
@@ -9960,11 +9894,10 @@
         "Damage": 50,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Neutral": 1,
-          "Purple": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Non-Limit Boost",
         "Text": "このホロメンに赤エールと青エールが付いているなら、自分のアーカイブのエール2枚をこのホロメンに送れる。どちらか1色しか付いていないなら、自分のアーカイブのエール1枚をこのホロメンに送れる。"
@@ -9973,11 +9906,10 @@
         "Damage": 220,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Neutral": 4,
-          "Purple": 1
+          "Neutral": 4
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Shout in Crisis",
         "Text": "このホロメンのエールすべてをアーカイブする。"
@@ -10053,7 +9985,7 @@
   {
     "Name": "miComet",
     "Code": "hBP05-040",
-    "Color": 4,
+    "Color": 12,
     "BloomLevel": "First",
     "Buzz": false,
     "InitialHp": 150,
@@ -10204,11 +10136,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 2,
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "僕のコト、大好きになってみない？",
         "Text": "相手のホロメン1人に特殊ダメージ20を与える。その後、自分のアーカイブのエール1枚を自分の#ゲーマーズを持つバックホロメンに送れる。"
@@ -10309,11 +10240,10 @@
         "Damage": 60,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Blue": 1,
-          "White": 1
+          "Blue": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "雨跡をなぞる",
         "Text": "相手のバックホロメン全員のHPが合計80以上減っているなら、自分のアーカイブの青エール1枚を自分の〈こぼ・かなえる〉に送れる。"
@@ -10323,11 +10253,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 2,
-          "Neutral": 2,
-          "White": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "残響する雨音",
         "Text": "このホロメンのエール2枚をアーカイブできる：相手のバックホロメン全員に特殊ダメージ30を与える。ただし、ダウンしても相手のライフは減らない。"
@@ -10512,11 +10441,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 1,
-          "Blue": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "愛を込めて",
         "Text": "このターンに自分が使っていた#食べ物を持つイベント1枚につき、このアーツ+20。ただし、数える枚数は2枚まで。"
@@ -10526,11 +10454,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 2,
-          "Blue": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "夜に寄り添う",
         "Text": "自分の手札2枚をアーカイブできる：自分のアーカイブの#料理を持つホロメン1枚を手札に戻す。"
@@ -10677,11 +10604,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 2,
-          "Blue": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Unleashed Charm",
         "Text": "自分の手札1～3枚をアーカイブできる：このターンの間、アーカイブしたカード1枚につき、自分のステージの#歌を持つホロメン1人のアーツ+20。"
@@ -10707,11 +10633,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 1,
-          "Green": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ありがとうみんな",
         "Text": "相手のセンターホロメンかコラボホロメンどちらかに、自分のステージの#歌を持つ1stホロメン1人につき、特殊ダメージ20を与える。"
@@ -10849,11 +10774,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Yellow": 2,
-          "Neutral": 1,
-          "Blue": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "みんなに笑っててほしいから",
         "Text": "サイコロを1回振れる：出た目の数が自分のライフ以上なら、このアーツ+60。出た目の数が自分のライフ以下なら、自分のデッキを1枚引く。"
@@ -10929,11 +10853,10 @@
         "Damage": 60,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Neutral": 2,
-          "Blue": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "フブキカフェにようこそ",
         "Text": "自分のアーカイブの#白上'sキャラクターを持つ[マスコットとファン]を好きな枚数選び、自分のホロメンに割り振って付けられる。"
@@ -10942,11 +10865,10 @@
         "Damage": 100,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Neutral": 4,
-          "Blue": 1
+          "Neutral": 4
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "国王兼喫茶経営者",
         "Text": "自分の[推しホロメンが〈白上フブキ〉か推しホロメンの色が黄]で、自分のステージに[ツールとマスコットとファン]が合計4枚以上あるなら、このアーツ+100。"
@@ -10971,11 +10893,10 @@
         "Damage": 50,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Neutral": 1,
-          "Blue": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "YB-2",
         "Text": "このターンの間、自分のステージの#ゲーマーズを持つホロメン1人のアーツ+30。"
@@ -11037,11 +10958,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Yellow": 1,
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "IT's Time to RE4GE !!!!!",
         "Text": "自分の推しホロメンが〈アユンダ・リス〉なら、自分の#ID1期生を持つホロメン全員のエール1枚につき、このアーツ+10。ただし、数える枚数は10枚まで。"
@@ -11215,11 +11135,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "White": 1,
-          "Neutral": 1,
-          "Purple": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "色彩のリナシメント",
         "Text": "[センターポジション限定]このターンの間、自分の#絵を持つコラボホロメンのアーツ+50し、そのホロメンのアーツに必要な無色-1。"
@@ -11388,11 +11307,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "White": 1,
-          "Neutral": 2,
-          "Red": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "レゾナンスロア",
         "Text": "自分のデッキの上から1～3枚をアーカイブする。アーカイブしたカード1枚につき、このアーツ+20。"
@@ -11418,11 +11336,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "White": 1,
-          "Neutral": 1,
-          "Red": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "青春の１ページ",
         "Text": "自分のアーカイブの#こよラボを持つサポートカード1枚をデッキの下に戻せる：このアーツ+40。"
@@ -11579,11 +11496,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Green": 1,
-          "Neutral": 2,
-          "White": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "一緒にすてっぷ",
         "Text": "自分の推しホロメンが〈風真いろは〉で、自分のコラボホロメンがいるなら、このアーツ+40。さらに、このホロメンがBuzzホロメンからBloomしているなら、このアーツダメージは軽減されない。"
@@ -11694,11 +11610,10 @@
         "Damage": 160,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Neutral": 4,
-          "Blue": 1
+          "Neutral": 4
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ずっと一緒なのらね",
         "Text": "このホロメンに〈ルーナイト〉が2枚以上付いているなら、このアーツ+50。"
@@ -11914,11 +11829,10 @@
         "Damage": 80,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Red": 2,
-          "Green": 1
+          "Red": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "百鬼乱舞 -朧月-",
         "Text": "自分の推しホロメンが〈百鬼あやめ〉なら、自分のエールデッキの上から1～3枚をアーカイブできる：アーカイブしたエール1枚につき、このアーツ+40。このアーツは、自分のライフが2以下でなければコラボポジションでは使えない。"
@@ -12080,11 +11994,10 @@
         "Damage": 70,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Neutral": 2,
-          "Purple": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "カオスリローデッド",
         "Text": "自分のアーカイブのホロメン1～5枚を好きな順でデッキの下に戻す。戻したホロメン1枚につき、このアーツ+10。"
@@ -12094,11 +12007,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Red": 1,
-          "Neutral": 2,
-          "Purple": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "\uD83D\uDCA5¡¡SSꓵHƆSꓶƎԀԀOꓷ\uD83D\uDCA5",
         "Text": "このゲーム中に、自分のSP推しスキル「\uD83C\uDFB2ƎNOZ N∩Ⅎ ƎH⊥ O⊥ ƎWOϽ˥ƎM\uD83C\uDFB2」を使っていたなら、相手のセンターホロメンかコラボホロメンに特殊ダメージ100を与える。"
@@ -12124,11 +12036,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Red": 1,
-          "Neutral": 2,
-          "Purple": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "永久不滅の絆",
         "Text": "自分の推しホロメンが〈鷹嶺ルイ〉なら、自分の手札2枚をアーカイブできる：相手のセンターホロメンかコラボホロメンに特殊ダメージ50を与える。"
@@ -12153,11 +12064,10 @@
         "Damage": 70,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Red": 1,
-          "Purple": 1
+          "Red": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ガチでなんもない。タスケテ。",
         "Text": "[コラボポジション限定]相手のコラボホロメンに特殊ダメージ50を与える。相手のコラボホロメンがいないなら、かわりに、相手のセンターホロメンに特殊ダメージ50を与える。"
@@ -12334,11 +12244,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 1,
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Tidal Eclipse",
         "Text": "このホロメンにエールが4枚以上付いているなら、相手のセンターホロメンかコラボホロメンに特殊ダメージ90を与える。"
@@ -12364,11 +12273,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Blue": 2,
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "暖かい誕生日とその先へ",
         "Text": "このホロメンに付いている〈雪民〉1枚につき、このアーツ+10。"
@@ -12394,11 +12302,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Blue": 1,
-          "Purple": 1,
-          "Red": 1
+          "Purple": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "二人で紡いだ魔法",
         "Text": "自分のデッキの上から4枚を公開する。公開したホロメン1枚につき、このアーツ+20。そして公開したカードをアーカイブする。その中にイベントがあるなら、自分のデッキを2枚引く。"
@@ -12424,11 +12331,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Blue": 2,
-          "Neutral": 2,
-          "Purple": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "沙花叉と青春しよ？",
         "Text": "自分のデッキの上から6枚を公開する。公開したホロメン1枚につき、このアーツ+20。そして公開したカードをアーカイブする。"
@@ -12527,11 +12433,10 @@
         "Damage": 60,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Neutral": 1,
-          "Red": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Bull's-eye!!!!",
         "Text": "自分の推しホロメンが〈森カリオペ〉なら、自分のデッキの上から2枚をアーカイブできる。アーカイブしたなら、自分のエールデッキの上から1枚を自分のホロメンに送る。"
@@ -12540,11 +12445,10 @@
         "Damage": 200,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Neutral": 4,
-          "Red": 1
+          "Neutral": 4
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Memento Mori.",
         "Text": "このターンの間、自分のステージの#Mythを持つホロメン1人のアーツ+20。その後、自分の推しホロメンが〈森カリオペ〉で、自分のアーカイブのホロメンが8枚以上あるなら、自分のデッキを1枚引ける。"
@@ -12706,11 +12610,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Purple": 2,
-          "Neutral": 1,
-          "Yellow": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "＜封印＞ ダークブライダル",
         "Text": "このホロメンに〈ろぼさー〉が3枚以上付いているなら、相手のセンターホロメンかコラボホロメンに特殊ダメージ70を与える。"
@@ -12819,11 +12722,10 @@
         "Damage": 170,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Neutral": 4,
-          "Green": 1
+          "Neutral": 4
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "終焉のウォウウォウアックス",
         "Text": "このターンに自分の推しスキル「無限の体力」を使っていたなら、このアーツ+40。"
@@ -12843,11 +12745,10 @@
         "Damage": 80,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Purple": 2,
-          "Yellow": 1
+          "Purple": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "らぷらすといっしょ！",
         "Text": "サイコロを3回振る。奇数が出た回数1回につき、このアーツ+20。"
@@ -12856,11 +12757,10 @@
         "Damage": 150,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Purple": 5,
-          "Yellow": 1
+          "Purple": 5
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "みんなかつもくせよ！",
         "Text": "サイコロを5回振る。奇数が出た回数1回につき、自分のデッキを1枚引き、相手のセンターホロメンとコラボホロメンに特殊ダメージ30を与える。"
@@ -13036,11 +12936,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Yellow": 2,
-          "Neutral": 1,
-          "Blue": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Never give up!! 夏色魂",
         "Text": "このターンに自分が使っていたLIMITEDのサポートカード1枚につき、このアーツ+30。"
@@ -13150,11 +13049,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Yellow": 1,
-          "Neutral": 1,
-          "Red": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "GUILTY or INNOCENT",
         "Text": "自分のライフが3以下なら、このホロメンのエール1枚につき、自分のエールデッキの上から1枚を自分の黄ホロメン1人に送れる。"
@@ -13179,11 +13077,10 @@
         "Damage": 70,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Yellow": 1,
-          "Blue": 1
+          "Yellow": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "奇妙な来客",
         "Text": "このターンに自分の推しスキル「神秘の儀式」を使っていたなら、自分のアーカイブの〈アーニャ・メルフィッサ〉1～3枚を手札に戻せる。"
@@ -13399,11 +13296,10 @@
         "Damage": 90,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Neutral": 2,
-          "Purple": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "センキューオーバーシープ！",
         "Text": "このホロメンに付いている〈わためいと〉1枚につき、このアーツ+50。"
@@ -13429,11 +13325,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "White": 2,
-          "Neutral": 1,
-          "Red": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "脳天直撃わためハンマー！",
         "Text": "[センターポジション限定]このアーツで相手のホロメンをダウンさせた時、与えたダメージが残りHPをオーバーしていたなら、相手の2ndホロメン1人に、オーバーしたダメージと同じ数値の特殊ダメージを与える。"
@@ -13599,11 +13494,10 @@
         "Damage": 100,
         "TextBoostsDamage": false,
         "UseCost": {
-          "White": 2,
-          "Red": 1
+          "White": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "もっとパフォーマンスしたい！",
         "Text": ""
@@ -13629,11 +13523,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "White": 2,
-          "Neutral": 2,
-          "Purple": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "最高のシークレットエージェント",
         "Text": "自分のステージに#ID3期生を持つBuzzホロメンがいるなら、このアーツ+40。"
@@ -13658,11 +13551,10 @@
         "Damage": 50,
         "TextBoostsDamage": false,
         "UseCost": {
-          "White": 1,
-          "Purple": 1
+          "White": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "元気もりもりさんでーまっする",
         "Text": "自分の#3期生を持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツに必要な無色-1。そのホロメンが2ndホロメンの〈白銀ノエル〉なら、かわりに、そのアーツに必要な無色-2。"
@@ -13828,11 +13720,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Green": 1,
-          "Neutral": 1,
-          "Blue": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "天まで届け、みんなの願い",
         "Text": "自分のデッキの上から1枚をアーカイブできる。アーカイブしたカードがサポートカードなら、このアーツ+50。"
@@ -13857,11 +13748,10 @@
         "Damage": 130,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Neutral": 3,
-          "Yellow": 1
+          "Neutral": 3
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Upright Leading",
         "Text": "自分のデッキの上から1枚をアーカイブできる。アーカイブしたカードがホロメンなら、自分のエールデッキの上から1枚を自分のホロメンに送る。サポートカードなら、このアーツ+50。"
@@ -13886,11 +13776,10 @@
         "Damage": 100,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Green": 2,
-          "Yellow": 1
+          "Green": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "たくさんの宝物",
         "Text": "このホロメンのエール2枚をアーカイブできる：自分のデッキを2枚引く。"
@@ -14030,11 +13919,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Green": 2,
-          "Neutral": 2,
-          "Blue": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "サージングエキゾースト",
         "Text": "このホロメンのエールを数えて、そのすべてを好きな順でエールデッキの下に戻す。その後、自分の手札がこの能力で戻したエールの枚数と同じになるまで、自分のデッキを引く。"
@@ -14201,11 +14089,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Red": 1,
-          "Neutral": 1,
-          "Green": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "万物に愛されちゃま計画",
         "Text": "自分のステージのエールすべてが赤エールなら、このアーツ+20。"
@@ -14225,11 +14112,10 @@
         "Damage": 80,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Red": 2,
-          "Purple": 1
+          "Red": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "純心タランテラ",
         "Text": "相手のセンターホロメンとコラボホロメンに特殊ダメージ40を与える。"
@@ -14239,11 +14125,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Red": 1,
-          "Neutral": 2,
-          "Purple": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "幸せへの旅路",
         "Text": "このターンに自分のホロメンがステージからデッキに戻っていたなら、このアーツ+50。"
@@ -14269,11 +14154,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Red": 3,
-          "Neutral": 1,
-          "Purple": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "桜は花に顕る",
         "Text": "このホロメンに付いている〈35P〉1枚につき、このアーツ+70し、自分のデッキを1枚引く。"
@@ -14298,11 +14182,10 @@
         "Damage": 120,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Red": 2,
-          "Purple": 1
+          "Red": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "スタッフファーストです！",
         "Text": "自分のデッキの上から2枚をアーカイブする。その後、自分のアーカイブのスタッフ1枚を手札に戻せる。"
@@ -14442,11 +14325,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Red": 1,
-          "Neutral": 2,
-          "Yellow": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "不撓のコンチェルタート",
         "Text": "自分のライフが4以下なら、このアーツ+30。自分のライフが2以下なら、かわりに、このアーツ+60。"
@@ -14608,11 +14490,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 1,
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "Life Goes On",
         "Text": ""
@@ -14638,11 +14519,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Blue": 2,
-          "Neutral": 2,
-          "Red": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "You're not ready for me.",
         "Text": "このホロメンのエール1枚を自分の他の#Promiseを持つホロメンに付け替えられる。その後、自分の推しホロメンが〈オーロ・クロニー〉なら、このアーツ+100。"
@@ -14668,11 +14548,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 2,
-          "Neutral": 1,
-          "Red": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "おりゃー！！油断したでしょ～",
         "Text": "自分の推しホロメンが〈猫又おかゆ〉で、相手のHPが100以上減っているバックホロメンがいるなら、相手のホロメン1人に特殊ダメージ50を与える。"
@@ -14817,11 +14696,10 @@
         "Damage": 60,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Blue": 1,
-          "Red": 1
+          "Blue": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "解き放たれた禁断の知識",
         "Text": "自分のアーカイブのエール1枚を自分の#Adventを持つホロメンに送る。その後、自分の推しホロメンが〈シオリ・ノヴェラ〉で、このホロメンにエールが4枚以上付いているなら、このアーツ+100。"
@@ -14990,11 +14868,10 @@
         "Damage": 100,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Neutral": 2,
-          "Yellow": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ホワイトデーのお返し、待ってるね",
         "Text": ""
@@ -15015,11 +14892,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 2,
-          "Green": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "君と新たな開拓の地へ",
         "Text": "自分のデッキを2枚引く。"
@@ -15029,11 +14905,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Purple": 3,
-          "Neutral": 1,
-          "Green": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "紡いだ軌跡 すべてに捧ぐ歌",
         "Text": "自分の推しホロメンが〈AZKi〉なら、自分のホロパワーの上から4枚をアーカイブできる：自分のアーカイブに〈フロンティアスピリット〉が4枚あるなら、相手のライフ-1。"
@@ -15172,11 +15047,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 2,
-          "Green": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "吾輩の歌を聴けえええええええ！！！！",
         "Text": "自分のセンターホロメンの色が紫なら、このアーツ+40。"
@@ -15201,11 +15075,10 @@
         "Damage": 70,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Purple": 1,
-          "Blue": 1
+          "Purple": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "CODE:81800",
         "Text": "このホロメンにエールが3枚以上付いているなら、お互いのアーカイブのエール1枚につき、このアーツ+10。"
@@ -15399,11 +15272,10 @@
         "Damage": 50,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Neutral": 1,
-          "Blue": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "アチョ～～～！",
         "Text": ""
@@ -15429,11 +15301,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Yellow": 1,
-          "Neutral": 2,
-          "Red": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "オーバーチアリーディング",
         "Text": "相手の[センターホロメンかコラボホロメン]のエール1枚をエールデッキの下に戻す。"
@@ -15459,11 +15330,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Yellow": 1,
-          "Neutral": 1,
-          "Blue": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "やっぱり、FPSとか？",
         "Text": "自分のアーカイブのエール1枚を自分のホロメンに送る。"
@@ -15517,11 +15387,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Yellow": 2,
-          "Neutral": 1,
-          "Blue": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "追撃のライオット",
         "Text": "このアーツの対象が、相手のHPが減っているホロメンなら、このアーツ+30。"
@@ -15631,11 +15500,10 @@
         "Damage": 80,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Yellow": 2,
-          "White": 1
+          "Yellow": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ぶち上げる気合いだ！",
         "Text": "このホロメンのエール1枚につき、このアーツ+20。"
@@ -15911,11 +15779,10 @@
         "Damage": 60,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Green": 1,
-          "Blue": 1
+          "Green": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "SorAZ グラビティ",
         "Text": "自分のステージにホロメンの〈ときのそら〉がいる時、自分のエールデッキの上から１枚を、自分のホロメンに送る。"
@@ -15925,11 +15792,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Green": 2,
-          "Neutral": 1,
-          "Blue": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "デスティニーソング",
         "Text": "サイコロを１回振れる：奇数の時、このアーツ+50。１の時、さらに、このアーツ+50。"
@@ -16260,11 +16126,10 @@
         "Damage": 60,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Red": 1,
-          "Yellow": 1
+          "Red": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "あやふぶみの「あや」担当",
         "Text": ""
@@ -16274,11 +16139,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Red": 2,
-          "Neutral": 1,
-          "Yellow": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "余ーだ余",
         "Text": "自分の手札1～3枚をアーカイブできる：相手のセンターホロメンに、アーカイブしたカード1枚につき、特殊ダメージ40を与える。"
@@ -16563,11 +16427,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 1,
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "MOGMOG",
         "Text": ""
@@ -16577,11 +16440,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 2,
-          "Neutral": 2,
-          "White": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "おかゆ～",
         "Text": "このホロメンの青エール2枚をアーカイブできる：相手のセンターホロメンとバックホロメン1人に特殊ダメージ30を与える。"
@@ -16870,11 +16732,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 1,
-          "Green": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "33… 22… 11…",
         "Text": ""
@@ -16884,11 +16745,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Purple": 2,
-          "Neutral": 1,
-          "Green": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "あくとっ",
         "Text": "このターンに自分が使っていたイベント1枚につき、このアーツ+40。"
@@ -17167,11 +17027,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "White": 2,
-          "Neutral": 1,
-          "Purple": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "滅紫の雷",
         "Text": "自分のステージに〈轟はじめ〉以外の#ReGLOSSを持つホロメンがいる時、このアーツ+30。"
@@ -17436,11 +17295,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Green": 1,
-          "Neutral": 2,
-          "Blue": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "天才では？",
         "Text": "自分のステージにエールが5枚以上ある時、このアーツ+50。"
@@ -17743,11 +17601,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Yellow": 1,
-          "Neutral": 2,
-          "Red": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "情熱ステージ",
         "Text": "自分のライフが3以下の時、このアーツ+70。"
@@ -17913,11 +17770,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "White": 1,
-          "Neutral": 2,
-          "Green": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "みんなのスパダリ",
         "Text": "自分のステージの#サマーを持つホロメン1人につき、このアーツ+10。"
@@ -17943,11 +17799,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "White": 2,
-          "Neutral": 1,
-          "Red": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "きみの背中に追いつけるように",
         "Text": "[ターンに1回]このアーツで相手のセンターホロメンをダウンさせた時、相手の2ndホロメン1人に特殊ダメージ40を与える。"
@@ -18108,11 +17963,10 @@
         "Damage": 60,
         "TextBoostsDamage": false,
         "UseCost": {
-          "Red": 1,
-          "Yellow": 1
+          "Red": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "3期生の絆",
         "Text": "自分のステージに〈宝鐘マリン〉以外の#3期生を持つホロメンがいるなら、自分のデッキを1枚引く。"
@@ -18122,11 +17976,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Red": 2,
-          "Neutral": 1,
-          "Yellow": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "キミたちと水平線の向こう側へ",
         "Text": "相手のセンターホロメンとコラボホロメンに、自分のステージの異なるカード名の#3期生を持つホロメン1人につき、特殊ダメージ10を与える。"
@@ -18347,11 +18200,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Green": 1,
-          "Neutral": 1,
-          "White": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "鼓動の操縦者",
         "Text": "このターンに自分のホロメンがBloomしていたなら、このアーツ+50。"
@@ -18361,11 +18213,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Green": 1,
-          "Neutral": 2,
-          "White": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "アクセラビートブレイズ",
         "Text": "このアーツで相手のセンターホロメンをダウンさせた時、与えたダメージが残りHPをオーバーしていたなら、オーバーしたダメージ30につき、自分のエールデッキの上から1枚を自分のバックホロメン1人に送る。"
@@ -18442,11 +18293,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 1,
-          "Blue": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "ヴィジランスヴィーナス",
         "Text": "相手の手札1枚につき、このアーツ+10。"
@@ -18614,11 +18464,10 @@
         "Damage": 40,
         "TextBoostsDamage": true,
         "UseCost": {
-          "Yellow": 1,
-          "Red": 1
+          "Yellow": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "虎嘯風生",
         "Text": "このホロメンのエールを好きな枚数アーカイブできる：アーカイブしたエール1枚につき、このアーツ+40。"
@@ -18695,11 +18544,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 1,
-          "Neutral": 1,
-          "Purple": 1
+          "Neutral": 1
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "スゥイートオブセッション",
         "Text": "このアーツの対象のホロメンに、そのホロメンのバトンタッチに必要な無色1つにつき、特殊ダメージ10を与える。"
@@ -18845,11 +18693,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Blue": 1,
-          "Neutral": 2,
-          "White": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "私達を見くびらないで貰える？",
         "Text": "相手のDebut以外のホロメン1人に、自分のステージの#Adventを持つホロメン1人につき、特殊ダメージ10を与える。"
@@ -18967,11 +18814,10 @@
         "TextBoostsDamage": false,
         "UseCost": {
           "Purple": 1,
-          "Neutral": 3,
-          "Yellow": 1
+          "Neutral": 3
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "キラキラぜーんぶ受け止めて！",
         "Text": "お互いのアーカイブのエール1色につき、このアーツに必要な無色-1。"
@@ -19193,11 +19039,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Red": 1,
-          "Neutral": 2,
-          "Purple": 1
+          "Neutral": 2
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "悪斬りのカデンツァ",
         "Text": "このホロメンのエール1枚につき、このアーツ+20。このアーツで相手のホロメンをダウンさせた時、自分のエールデッキの上から1枚をこのホロメンに送る。"
@@ -19373,11 +19218,10 @@
         "TextBoostsDamage": true,
         "UseCost": {
           "Yellow": 1,
-          "Neutral": 3,
-          "White": 1
+          "Neutral": 3
         },
-        "CriticalColor": null,
-        "CriticalAmount": null,
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
         "Type": "Arts",
         "Name": "殻破りのライオット",
         "Text": "このホロメンに重なっているホロメンが0枚なら、このアーツ+90。"

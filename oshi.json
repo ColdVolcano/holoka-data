@@ -1320,6 +1320,26 @@
     ]
   },
   {
+    "Name": "夏色まつり",
+    "Code": "hBD24-067",
+    "Color": 32,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": 2,
+        "Type": "OshiSkill",
+        "Name": "イエローエンハンス",
+        "Text": "[ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。"
+      },
+      {
+        "Cost": 2,
+        "Type": "SpOshiSkill",
+        "Name": "Birthday Gift ～Yellow～",
+        "Text": "[ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。"
+      }
+    ]
+  },
+  {
     "Name": "天音かなた",
     "Code": "hBP01-001",
     "Color": 1,

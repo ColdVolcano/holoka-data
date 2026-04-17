@@ -1334,5 +1334,46 @@
     "Type": "Mascot",
     "Tags": null,
     "Limited": false
+  },
+  {
+    "Name": "holoAN",
+    "Code": "hSD14-010",
+    "Type": "Staff",
+    "Tags": null,
+    "Limited": true
+  },
+  {
+    "Name": "ありよりのアリゲーター",
+    "Code": "hSD14-011",
+    "Type": "Mascot",
+    "Tags": [
+      "#白上'sキャラクター"
+    ],
+    "Limited": false
+  },
+  {
+    "Name": "まつたけダンス",
+    "Code": "hSD15-010",
+    "Type": "Event",
+    "Tags": [
+      "#きのこ"
+    ],
+    "Limited": false
+  },
+  {
+    "Name": "ステラ",
+    "Code": "hSD17-010",
+    "Type": "Event",
+    "Tags": null,
+    "Limited": false
+  },
+  {
+    "Name": "ごきげんカレー",
+    "Code": "hSD19-010",
+    "Type": "Event",
+    "Tags": [
+      "#食べ物"
+    ],
+    "Limited": false
   }
 ]

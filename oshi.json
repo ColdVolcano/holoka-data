@@ -2430,6 +2430,114 @@
     ]
   },
   {
+    "Name": "白上フブキ",
+    "Code": "hSD14-001",
+    "Color": 1,
+    "Life": 4,
+    "Skills": [
+      {
+        "Cost": 2,
+        "Type": "OshiSkill",
+        "Name": "みんな一緒にいくぞぉおっ"
+      },
+      {
+        "Cost": 2,
+        "Type": "SpOshiSkill",
+        "Name": "マスコッツ、アッセンブル!!"
+      }
+    ]
+  },
+  {
+    "Name": "儒烏風亭らでん",
+    "Code": "hSD15-001",
+    "Color": 2,
+    "Life": 4,
+    "Skills": [
+      {
+        "Cost": 2,
+        "Type": "OshiSkill",
+        "Name": "ちょっとまつたけ～♪"
+      },
+      {
+        "Cost": 2,
+        "Type": "SpOshiSkill",
+        "Name": "あなたの世界を広げに行こう"
+      }
+    ]
+  },
+  {
+    "Name": "さくらみこ",
+    "Code": "hSD16-001",
+    "Color": 4,
+    "Life": 4,
+    "Skills": [
+      {
+        "Cost": 2,
+        "Type": "OshiSkill",
+        "Name": "35Pこっちこっちー"
+      },
+      {
+        "Cost": 2,
+        "Type": "SpOshiSkill",
+        "Name": "35Pいくぞー！"
+      }
+    ]
+  },
+  {
+    "Name": "星街すいせい",
+    "Code": "hSD17-001",
+    "Color": 8,
+    "Life": 4,
+    "Skills": [
+      {
+        "Cost": 3,
+        "Type": "OshiSkill",
+        "Name": "張り切ってがんばろーー!!!"
+      },
+      {
+        "Cost": 2,
+        "Type": "SpOshiSkill",
+        "Name": "流れ星"
+      }
+    ]
+  },
+  {
+    "Name": "森カリオペ",
+    "Code": "hSD18-001",
+    "Color": 16,
+    "Life": 4,
+    "Skills": [
+      {
+        "Cost": 2,
+        "Type": "OshiSkill",
+        "Name": "ライミング"
+      },
+      {
+        "Cost": 2,
+        "Type": "SpOshiSkill",
+        "Name": "世界を繋げるラップ"
+      }
+    ]
+  },
+  {
+    "Name": "大空スバル",
+    "Code": "hSD19-001",
+    "Color": 32,
+    "Life": 4,
+    "Skills": [
+      {
+        "Cost": 3,
+        "Type": "OshiSkill",
+        "Name": "ごめんｹﾄﾞ"
+      },
+      {
+        "Cost": 2,
+        "Type": "SpOshiSkill",
+        "Name": "おさんぽスバル"
+      }
+    ]
+  },
+  {
     "Name": "七詩ムメイ",
     "Code": "hYS01-001",
     "Color": 1,

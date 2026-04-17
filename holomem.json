@@ -18065,5 +18065,1245 @@
       }
     ],
     "BatonPassCost": 1
+  },
+  {
+    "Name": "白上フブキ",
+    "Code": "hSD14-002",
+    "Color": 1,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 80,
+    "Effects": [
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "はじまんぼう！"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "白上フブキ",
+    "Code": "hSD14-003",
+    "Color": 1,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 70,
+    "Effects": [
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "White": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "今日もあなたのそばに -フブキ-"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "白上フブキ",
+    "Code": "hSD14-004",
+    "Color": 1,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 90,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "白上のとこにおいでー"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "ハイ\u3000フレンズ！"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "白上フブキ",
+    "Code": "hSD14-005",
+    "Color": 1,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 100,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "いっちにー、さんしー"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "いつでもいけるよ！"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "白上フブキ",
+    "Code": "hSD14-006",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "ようやくキミに会えた！！！"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "White": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "キラキラなきーつね！"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "白上フブキ",
+    "Code": "hSD14-007",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "BloomEffect",
+        "Name": "Message for You -フブキ-"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "あーまいーこのきーもちー"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "白上フブキ",
+    "Code": "hSD14-008",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "大丈夫ですよ！"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "一緒に行こう(??????)??"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "白上フブキ",
+    "Code": "hSD14-009",
+    "Color": 1,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "Gift",
+        "Name": "私は倒れちゃいけないな"
+      },
+      {
+        "Damage": 90,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "White": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 30,
+        "Type": "Arts",
+        "Name": "胸を張って歌い続けるよ"
+      }
+    ],
+    "BatonPassCost": 2
+  },
+  {
+    "Name": "儒烏風亭らでん",
+    "Code": "hSD15-002",
+    "Color": 2,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 80,
+    "Effects": [
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "寄ってらっしゃい見てらっしゃい"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "儒烏風亭らでん",
+    "Code": "hSD15-003",
+    "Color": 2,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 70,
+    "Effects": [
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Green": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "今日もあなたのそばに -らでん-"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "儒烏風亭らでん",
+    "Code": "hSD15-004",
+    "Color": 2,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 90,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "一服朝っぱらでん"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "散歩でもいかがですかな？"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "儒烏風亭らでん",
+    "Code": "hSD15-005",
+    "Color": 2,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 100,
+    "Effects": [
+      {
+        "Type": "Gift",
+        "Name": "体力作り頑張るぞー！！！！！"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "そろそろ始めちゃいますか"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "儒烏風亭らでん",
+    "Code": "hSD15-006",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Damage": 40,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "世界を彩る -らでん-"
+      },
+      {
+        "Damage": 60,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "ちょいと一席付き合ってみませんか？"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "儒烏風亭らでん",
+    "Code": "hSD15-007",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "旅の前日"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "この博物館おもしろそう！"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "儒烏風亭らでん",
+    "Code": "hSD15-008",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "Gift",
+        "Name": "薄明"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "きのこ狩り"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "儒烏風亭らでん",
+    "Code": "hSD15-009",
+    "Color": 2,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "BloomEffect",
+        "Name": "ザ・破天荒"
+      },
+      {
+        "Damage": 90,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": 8,
+        "CriticalAmount": 30,
+        "Type": "Arts",
+        "Name": "伝統と革新をあなたに"
+      }
+    ],
+    "BatonPassCost": 2
+  },
+  {
+    "Name": "さくらみこ",
+    "Code": "hSD16-002",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 80,
+    "Effects": [
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "さくらみこだよ～"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "さくらみこ",
+    "Code": "hSD16-003",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 70,
+    "Effects": [
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Red": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "エリート巫女アイドル！ さくらみこだよ～"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "さくらみこ",
+    "Code": "hSD16-004",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 80,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "後攻なんですｹｰﾄﾞ"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "でゃまれ！"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "さくらみこ",
+    "Code": "hSD16-005",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 100,
+    "Effects": [
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "桜風ランニング"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "さくらみこ",
+    "Code": "hSD16-006",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "みんなみててにぇ"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Red": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "いっくぞぉおおおお"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "さくらみこ",
+    "Code": "hSD16-007",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "Gift",
+        "Name": "みこの膝にごろーんってして"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "みこの耳かきスキルに蕩けちゃえ"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "さくらみこ",
+    "Code": "hSD16-008",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "待ってたにぇ"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "いっぱい遊ぼっ"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "さくらみこ",
+    "Code": "hSD16-009",
+    "Color": 4,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "BloomEffect",
+        "Name": "35P、ありがとうだよー！"
+      },
+      {
+        "Damage": 100,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Red": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": 32,
+        "CriticalAmount": 30,
+        "Type": "Arts",
+        "Name": "この瞬間を見せてあげたいなって"
+      }
+    ],
+    "BatonPassCost": 2
+  },
+  {
+    "Name": "星街すいせい",
+    "Code": "hSD17-002",
+    "Color": 8,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 80,
+    "Effects": [
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "バーチャルアイドル・星街すいせい"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "星街すいせい",
+    "Code": "hSD17-003",
+    "Color": 8,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 70,
+    "Effects": [
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "今日もあなたのそばに -すいせい-"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "星街すいせい",
+    "Code": "hSD17-004",
+    "Color": 8,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 80,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "ファーストスター"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "私だけの輝き"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "星街すいせい",
+    "Code": "hSD17-005",
+    "Color": 8,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 100,
+    "Effects": [
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "よーし、レッスン開始だー！"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "星街すいせい",
+    "Code": "hSD17-006",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "そろそろ始まるよ！"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "みんな準備はできてる？"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "星街すいせい",
+    "Code": "hSD17-007",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "BloomEffect",
+        "Name": "Message for You -すいせい-"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "バレンタイン……か……"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "星街すいせい",
+    "Code": "hSD17-008",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "Gift",
+        "Name": "明日への歌"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "あなたの一番星"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "星街すいせい",
+    "Code": "hSD17-009",
+    "Color": 8,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "踊ったもん勝ち！"
+      },
+      {
+        "Damage": 110,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 2,
+          "Neutral": 1
+        },
+        "CriticalColor": 16,
+        "CriticalAmount": 30,
+        "Type": "Arts",
+        "Name": "キラキラの向こう側へ"
+      }
+    ],
+    "BatonPassCost": 2
+  },
+  {
+    "Name": "森カリオペ",
+    "Code": "hSD18-002",
+    "Color": 16,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 80,
+    "Effects": [
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "Nice to reap you"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "森カリオペ",
+    "Code": "hSD18-003",
+    "Color": 16,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 70,
+    "Effects": [
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Purple": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "今日もあなたのそばに -カリオペ-"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "森カリオペ",
+    "Code": "hSD18-004",
+    "Color": 16,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 90,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "みーなさんっ"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "あたためて貰えますか…？"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "森カリオペ",
+    "Code": "hSD18-005",
+    "Color": 16,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 100,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "死神式ストレッチ"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "一緒に、どう？"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "森カリオペ",
+    "Code": "hSD18-006",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "これから、頑張る。"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Purple": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "負けない。諦めない。"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "森カリオペ",
+    "Code": "hSD18-007",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "Gift",
+        "Name": "ちょっとした特別なプレゼント"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "手伝ってもらって助かるよ"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "森カリオペ",
+    "Code": "hSD18-008",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "BloomEffect",
+        "Name": "ロックンロールリッパー"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Purple": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "OK、もう一曲行こう！"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "森カリオペ",
+    "Code": "hSD18-009",
+    "Color": 16,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "ペイルライダー"
+      },
+      {
+        "Damage": 90,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Purple": 2
+        },
+        "CriticalColor": 2,
+        "CriticalAmount": 30,
+        "Type": "Arts",
+        "Name": "刻むぞ冥界のビート"
+      }
+    ],
+    "BatonPassCost": 2
+  },
+  {
+    "Name": "大空スバル",
+    "Code": "hSD19-002",
+    "Color": 32,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 90,
+    "Effects": [
+      {
+        "Damage": 10,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "あじまるあじまる～"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "大空スバル",
+    "Code": "hSD19-003",
+    "Color": 32,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 80,
+    "Effects": [
+      {
+        "Damage": 20,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Yellow": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "今日もあなたのそばに -スバル-"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "大空スバル",
+    "Code": "hSD19-004",
+    "Color": 32,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 100,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "大空スマイル"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "しゅばぁ"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "大空スバル",
+    "Code": "hSD19-005",
+    "Color": 32,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 100,
+    "Effects": [
+      {
+        "Type": "Gift",
+        "Name": "ダンスレッスンなんですｹｰﾄﾞ"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "いっちにー、ホワッ、ホワッ！"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "大空スバル",
+    "Code": "hSD19-006",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "いっぱい頑張る！"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Yellow": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "いっぱい楽しむ！"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "大空スバル",
+    "Code": "hSD19-007",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "BloomEffect",
+        "Name": "青春エール"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "忘れてなんかやるもんか"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "大空スバル",
+    "Code": "hSD19-008",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Damage": 20,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "萌え萌えギュン"
+      }
+    ],
+    "BatonPassCost": 1
+  },
+  {
+    "Name": "大空スバル",
+    "Code": "hSD19-009",
+    "Color": 32,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 180,
+    "Effects": [
+      {
+        "Damage": 80,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Yellow": 2
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 30,
+        "Type": "Arts",
+        "Name": "ダンシング・プレアデス"
+      }
+    ],
+    "BatonPassCost": 2
   }
 ]

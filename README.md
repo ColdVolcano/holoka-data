@@ -4,7 +4,8 @@
 
 **Only JP format text is stored in the files.**
 
-Text and ability name data may be removed once a localization storage format is designed.
+Ability name data may be removed once a localization storage format is designed.
+Card name data may be reworked to be a key instead of the full name to include cards with several names (e.g. duos, Aki Rosenthal's Axe)
 
 ---
 
@@ -30,7 +31,6 @@ Effects can be of different types. If the type is `Arts`, additional fields are 
 | Field              | Type    | Description                                                                                                               |
 |:-------------------|:--------|:--------------------------------------------------------------------------------------------------------------------------|
 | `Name`             | String  | The name of the effect/arts.                                                                                              |
-| `Text`             | String  | The effect/arts text.                                                                                                     |
 | `Type`             | String  | The type of effect. See [HolomemEffectType](#holomemeffecttype) for values.                                               |
 | `Damage`           | Integer | (Arts only) The base damage value. Does not include `+` suffix if text can boost this value.                              |
 | `TextBoostsDamage` | Boolean | (Arts only) Whether the effect text provides a conditional damage boost.                                                  |
@@ -55,7 +55,6 @@ An array of objects representing Oshi holomem cards.
 | Field  | Type    | Description                                                        |
 |:-------|:--------|:-------------------------------------------------------------------|
 | `Name` | String  | The name of the skill.                                             |
-| `Text` | String  | The effect description.                                            |
 | `Cost` | Number? | The Holopower cost (null if cost is variable i.e. Lui Oshi Skill). |
 | `Type` | String  | The type of skill. See [OshiSkillType](#oshiskilltype).            |
 
@@ -69,7 +68,6 @@ An array of objects representing various support cards.
 | `Name`    | String  | The name of the card.                                 |
 | `Code`    | String  | The card's code.                                      |
 | `Type`    | String  | The support subtype. See [SupportType](#supporttype). |
-| `Text`    | String  | The card's effect text.                               |
 | `Tags`    | Array?  | Optional list of string tags. Null if none            |
 | `Limited` | Boolean | Whether the card has a "LIMITED" restriction.         |
 

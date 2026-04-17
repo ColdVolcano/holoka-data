@@ -515,7 +515,7 @@
         "CriticalColor": null,
         "CriticalAmount": null,
         "Type": "Arts",
-        "Name": "アクセスコード：ID",
+        "Name": "アクセスコード:ID",
         "Text": "自分のセンターホロメンが#IDを持つ時、このアーツ+50。"
       }
     ],
@@ -3994,7 +3994,7 @@
         "CriticalColor": null,
         "CriticalAmount": null,
         "Type": "Arts",
-        "Name": "Cash-Money",
+        "Name": "\"Cash-Money\"",
         "Text": ""
       }
     ],

@@ -3,203 +3,174 @@
     "Name": "アイドルマイク",
     "Code": "hBP01-102",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ゲーミングパソコン",
     "Code": "hBP01-103",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ふつうのパソコン",
     "Code": "hBP01-104",
     "Type": "Item",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ペンライト",
     "Code": "hBP01-105",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "あとは任せた！",
     "Code": "hBP01-106",
     "Type": "Event",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "アンコール",
     "Code": "hBP01-107",
     "Type": "Event",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "じゃあ敵だね",
     "Code": "hBP01-108",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "月と兎の物語",
     "Code": "hBP01-109",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "鈍器でぶっ叩くわよ！",
     "Code": "hBP01-110",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ホロライブインドネシア3期生",
     "Code": "hBP01-111",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "わくわくいたずらタイム",
     "Code": "hBP01-112",
     "Type": "Event",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "Promise",
     "Code": "hBP01-113",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "石の斧",
     "Code": "hBP01-114",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "星街すいせいのマイク",
     "Code": "hBP01-115",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "うぱお",
     "Code": "hBP01-116",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "フレンド",
     "Code": "hBP01-117",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "あん肝",
     "Code": "hBP01-118",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ジョブズ",
     "Code": "hBP01-119",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "がんも",
     "Code": "hBP01-120",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "Kotori",
     "Code": "hBP01-121",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ロゼ隊",
     "Code": "hBP01-122",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "野うさぎ同盟",
     "Code": "hBP01-123",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "開拓者",
     "Code": "hBP01-124",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "KFP",
     "Code": "hBP01-125",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "座員",
     "Code": "hBP01-126",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "アイドルサインペン",
     "Code": "hBP02-075",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "カスタムパソコン",
     "Code": "hBP02-076",
     "Type": "Item",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "レトロパソコン",
     "Code": "hBP02-077",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "かなた建設",
     "Code": "hBP02-078",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
@@ -215,21 +186,18 @@
     "Name": "秘密結社holoX",
     "Code": "hBP02-080",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ホロライブ インドネシア2期生",
     "Code": "hBP02-081",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ホロライブゲーマーズ",
     "Code": "hBP02-082",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
@@ -245,21 +213,18 @@
     "Name": "みっころね24",
     "Code": "hBP02-084",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "HOLOLIVE FANTASY",
     "Code": "hBP02-085",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ホロスパークリング",
     "Code": "hBP02-086",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
@@ -275,7 +240,6 @@
     "Name": "森カリオペの鎌",
     "Code": "hBP02-088",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
@@ -327,35 +291,30 @@
     "Name": "Tatang",
     "Code": "hBP02-094",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ドクロくん",
     "Code": "hBP02-095",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "イヌ",
     "Code": "hBP02-096",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "UDIN",
     "Code": "hBP02-097",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "Death-sensei",
     "Code": "hBP02-098",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
@@ -371,189 +330,162 @@
     "Name": "白銀聖騎士団",
     "Code": "hBP02-100",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ミオファ",
     "Code": "hBP02-101",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "塩っ子",
     "Code": "hBP02-102",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ゴージャスパソコン",
     "Code": "hBP03-084",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "スーパーパソコン",
     "Code": "hBP03-085",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "デュアルモニターパソコン",
     "Code": "hBP03-086",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "コールアンドレスポンス",
     "Code": "hBP03-087",
     "Type": "Event",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "凸待ち",
     "Code": "hBP03-088",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ファンミーティング",
     "Code": "hBP03-089",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ホロライブ言えるかな？",
     "Code": "hBP03-090",
     "Type": "Event",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ホロライブインドネシア1期生",
     "Code": "hBP03-091",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ホロライブ0期生",
     "Code": "hBP03-092",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ホロライブ4期生",
     "Code": "hBP03-093",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "FPS配信",
     "Code": "hBP03-094",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ホロキャップ",
     "Code": "hBP03-095",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ライフル",
     "Code": "hBP03-096",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "リコーダー",
     "Code": "hBP03-097",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "金時",
     "Code": "hBP03-098",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "マグチ",
     "Code": "hBP03-099",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ペロ",
     "Code": "hBP03-100",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ビビ",
     "Code": "hBP03-101",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "フトイヌ",
     "Code": "hBP03-102",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ホソイヌ",
     "Code": "hBP03-103",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "Riscot",
     "Code": "hBP03-104",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ルーナイト",
     "Code": "hBP03-105",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "SSRB",
     "Code": "hBP03-106",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "35P",
     "Code": "hBP03-107",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
@@ -569,49 +501,42 @@
     "Name": "Ruffians",
     "Code": "hBP03-109",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ろぼさー",
     "Code": "hBP03-110",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ころねすきー",
     "Code": "hBP03-111",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "わためいと",
     "Code": "hBP03-112",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "Risuners",
     "Code": "hBP03-113",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ツートンカラーパソコン",
     "Code": "hBP04-089",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "作業用パソコン",
     "Code": "hBP04-090",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
@@ -627,14 +552,12 @@
     "Name": "ねぽらぼ",
     "Code": "hBP04-092",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ホロライブ2期生",
     "Code": "hBP04-093",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
@@ -650,14 +573,12 @@
     "Name": "マスコットキャッチャー",
     "Code": "hBP04-095",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "Advent",
     "Code": "hBP04-096",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
@@ -682,7 +603,6 @@
     "Name": "古代武器",
     "Code": "hBP04-099",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
@@ -698,28 +618,24 @@
     "Name": "だいふく",
     "Code": "hBP04-101",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "やめなー",
     "Code": "hBP04-102",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "カラス",
     "Code": "hBP04-103",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "スバルドダック",
     "Code": "hBP04-104",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
@@ -735,14 +651,12 @@
     "Name": "雪民",
     "Code": "hBP04-106",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "フレンドリーパソコン",
     "Code": "hBP05-074",
     "Type": "Item",
-    "Tags": null,
     "Limited": false
   },
   {
@@ -767,91 +681,78 @@
     "Name": "バカタレサーカス",
     "Code": "hBP05-077",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "晩酌配信",
     "Code": "hBP05-078",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "み俺恥",
     "Code": "hBP05-079",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "SorAZセレブレーション",
     "Code": "hBP05-080",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "白銀ノエルのメイス",
     "Code": "hBP05-081",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "アキ・ローゼンタールの斧",
     "Code": "hBP05-082",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ネリッサ・レイヴンクロフトの杖",
     "Code": "hBP05-083",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "角巻わためのハープ",
     "Code": "hBP05-084",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "みこだにぇー",
     "Code": "hBP05-085",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "Cilus",
     "Code": "hBP05-086",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "Jailbird",
     "Code": "hBP05-087",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "フェイバリットパソコン",
     "Code": "hBP06-085",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "愛情いっぱい召し上がれ♪",
     "Code": "hBP06-086",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
@@ -867,63 +768,54 @@
     "Name": "ドッキリうさぎ",
     "Code": "hBP06-088",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ドローイングストリーム",
     "Code": "hBP06-089",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ブルームステージ",
     "Code": "hBP06-090",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ホロライブ1期生",
     "Code": "hBP06-091",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "マヨネーズちゅっちゅっ",
     "Code": "hBP06-092",
     "Type": "Event",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "山田ルイ54世",
     "Code": "hBP06-093",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ワークアウト",
     "Code": "hBP06-094",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "IDENTIFY -AREA 15-",
     "Code": "hBP06-095",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "2人あわせてラムダック！",
     "Code": "hBP06-096",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
@@ -939,119 +831,102 @@
     "Name": "鬼神刀「阿修羅」",
     "Code": "hBP06-098",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ゆび",
     "Code": "hBP06-099",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "Chattino",
     "Code": "hBP06-100",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ムーナびと",
     "Code": "hBP06-101",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "えびふらいおん",
     "Code": "hBP06-102",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "まつりす",
     "Code": "hBP06-103",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "スバ友",
     "Code": "hBP06-104",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ライブスタッフ",
     "Code": "hBP07-091",
     "Type": "Staff",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "アーカイブパソコン",
     "Code": "hBP07-092",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "うまみー！",
     "Code": "hBP07-093",
     "Type": "Event",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ギリわるロボ",
     "Code": "hBP07-094",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "クロスインパクト",
     "Code": "hBP07-095",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ちゃま旅",
     "Code": "hBP07-096",
     "Type": "Event",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "時の支配者 -Promise-",
     "Code": "hBP07-097",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ビッグゴッドミオーンの占い",
     "Code": "hBP07-098",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ブヒー！",
     "Code": "hBP07-099",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "フロンティアスピリット",
     "Code": "hBP07-100",
     "Type": "Event",
-    "Tags": null,
     "Limited": false
   },
   {
@@ -1067,28 +942,24 @@
     "Name": "角巻わためのハンマー",
     "Code": "hBP07-102",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ギラファノコギリクワガタ",
     "Code": "hBP07-103",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "Thorn",
     "Code": "hBP07-104",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "BAZO",
     "Code": "hBP07-105",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
@@ -1104,91 +975,78 @@
     "Name": "Boros",
     "Code": "hBP07-107",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "Zecretary",
     "Code": "hBP07-108",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "Kronies",
     "Code": "hBP07-109",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ねっ子",
     "Code": "hBP07-110",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ReGLOSS",
     "Code": "hPR-002",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "春先のどか",
     "Code": "hSD01-016",
     "Type": "Staff",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "マネちゃん",
     "Code": "hSD01-017",
     "Type": "Staff",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "サブパソコン",
     "Code": "hSD01-018",
     "Type": "Item",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "スゴイパソコン",
     "Code": "hSD01-019",
     "Type": "Item",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ホロリスの輪",
     "Code": "hSD01-020",
     "Type": "Event",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "First Gravity",
     "Code": "hSD01-021",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "いろはにほへっと あやふぶみ",
     "Code": "hSD02-012",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "阿修羅＆羅刹",
     "Code": "hSD02-013",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
@@ -1204,28 +1062,24 @@
     "Name": "泥棒建設",
     "Code": "hSD03-012",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "おかにゃん",
     "Code": "hSD03-013",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "おにぎりゃー",
     "Code": "hSD03-014",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "スバちょこルーナ",
     "Code": "hSD04-012",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
@@ -1241,105 +1095,90 @@
     "Name": "しょこら",
     "Code": "hSD04-014",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ばんぺん",
     "Code": "hSD05-014",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ﾁｬｷ丸",
     "Code": "hSD06-011",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "ぽこべぇ",
     "Code": "hSD06-012",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "不知火建設",
     "Code": "hSD07-014",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "エルフレンド",
     "Code": "hSD07-015",
     "Type": "Fan",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "WHAT'S UP!!!!! KEEEEEP GROWING!!!!!",
     "Code": "hSD10-011",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "FLOW GLOW",
     "Code": "hSD10-012",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "ふぐ太郎",
     "Code": "hSD10-013",
     "Type": "Tool",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "脱獄を果たした共犯者たち",
     "Code": "hSD12-015",
     "Type": "Event",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "GEOW",
     "Code": "hSD12-016",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "Justice",
     "Code": "hSD13-016",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "JUSTICE, JUST LIKE THAT!!!!",
     "Code": "hSD13-017",
     "Type": "Event",
-    "Tags": null,
     "Limited": true
   },
   {
     "Name": "Popo",
     "Code": "hSD13-018",
     "Type": "Mascot",
-    "Tags": null,
     "Limited": false
   },
   {
     "Name": "holoAN",
     "Code": "hSD14-010",
     "Type": "Staff",
-    "Tags": null,
     "Limited": true
   },
   {
@@ -1364,7 +1203,6 @@
     "Name": "ステラ",
     "Code": "hSD17-010",
     "Type": "Event",
-    "Tags": null,
     "Limited": false
   },
   {

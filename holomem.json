@@ -17448,6 +17448,38 @@
     ]
   },
   {
+    "Name": "さくらみこ",
+    "Code": "hPR-001",
+    "Color": 0,
+    "BloomLevel": "Spot",
+    "Buzz": false,
+    "InitialHp": 50,
+    "Effects": [
+      {
+        "Type": "CollabEffect",
+        "Name": "誰かの芽吹きになれたら"
+      },
+      {
+        "Damage": 10,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts",
+        "Name": "flower rhapsody"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ],
+    "ExtraRule": 2
+  },
+  {
     "Name": "ときのそら",
     "Code": "hSD01-003",
     "Color": 1,

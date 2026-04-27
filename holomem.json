@@ -20,6 +20,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌"
+    ],
     "ExtraRule": 1
   },
   {
@@ -46,7 +51,12 @@
         "Name": "行ってきまーす"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌"
+    ]
   },
   {
     "Name": "天音かなた",
@@ -68,7 +78,12 @@
         "Name": "塩対応かなたそ"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌"
+    ]
   },
   {
     "Name": "天音かなた",
@@ -94,7 +109,12 @@
         "Name": "い～っぱい応援して！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌"
+    ]
   },
   {
     "Name": "天音かなた",
@@ -121,7 +141,12 @@
         "Name": "エンジェルステージ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌"
+    ]
   },
   {
     "Name": "天音かなた",
@@ -147,7 +172,12 @@
         "Name": "♰漆黒の翼♰"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌"
+    ]
   },
   {
     "Name": "七詩ムメイ",
@@ -170,6 +200,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#トリ",
+      "#絵"
+    ],
     "ExtraRule": 1
   },
   {
@@ -196,7 +232,13 @@
         "Name": "リラックスタイム"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#トリ",
+      "#絵"
+    ]
   },
   {
     "Name": "七詩ムメイ",
@@ -230,7 +272,13 @@
         "Name": "コーヒーブレイク"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#トリ",
+      "#絵"
+    ]
   },
   {
     "Name": "七詩ムメイ",
@@ -252,7 +300,13 @@
         "Name": "思い出の欠片"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#トリ",
+      "#絵"
+    ]
   },
   {
     "Name": "七詩ムメイ",
@@ -278,7 +332,13 @@
         "Name": "いつも応援してくれてありがとう！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#トリ",
+      "#絵"
+    ]
   },
   {
     "Name": "七詩ムメイ",
@@ -305,7 +365,13 @@
         "Name": "みんな一緒に"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#トリ",
+      "#絵"
+    ]
   },
   {
     "Name": "ときのそら",
@@ -328,6 +394,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ],
     "ExtraRule": 1
   },
   {
@@ -354,7 +425,12 @@
         "Name": "最高の一日にしようね♪"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "ときのそら",
@@ -381,7 +457,12 @@
         "Name": "止まらねえぞ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "ベスティア・ゼータ",
@@ -404,6 +485,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ],
     "ExtraRule": 1
   },
   {
@@ -438,7 +523,11 @@
         "Name": "温泉でくつろぐ一日を"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "ベスティア・ゼータ",
@@ -464,7 +553,11 @@
         "Name": "ステージみんな「私のもの」"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "ベスティア・ゼータ",
@@ -492,6 +585,10 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ],
     "ExtraRule": 4
   },
   {
@@ -515,6 +612,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ],
     "ExtraRule": 1
   },
   {
@@ -538,7 +640,12 @@
         "Name": "清楚なネフィリムです！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ]
   },
   {
     "Name": "IRyS",
@@ -564,7 +671,12 @@
         "Name": "一生懸命歌うから見ててね！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ]
   },
   {
     "Name": "IRyS",
@@ -591,7 +703,12 @@
         "Name": "約束の力"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ]
   },
   {
     "Name": "アキ・ローゼンタール",
@@ -614,6 +731,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ],
     "ExtraRule": 1
   },
   {
@@ -640,7 +763,13 @@
         "Name": "アフターパーティー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "アキ・ローゼンタール",
@@ -674,7 +803,13 @@
         "Name": "むぎゅむぎゅ雑談"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "アキ・ローゼンタール",
@@ -700,7 +835,13 @@
         "Name": "アキロゼ幻想曲"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "アキ・ローゼンタール",
@@ -726,7 +867,13 @@
         "Name": "今日もがんばローゼ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "アキ・ローゼンタール",
@@ -752,7 +899,13 @@
         "Name": "秘密の合鍵"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "兎田ぺこら",
@@ -775,6 +928,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ケモミミ"
+    ],
     "ExtraRule": 1
   },
   {
@@ -801,7 +959,12 @@
         "Name": "無重力ジャンプ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "兎田ぺこら",
@@ -824,7 +987,12 @@
         "Name": "おつぺこでした"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "兎田ぺこら",
@@ -850,7 +1018,12 @@
         "Name": "見逃しちゃだめぺこだよ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "兎田ぺこら",
@@ -883,7 +1056,12 @@
         "Name": "きｔらあああ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "兎田ぺこら",
@@ -910,7 +1088,12 @@
         "Name": "全人類兎化計画"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "AZKi",
@@ -933,6 +1116,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ],
     "ExtraRule": 1
   },
   {
@@ -959,7 +1147,12 @@
         "Name": "海辺の街できみと"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "AZKi",
@@ -985,7 +1178,12 @@
         "Name": "こんな素敵な世界に来れました！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "AZKi",
@@ -1012,7 +1210,12 @@
         "Name": "新たな地図"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -1035,6 +1238,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ],
     "ExtraRule": 1
   },
   {
@@ -1069,7 +1276,11 @@
         "Name": "おひとついかがでござるか？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -1096,7 +1307,11 @@
         "Name": "元気を全力でお届けします！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -1132,6 +1347,10 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ],
     "ExtraRule": 4
   },
   {
@@ -1155,6 +1374,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#絵"
+    ],
     "ExtraRule": 1
   },
   {
@@ -1177,7 +1401,12 @@
         "Name": "あなたの愛しの宇宙人"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#絵"
+    ]
   },
   {
     "Name": "アイラニ・イオフィフティーン",
@@ -1203,7 +1432,12 @@
         "Name": "楽しみにしてるよ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#絵"
+    ]
   },
   {
     "Name": "アイラニ・イオフィフティーン",
@@ -1230,7 +1464,12 @@
         "Name": "リレーションスカイ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#絵"
+    ]
   },
   {
     "Name": "鷹嶺ルイ",
@@ -1253,6 +1492,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ],
     "ExtraRule": 1
   },
   {
@@ -1279,7 +1524,13 @@
         "Name": "漆黒の翼で誘おう"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
   },
   {
     "Name": "鷹嶺ルイ",
@@ -1313,7 +1564,13 @@
         "Name": "おつルイルイ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
   },
   {
     "Name": "鷹嶺ルイ",
@@ -1346,7 +1603,13 @@
         "Name": "Lui’s Party"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
   },
   {
     "Name": "鷹嶺ルイ",
@@ -1372,7 +1635,13 @@
         "Name": "しっかりついてきてよね！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
   },
   {
     "Name": "鷹嶺ルイ",
@@ -1399,7 +1668,13 @@
         "Name": "ホークレイヴ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
   },
   {
     "Name": "小鳥遊キアラ",
@@ -1422,6 +1697,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#トリ"
+    ],
     "ExtraRule": 1
   },
   {
@@ -1448,7 +1728,12 @@
         "Name": "もふもふタイム"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#トリ"
+    ]
   },
   {
     "Name": "小鳥遊キアラ",
@@ -1470,7 +1755,12 @@
         "Name": "auf Wiedersehen!"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#トリ"
+    ]
   },
   {
     "Name": "小鳥遊キアラ",
@@ -1496,7 +1786,12 @@
         "Name": "盛り上げたいとおもいます！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#トリ"
+    ]
   },
   {
     "Name": "小鳥遊キアラ",
@@ -1529,7 +1824,12 @@
         "Name": "跪きなさい。"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#トリ"
+    ]
   },
   {
     "Name": "小鳥遊キアラ",
@@ -1562,7 +1862,12 @@
         "Name": "マジェスティック・フェニックス"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#トリ"
+    ]
   },
   {
     "Name": "尾丸ポルカ",
@@ -1585,6 +1890,11 @@
       }
     ],
     "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ"
+    ],
     "ExtraRule": 1
   },
   {
@@ -1619,7 +1929,12 @@
         "Name": "おそぽる"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "尾丸ポルカ",
@@ -1646,7 +1961,12 @@
         "Name": "共依存"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "尾丸ポルカ",
@@ -1674,6 +1994,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ"
+    ],
     "ExtraRule": 4
   },
   {
@@ -1697,6 +2022,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ],
     "ExtraRule": 1
   },
   {
@@ -1720,7 +2050,12 @@
         "Name": "WITNESS ME!!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "ハコス・ベールズ",
@@ -1746,7 +2081,12 @@
         "Name": "楽しい時間の始まりだ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "ハコス・ベールズ",
@@ -1773,7 +2113,12 @@
         "Name": "Disorder"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -1796,6 +2141,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ],
     "ExtraRule": 1
   },
   {
@@ -1822,7 +2172,12 @@
         "Name": "新しい衣装"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -1856,7 +2211,12 @@
         "Name": "木漏れ日のひと時"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -1882,7 +2242,12 @@
         "Name": "すいちゃんはーー今日もかわいいーー！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -1908,7 +2273,12 @@
         "Name": "戦うメイドさん"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -1935,7 +2305,12 @@
         "Name": "輝く彗星"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "こぼ・かなえる",
@@ -1958,6 +2333,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ],
     "ExtraRule": 1
   },
   {
@@ -1984,7 +2363,11 @@
         "Name": "波だ～！\u3000泳げ～！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "こぼ・かなえる",
@@ -2007,7 +2390,11 @@
         "Name": "猫になる～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "こぼ・かなえる",
@@ -2041,7 +2428,11 @@
         "Name": "レインドロップス"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "こぼ・かなえる",
@@ -2067,7 +2458,11 @@
         "Name": "OnAeru"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "こぼ・かなえる",
@@ -2102,7 +2497,11 @@
         "Name": "波のマントラ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "ムーナ・ホシノヴァ",
@@ -2125,6 +2524,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ],
     "ExtraRule": 1
   },
   {
@@ -2148,7 +2552,12 @@
         "Name": "おつムーナ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
   },
   {
     "Name": "ムーナ・ホシノヴァ",
@@ -2174,7 +2583,12 @@
         "Name": "楽しみにしてて！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
   },
   {
     "Name": "ムーナ・ホシノヴァ",
@@ -2209,6 +2623,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ],
     "ExtraRule": 4
   },
   {
@@ -2232,6 +2651,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise"
+    ],
     "ExtraRule": 1
   },
   {
@@ -2266,7 +2689,11 @@
         "Name": "お休みクロタイム"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise"
+    ]
   },
   {
     "Name": "オーロ・クロニー",
@@ -2292,7 +2719,11 @@
         "Name": "忘れられないfesにしよう！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise"
+    ]
   },
   {
     "Name": "オーロ・クロニー",
@@ -2319,7 +2750,11 @@
         "Name": "早送り"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise"
+    ]
   },
   {
     "Name": "兎田ぺこら",
@@ -2346,6 +2781,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ケモミミ"
+    ],
     "ExtraRule": 2
   },
   {
@@ -2373,6 +2813,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ],
     "ExtraRule": 2
   },
   {
@@ -2400,6 +2845,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ],
     "ExtraRule": 2
   },
   {
@@ -2427,6 +2877,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海"
+    ],
     "ExtraRule": 2
   },
   {
@@ -2454,6 +2910,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ],
     "ExtraRule": 2
   },
   {
@@ -2481,6 +2942,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth"
+    ],
     "ExtraRule": 2
   },
   {
@@ -2504,6 +2969,13 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ],
     "ExtraRule": 1
   },
   {
@@ -2530,7 +3002,14 @@
         "Name": "おつこーんでしたー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -2564,7 +3043,14 @@
         "Name": "Thank You Friends♥"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -2590,7 +3076,14 @@
         "Name": "ダメですよっ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -2617,7 +3110,14 @@
         "Name": "力をかしてくださいね"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -2644,7 +3144,14 @@
         "Name": "マスコットたちの饗宴"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白銀ノエル",
@@ -2667,6 +3174,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ],
     "ExtraRule": 1
   },
   {
@@ -2701,7 +3213,12 @@
         "Name": "おつまっする～"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
   },
   {
     "Name": "白銀ノエル",
@@ -2727,7 +3244,12 @@
         "Name": "目に焼き付けるんだゾ♡"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
   },
   {
     "Name": "白銀ノエル",
@@ -2762,6 +3284,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ],
     "ExtraRule": 4
   },
   {
@@ -2785,6 +3312,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#トリ",
+      "#絵"
+    ],
     "ExtraRule": 1
   },
   {
@@ -2811,7 +3344,13 @@
         "Name": "Very Easy!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#トリ",
+      "#絵"
+    ]
   },
   {
     "Name": "パヴォリア・レイネ",
@@ -2834,7 +3373,13 @@
         "Name": "Royal Halu Sleepover"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#トリ",
+      "#絵"
+    ]
   },
   {
     "Name": "パヴォリア・レイネ",
@@ -2860,7 +3405,13 @@
         "Name": "だから見ててね！大好き！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#トリ",
+      "#絵"
+    ]
   },
   {
     "Name": "パヴォリア・レイネ",
@@ -2887,7 +3438,13 @@
         "Name": "Spicy Night"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#トリ",
+      "#絵"
+    ]
   },
   {
     "Name": "パヴォリア・レイネ",
@@ -2914,7 +3471,13 @@
         "Name": "孔雀の舞"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#トリ",
+      "#絵"
+    ]
   },
   {
     "Name": "大神ミオ",
@@ -2937,6 +3500,12 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ],
     "ExtraRule": 1
   },
   {
@@ -2971,7 +3540,13 @@
         "Name": "おつみぉーん"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
   },
   {
     "Name": "大神ミオ",
@@ -2997,7 +3572,13 @@
         "Name": "今年も見守っててね！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
   },
   {
     "Name": "大神ミオ",
@@ -3021,6 +3602,12 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ],
     "ExtraRule": 4
   },
   {
@@ -3044,6 +3631,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海"
+    ],
     "ExtraRule": 1
   },
   {
@@ -3071,7 +3664,14 @@
         "Name": "マリン“船長”だろぉぉん！？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海",
+      "#お酒"
+    ]
   },
   {
     "Name": "宝鐘マリン",
@@ -3105,7 +3705,13 @@
         "Name": "もう、どスケベ♥"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海"
+    ]
   },
   {
     "Name": "宝鐘マリン",
@@ -3131,7 +3737,13 @@
         "Name": "いっしょに出航しましょう！（健全）"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海"
+    ]
   },
   {
     "Name": "宝鐘マリン",
@@ -3157,7 +3769,13 @@
         "Name": "ヨーソロー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海"
+    ]
   },
   {
     "Name": "宝鐘マリン",
@@ -3184,7 +3802,13 @@
         "Name": "キミたち～？\u3000船長、かわいい？"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海"
+    ]
   },
   {
     "Name": "百鬼あやめ",
@@ -3220,6 +3844,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ],
     "ExtraRule": 4
   },
   {
@@ -3243,6 +3872,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#海"
+    ],
     "ExtraRule": 1
   },
   {
@@ -3269,7 +3903,12 @@
         "Name": "吐いて捨てるような現実を！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#海"
+    ]
   },
   {
     "Name": "沙花叉クロヱ",
@@ -3292,7 +3931,12 @@
         "Name": "ふたりじめビーチ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#海"
+    ]
   },
   {
     "Name": "沙花叉クロヱ",
@@ -3318,7 +3962,12 @@
         "Name": "（ここ喜ぶ所です）"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#海"
+    ]
   },
   {
     "Name": "沙花叉クロヱ",
@@ -3345,7 +3994,12 @@
         "Name": "ホロックスロット"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#海"
+    ]
   },
   {
     "Name": "沙花叉クロヱ",
@@ -3372,7 +4026,12 @@
         "Name": "ホロックスロット"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#海"
+    ]
   },
   {
     "Name": "猫又おかゆ",
@@ -3400,6 +4059,12 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#歌"
+    ],
     "ExtraRule": 4
   },
   {
@@ -3423,6 +4088,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生"
+    ],
     "ExtraRule": 1
   },
   {
@@ -3449,7 +4118,11 @@
         "Name": "一緒に行こう"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生"
+    ]
   },
   {
     "Name": "紫咲シオン",
@@ -3483,7 +4156,12 @@
         "Name": "やだ、もー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "紫咲シオン",
@@ -3509,7 +4187,11 @@
         "Name": "最高にハッピーです！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生"
+    ]
   },
   {
     "Name": "紫咲シオン",
@@ -3535,7 +4217,11 @@
         "Name": "チェンジ・ザ・エール"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生"
+    ]
   },
   {
     "Name": "紫咲シオン",
@@ -3562,7 +4248,11 @@
         "Name": "ヴァイオレットマジック"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生"
+    ]
   },
   {
     "Name": "クレイジー・オリー",
@@ -3585,6 +4275,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ],
     "ExtraRule": 1
   },
   {
@@ -3611,7 +4306,12 @@
         "Name": "おつクレイジー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
   },
   {
     "Name": "クレイジー・オリー",
@@ -3645,7 +4345,12 @@
         "Name": "きゃ～！先輩ごめ～ん！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
   },
   {
     "Name": "クレイジー・オリー",
@@ -3671,7 +4376,12 @@
         "Name": "推しを見て叫びまくるぞ！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
   },
   {
     "Name": "クレイジー・オリー",
@@ -3697,7 +4407,12 @@
         "Name": "正義の名の下に、儂は"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
   },
   {
     "Name": "クレイジー・オリー",
@@ -3724,7 +4439,12 @@
         "Name": "計算された戦術"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -3747,6 +4467,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ],
     "ExtraRule": 1
   },
   {
@@ -3773,7 +4498,12 @@
         "Name": "マイステージ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -3795,7 +4525,12 @@
         "Name": "\"Cash-Money\""
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -3822,7 +4557,12 @@
         "Name": "一緒にブチアガろうぜ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -3849,7 +4589,12 @@
         "Name": "Dead Beat"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -3876,7 +4621,12 @@
         "Name": "Featuring Myth"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "癒月ちょこ",
@@ -3904,6 +4654,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ],
     "ExtraRule": 4
   },
   {
@@ -3927,6 +4682,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#絵",
+      "#海"
+    ],
     "ExtraRule": 1
   },
   {
@@ -3949,7 +4710,13 @@
         "Name": "君とタコグラム"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#絵",
+      "#海"
+    ]
   },
   {
     "Name": "一伊那尓栖",
@@ -3975,7 +4742,13 @@
         "Name": "楽しんでいこう！！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#絵",
+      "#海"
+    ]
   },
   {
     "Name": "一伊那尓栖",
@@ -3999,6 +4772,12 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#絵",
+      "#海"
+    ],
     "ExtraRule": 4
   },
   {
@@ -4022,6 +4801,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ],
     "ExtraRule": 1
   },
   {
@@ -4056,7 +4841,13 @@
         "Name": "アイドルソングというものは"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
   },
   {
     "Name": "ネリッサ・レイヴンクロフト",
@@ -4082,7 +4873,13 @@
         "Name": "コーヒーよりも紅茶です"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
   },
   {
     "Name": "ネリッサ・レイヴンクロフト",
@@ -4109,7 +4906,13 @@
         "Name": "歌に宿りし愛情"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
   },
   {
     "Name": "魔法少女みこ",
@@ -4136,6 +4939,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ホロウィッチ",
+      "#0期生",
+      "#魔法"
+    ],
     "ExtraRule": 2
   },
   {
@@ -4163,6 +4971,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ホロウィッチ",
+      "#4期生",
+      "#魔法"
+    ],
     "ExtraRule": 2
   },
   {
@@ -4190,6 +5003,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ホロウィッチ",
+      "#4期生",
+      "#魔法"
+    ],
     "ExtraRule": 2
   },
   {
@@ -4217,6 +5035,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ホロウィッチ",
+      "#2期生",
+      "#魔法"
+    ],
     "ExtraRule": 2
   },
   {
@@ -4244,6 +5067,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ホロウィッチ",
+      "#3期生",
+      "#魔法"
+    ],
     "ExtraRule": 2
   },
   {
@@ -4271,6 +5099,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ホロウィッチ",
+      "#秘密結社holoX",
+      "#魔法"
+    ],
     "ExtraRule": 2
   },
   {
@@ -4294,6 +5127,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ベイビー"
+    ],
     "ExtraRule": 1
   },
   {
@@ -4320,7 +5158,12 @@
         "Name": "お菓子たべるのら？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "姫森ルーナ",
@@ -4354,7 +5197,12 @@
         "Name": "ぐっどないと～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "姫森ルーナ",
@@ -4381,7 +5229,12 @@
         "Name": "約束なのら！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "姫森ルーナ",
@@ -4407,7 +5260,12 @@
         "Name": "ムーンギャラクシー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "姫森ルーナ",
@@ -4434,7 +5292,12 @@
         "Name": "お疲れ様なのらね"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "轟はじめ",
@@ -4461,7 +5324,12 @@
         "Name": "これが番長の実力ってやつよ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "獅白ぼたん",
@@ -4484,6 +5352,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ",
+      "#シューター"
+    ],
     "ExtraRule": 1
   },
   {
@@ -4510,7 +5384,13 @@
         "Name": "ぼ。"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ",
+      "#シューター"
+    ]
   },
   {
     "Name": "獅白ぼたん",
@@ -4544,7 +5424,13 @@
         "Name": "絶対、ドキドキさせるから"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ",
+      "#シューター"
+    ]
   },
   {
     "Name": "獅白ぼたん",
@@ -4570,7 +5456,13 @@
         "Name": "じゅるり"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ",
+      "#シューター"
+    ]
   },
   {
     "Name": "獅白ぼたん",
@@ -4597,7 +5489,13 @@
         "Name": "ショッピングカートで来た"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ",
+      "#シューター"
+    ]
   },
   {
     "Name": "獅白ぼたん",
@@ -4624,7 +5522,13 @@
         "Name": "神エイム"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ",
+      "#シューター"
+    ]
   },
   {
     "Name": "アキ・ローゼンタール",
@@ -4651,6 +5555,12 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ],
     "ExtraRule": 4
   },
   {
@@ -4679,6 +5589,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ケモミミ"
+    ],
     "ExtraRule": 4
   },
   {
@@ -4706,7 +5621,11 @@
         "Name": "風真が斬る"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -4729,6 +5648,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ],
     "ExtraRule": 1
   },
   {
@@ -4756,7 +5680,12 @@
         "Name": "さくらの季節"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -4790,7 +5719,12 @@
         "Name": "ぷにち"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -4824,7 +5758,12 @@
         "Name": "みこぴー！(｀・ω・´)\uD83C\uDF38"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -4851,7 +5790,12 @@
         "Name": "35Pと記念写真"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -4878,7 +5822,12 @@
         "Name": "エリート巫女"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "赤井はあと",
@@ -4901,6 +5850,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ],
     "ExtraRule": 1
   },
   {
@@ -4924,7 +5878,12 @@
         "Name": "おつるーじゅ！"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ]
   },
   {
     "Name": "赤井はあと",
@@ -4950,7 +5909,12 @@
         "Name": "はあちゃまっちゃま～！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ]
   },
   {
     "Name": "赤井はあと",
@@ -4978,6 +5942,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ],
     "ExtraRule": 4
   },
   {
@@ -5002,6 +5971,12 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ],
     "ExtraRule": 4
   },
   {
@@ -5029,7 +6004,12 @@
         "Name": "鋼の翼"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#トリ"
+    ]
   },
   {
     "Name": "モココ・アビスガード",
@@ -5052,6 +6032,11 @@
       }
     ],
     "BatonPassCost": 0,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ],
     "ExtraRule": 1
   },
   {
@@ -5078,7 +6063,12 @@
         "Name": "モココとドーナツクッキング"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "モココ・アビスガード",
@@ -5106,6 +6096,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ],
     "ExtraRule": 4
   },
   {
@@ -5129,6 +6124,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ],
     "ExtraRule": 1
   },
   {
@@ -5163,7 +6163,12 @@
         "Name": "ふわふわしてる方"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "フワワ・アビスガード",
@@ -5189,7 +6194,12 @@
         "Name": "フワワと森のお散歩"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "フワワ・アビスガード",
@@ -5224,7 +6234,12 @@
         "Name": "一緒に食べる？"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -5251,7 +6266,12 @@
         "Name": "バーチャルゴースト"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "こぼ・かなえる",
@@ -5279,6 +6299,10 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ],
     "ExtraRule": 4
   },
   {
@@ -5313,6 +6337,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#絵"
+    ],
     "ExtraRule": 1
   },
   {
@@ -5336,7 +6365,12 @@
         "Name": "アフタヌーンティーデートのその後に…"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#絵"
+    ]
   },
   {
     "Name": "火威青",
@@ -5369,7 +6403,12 @@
         "Name": "ReGLOSSのボーイッシュ担当"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#絵"
+    ]
   },
   {
     "Name": "火威青",
@@ -5397,6 +6436,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#絵"
+    ],
     "ExtraRule": 4
   },
   {
@@ -5432,6 +6476,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ],
     "ExtraRule": 8,
     "ExtraNames": [
       "フワワ・アビスガード",
@@ -5459,6 +6508,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ],
     "ExtraRule": 1
   },
   {
@@ -5481,7 +6536,13 @@
         "Name": "そういう感じなんだ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
   },
   {
     "Name": "常闇トワ",
@@ -5515,7 +6576,13 @@
         "Name": "きゅりん"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
   },
   {
     "Name": "常闇トワ",
@@ -5541,7 +6608,13 @@
         "Name": "大爆発させちゃうぜ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
   },
   {
     "Name": "常闇トワ",
@@ -5575,7 +6648,13 @@
         "Name": "てんQ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
   },
   {
     "Name": "常闇トワ",
@@ -5609,7 +6688,13 @@
         "Name": "Break your ×××"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
   },
   {
     "Name": "ロボ子さん",
@@ -5632,6 +6717,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#シューター"
+    ],
     "ExtraRule": 1
   },
   {
@@ -5666,7 +6756,12 @@
         "Name": "いちゃあま彼女"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "ロボ子さん",
@@ -5692,7 +6787,12 @@
         "Name": "笑顔になーーれっ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "ロボ子さん",
@@ -5714,7 +6814,12 @@
         "Name": "自称【高性能】"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "戌神ころね",
@@ -5748,6 +6853,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ],
     "ExtraRule": 1
   },
   {
@@ -5774,7 +6884,12 @@
         "Name": "ご注文はこれだでな"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "戌神ころね",
@@ -5796,7 +6911,12 @@
         "Name": "おつころ～ん"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "戌神ころね",
@@ -5830,7 +6950,12 @@
         "Name": "おーしぇーい"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "戌神ころね",
@@ -5856,7 +6981,12 @@
         "Name": "ほらよ～"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "戌神ころね",
@@ -5883,7 +7013,12 @@
         "Name": "最凶天災"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -5906,6 +7041,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ],
     "ExtraRule": 1
   },
   {
@@ -5928,7 +7069,13 @@
         "Name": "わためのうた"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -5961,7 +7108,13 @@
         "Name": "応援してくれるよねぇ？"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -5987,7 +7140,13 @@
         "Name": "最後まで見ててね、わためいと！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -6014,7 +7173,13 @@
         "Name": "つのまきじゃんけん"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -6041,7 +7206,13 @@
         "Name": "わためぇ Night Fever!!"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "アユンダ・リス",
@@ -6075,6 +7246,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#ケモミミ",
+      "#歌"
+    ],
     "ExtraRule": 1
   },
   {
@@ -6097,7 +7274,13 @@
         "Name": "繋がる願い"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "アユンダ・リス",
@@ -6131,7 +7314,13 @@
         "Name": "おやすみの思い出"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "アユンダ・リス",
@@ -6157,7 +7346,13 @@
         "Name": "ぷるぷる、おつリス！！！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "アユンダ・リス",
@@ -6184,7 +7379,13 @@
         "Name": "ナッツ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "アユンダ・リス",
@@ -6211,7 +7412,13 @@
         "Name": "魔法の森のリスの女の子"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -6239,6 +7446,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ],
     "ExtraRule": 4
   },
   {
@@ -6273,6 +7485,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#歌"
+    ],
     "ExtraRule": 1
   },
   {
@@ -6295,7 +7512,12 @@
         "Name": "明日は月曜日～っ♪"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#歌"
+    ]
   },
   {
     "Name": "音乃瀬奏",
@@ -6322,7 +7544,12 @@
         "Name": "ぷにぷにじゃないっ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#歌"
+    ]
   },
   {
     "Name": "音乃瀬奏",
@@ -6350,6 +7577,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#歌"
+    ],
     "ExtraRule": 4
   },
   {
@@ -6373,6 +7605,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ"
+    ],
     "ExtraRule": 1
   },
   {
@@ -6395,7 +7632,12 @@
         "Name": "終わりなき輪廻に迷いし子らよ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "博衣こより",
@@ -6429,7 +7671,12 @@
         "Name": "こよに添い寝される？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "博衣こより",
@@ -6451,7 +7698,12 @@
         "Name": "助手くんっ見ててね！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "博衣こより",
@@ -6477,7 +7729,12 @@
         "Name": "助手くんとこよはずっと一緒だよ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "博衣こより",
@@ -6504,7 +7761,12 @@
         "Name": "かくせいのこより"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -6531,7 +7793,14 @@
         "Name": "私の大切な人"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "IRyS",
@@ -6555,6 +7824,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ],
     "ExtraRule": 4
   },
   {
@@ -6578,6 +7852,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#ケモミミ",
+      "#絵"
+    ],
     "ExtraRule": 1
   },
   {
@@ -6600,7 +7880,13 @@
         "Name": "正義のピンクパンサー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "ラオーラ・パンテーラ",
@@ -6626,7 +7912,13 @@
         "Name": "情報収集はお手の物"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "ラオーラ・パンテーラ",
@@ -6652,7 +7944,13 @@
         "Name": "Art Streamer"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -6687,6 +7985,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ],
     "ExtraRule": 1
   },
   {
@@ -6713,7 +8016,12 @@
         "Name": "らでんスタンバイ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -6747,7 +8055,12 @@
         "Name": "まぁそんなとこですな"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -6773,7 +8086,12 @@
         "Name": "ネタ枠担当"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -6799,7 +8117,12 @@
         "Name": "喝采反芻"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -6826,7 +8149,12 @@
         "Name": "御後がよろしいようで"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "大神ミオ",
@@ -6853,7 +8181,13 @@
         "Name": "うちってフブキのものだったの？"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
   },
   {
     "Name": "パヴォリア・レイネ",
@@ -6879,7 +8213,13 @@
         "Name": "Terima Kasih"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#トリ",
+      "#絵"
+    ]
   },
   {
     "Name": "セシリア・イマーグリーン",
@@ -6902,6 +8242,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ],
     "ExtraRule": 1
   },
   {
@@ -6924,7 +8269,12 @@
         "Name": "『古代自動人形』"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ]
   },
   {
     "Name": "セシリア・イマーグリーン",
@@ -6951,7 +8301,12 @@
         "Name": "聞いてくれる？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ]
   },
   {
     "Name": "セシリア・イマーグリーン",
@@ -6978,7 +8333,12 @@
         "Name": "マルチリンガル"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ]
   },
   {
     "Name": "一条莉々華",
@@ -7001,6 +8361,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#料理",
+      "#語学"
+    ],
     "ExtraRule": 1
   },
   {
@@ -7035,7 +8401,13 @@
         "Name": "リミットオーバー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#料理",
+      "#語学"
+    ]
   },
   {
     "Name": "一条莉々華",
@@ -7069,7 +8441,13 @@
         "Name": "Subscribe or Die!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#料理",
+      "#語学"
+    ]
   },
   {
     "Name": "一条莉々華",
@@ -7095,7 +8473,13 @@
         "Name": "社長パンチ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#料理",
+      "#語学"
+    ]
   },
   {
     "Name": "一条莉々華",
@@ -7121,7 +8505,13 @@
         "Name": "いひひっ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#料理",
+      "#語学"
+    ]
   },
   {
     "Name": "一条莉々華",
@@ -7148,7 +8538,13 @@
         "Name": "お？\u3000喧嘩する？"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#料理",
+      "#語学"
+    ]
   },
   {
     "Name": "宝鐘マリン",
@@ -7175,7 +8571,13 @@
         "Name": "えっち♥♥"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海"
+    ]
   },
   {
     "Name": "カエラ・コヴァルスキア",
@@ -7198,6 +8600,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ],
     "ExtraRule": 1
   },
   {
@@ -7232,7 +8638,11 @@
         "Name": "DAHLAH"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "カエラ・コヴァルスキア",
@@ -7258,7 +8668,11 @@
         "Name": "サイレント笑い"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "カエラ・コヴァルスキア",
@@ -7293,6 +8707,10 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ],
     "ExtraRule": 4
   },
   {
@@ -7316,6 +8734,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ],
     "ExtraRule": 1
   },
   {
@@ -7342,7 +8766,13 @@
         "Name": "うぅ…"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "雪花ラミィ",
@@ -7376,7 +8806,13 @@
         "Name": "ボスが攻略できな～い"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "雪花ラミィ",
@@ -7398,7 +8834,13 @@
         "Name": "いっぱい頑張るよ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "雪花ラミィ",
@@ -7425,7 +8867,13 @@
         "Name": "雪が煌く花束"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "雪花ラミィ",
@@ -7452,7 +8900,13 @@
         "Name": "今日も祝福がありますように"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "ムーナ・ホシノヴァ",
@@ -7486,7 +8940,12 @@
         "Name": "Shining Moon"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -7509,6 +8968,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ],
     "ExtraRule": 1
   },
   {
@@ -7542,7 +9005,11 @@
         "Name": "尽きない知識欲"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ]
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -7568,7 +9035,11 @@
         "Name": "魅力的な物語"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ]
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -7596,6 +9067,10 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ],
     "ExtraRule": 4
   },
   {
@@ -7619,6 +9094,11 @@
       }
     ],
     "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター"
+    ],
     "ExtraRule": 1
   },
   {
@@ -7645,7 +9125,12 @@
         "Name": "我ら、エデンの星を統べる者！"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター"
+    ]
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -7678,7 +9163,12 @@
         "Name": "ぷらすめいと諸君いつもありがとう"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター"
+    ]
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -7704,7 +9194,12 @@
         "Name": "最高のステージ魅せてやるからな！！"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター"
+    ]
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -7730,7 +9225,12 @@
         "Name": "吾輩に勝つつもりか？"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター"
+    ]
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -7757,7 +9257,12 @@
         "Name": "吾輩最強伝説"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター"
+    ]
   },
   {
     "Name": "紫咲シオン",
@@ -7785,6 +9290,10 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生"
+    ],
     "ExtraRule": 4
   },
   {
@@ -7812,7 +9321,12 @@
         "Name": "HOLOROの魂"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -7840,6 +9354,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ],
     "ExtraRule": 4
   },
   {
@@ -7867,6 +9386,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ベイビー"
+    ],
     "ExtraRule": 1
   },
   {
@@ -7889,7 +9413,12 @@
         "Name": "煌く宝石"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "古石ビジュー",
@@ -7915,7 +9444,12 @@
         "Name": "鉱石と採掘者"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "古石ビジュー",
@@ -7942,7 +9476,12 @@
         "Name": "この輝きが、伝わればいいな"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -7977,6 +9516,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ],
     "ExtraRule": 1
   },
   {
@@ -8003,7 +9547,12 @@
         "Name": "スバルからきみへ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -8037,7 +9586,12 @@
         "Name": "眠いんデスケド"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -8063,7 +9617,12 @@
         "Name": "いっぱい応援して、楽しんでね！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -8097,7 +9656,12 @@
         "Name": "最強で楽しい毎日"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -8124,7 +9688,13 @@
         "Name": "太陽少女"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#歌",
+      "#トリ"
+    ]
   },
   {
     "Name": "アーニャ・メルフィッサ",
@@ -8147,6 +9717,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ],
     "ExtraRule": 1
   },
   {
@@ -8173,7 +9748,12 @@
         "Name": "隣座りますか？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
   },
   {
     "Name": "アーニャ・メルフィッサ",
@@ -8207,7 +9787,12 @@
         "Name": "悪魔の囁き"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
   },
   {
     "Name": "アーニャ・メルフィッサ",
@@ -8233,7 +9818,12 @@
         "Name": "応援、よろしくね！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
   },
   {
     "Name": "アーニャ・メルフィッサ",
@@ -8260,7 +9850,12 @@
         "Name": "黄色い薔薇"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
   },
   {
     "Name": "アーニャ・メルフィッサ",
@@ -8287,7 +9882,12 @@
         "Name": "ダンジョンアドベンチャー"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
   },
   {
     "Name": "夏色まつり",
@@ -8314,6 +9914,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ],
     "ExtraRule": 1
   },
   {
@@ -8347,7 +9952,12 @@
         "Name": "戦え！ 血を血で洗え！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "夏色まつり",
@@ -8373,7 +9983,12 @@
         "Name": "全力で歌うよッ！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "夏色まつり",
@@ -8399,7 +10014,12 @@
         "Name": "お気に入りみつけた"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "桃鈴ねね",
@@ -8422,6 +10042,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ],
     "ExtraRule": 1
   },
   {
@@ -8456,7 +10082,13 @@
         "Name": "またねね"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ]
   },
   {
     "Name": "桃鈴ねね",
@@ -8482,7 +10114,13 @@
         "Name": "いっぱいがんばるぞい!!!!!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ]
   },
   {
     "Name": "桃鈴ねね",
@@ -8516,7 +10154,13 @@
         "Name": "ギラギラパワー"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ]
   },
   {
     "Name": "エリザベス・ローズ・ブラッドフレイム",
@@ -8543,6 +10187,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#歌"
+    ],
     "ExtraRule": 2
   },
   {
@@ -8570,6 +10219,10 @@
       }
     ],
     "BatonPassCost": 0,
+    "Tags": [
+      "#EN",
+      "#Justice"
+    ],
     "ExtraRule": 2
   },
   {
@@ -8596,7 +10249,12 @@
         "Name": "楽しく！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
   },
   {
     "Name": "白銀ノエル",
@@ -8622,7 +10280,12 @@
         "Name": "夏の思い出"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
   },
   {
     "Name": "白銀ノエル",
@@ -8648,7 +10311,12 @@
         "Name": "生きる力"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
   },
   {
     "Name": "白銀ノエル",
@@ -8675,7 +10343,12 @@
         "Name": "団長幸せだよ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
   },
   {
     "Name": "白銀ノエル",
@@ -8709,7 +10382,12 @@
         "Name": "慈悲の一撃"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
   },
   {
     "Name": "ときのそら",
@@ -8735,7 +10413,12 @@
         "Name": "7周年いえーい✩°｡⋆⸜(*╹꒳ ╹* )⸝"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "兎田ぺこら",
@@ -8757,7 +10440,12 @@
         "Name": "かわいいぺこか？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "兎田ぺこら",
@@ -8790,7 +10478,12 @@
         "Name": "いらないぺこ？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "兎田ぺこら",
@@ -8816,7 +10509,12 @@
         "Name": "ウーサペコラを崇めるぺこ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "姫森ルーナ",
@@ -8852,6 +10550,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ベイビー"
+    ],
     "ExtraRule": 4
   },
   {
@@ -8886,7 +10589,11 @@
         "Name": "Summer Vibes"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "アイラニ・イオフィフティーン",
@@ -8912,7 +10619,12 @@
         "Name": "君といる時間"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#絵"
+    ]
   },
   {
     "Name": "アイラニ・イオフィフティーン",
@@ -8938,7 +10650,12 @@
         "Name": "君となら"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#絵"
+    ]
   },
   {
     "Name": "アイラニ・イオフィフティーン",
@@ -8964,7 +10681,12 @@
         "Name": "抹茶めっちゃ好き ( ´ڡ`*   )"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#絵"
+    ]
   },
   {
     "Name": "アイラニ・イオフィフティーン",
@@ -8991,7 +10713,12 @@
         "Name": "Matahari Terbenam"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#絵"
+    ]
   },
   {
     "Name": "アイラニ・イオフィフティーン",
@@ -9018,7 +10745,12 @@
         "Name": "リレーションガーデン"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#絵"
+    ]
   },
   {
     "Name": "AZKi",
@@ -9053,6 +10785,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ],
     "ExtraRule": 4
   },
   {
@@ -9075,7 +10812,13 @@
         "Name": "新たな旅を始めよう"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "アキ・ローゼンタール",
@@ -9102,7 +10845,13 @@
         "Name": "暮れなずむひととき"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "アキ・ローゼンタール",
@@ -9129,7 +10878,13 @@
         "Name": "ワンフォーオール"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "獅白ぼたん",
@@ -9157,6 +10912,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ",
+      "#シューター"
+    ],
     "ExtraRule": 4
   },
   {
@@ -9193,6 +10954,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ],
     "ExtraRule": 4
   },
   {
@@ -9219,7 +10985,12 @@
         "Name": "うたたねの記念日"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "尾丸ポルカ",
@@ -9241,7 +11012,12 @@
         "Name": "あゝ素晴らしきアイドル人生かな"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "尾丸ポルカ",
@@ -9267,7 +11043,12 @@
         "Name": "朝のポルカ ※若干のフィクション"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "尾丸ポルカ",
@@ -9301,7 +11082,12 @@
         "Name": "来年も君と見に来たいな"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "尾丸ポルカ",
@@ -9328,7 +11114,12 @@
         "Name": "Are you ready？"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -9354,7 +11145,12 @@
         "Name": "あえんびえん"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -9376,7 +11172,12 @@
         "Name": "声出し最高！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -9409,7 +11210,12 @@
         "Name": "Shout in Crisis"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "モココ・アビスガード",
@@ -9435,7 +11241,12 @@
         "Name": "ノーーーーーーエ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "一条莉々華",
@@ -9471,6 +11282,12 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#料理",
+      "#語学"
+    ],
     "ExtraRule": 4
   },
   {
@@ -9498,6 +11315,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー",
+      "#歌"
+    ],
     "ExtraRule": 8,
     "ExtraNames": [
       "さくらみこ",
@@ -9524,7 +11347,12 @@
         "Name": "ぐるぐる～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "猫又おかゆ",
@@ -9550,7 +11378,12 @@
         "Name": "ずうっと一緒だよ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "猫又おかゆ",
@@ -9576,7 +11409,12 @@
         "Name": "まだまだ遊べるよね～？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "猫又おかゆ",
@@ -9603,7 +11441,12 @@
         "Name": "ドンストップゲーミング！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "猫又おかゆ",
@@ -9630,7 +11473,12 @@
         "Name": "僕のコト、大好きになってみない？"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "雪花ラミィ",
@@ -9657,7 +11505,13 @@
         "Name": "愛せな～い！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "こぼ・かなえる",
@@ -9679,7 +11533,11 @@
         "Name": "アットユアサービス！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "こぼ・かなえる",
@@ -9706,7 +11564,11 @@
         "Name": "キミが元気になれるように"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "こぼ・かなえる",
@@ -9740,7 +11602,11 @@
         "Name": "残響する雨音"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "フワワ・アビスガード",
@@ -9768,6 +11634,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ],
     "ExtraRule": 4
   },
   {
@@ -9794,7 +11665,13 @@
         "Name": "シャンパンシャンパン！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#絵",
+      "#お酒"
+    ]
   },
   {
     "Name": "癒月ちょこ",
@@ -9820,7 +11697,12 @@
         "Name": "膝枕とかどうですか？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
   },
   {
     "Name": "癒月ちょこ",
@@ -9846,7 +11728,12 @@
         "Name": "ぎゅーってして？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
   },
   {
     "Name": "癒月ちょこ",
@@ -9868,7 +11755,12 @@
         "Name": "ガァチィ？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
   },
   {
     "Name": "癒月ちょこ",
@@ -9894,7 +11786,12 @@
         "Name": "ｱﾞｱﾞｱﾞｱﾞｱﾞ"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
   },
   {
     "Name": "癒月ちょこ",
@@ -9929,7 +11826,12 @@
         "Name": "夜に寄り添う"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
   },
   {
     "Name": "ネリッサ・レイヴンクロフト",
@@ -9955,7 +11857,13 @@
         "Name": "Cool Summer Nights"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
   },
   {
     "Name": "ネリッサ・レイヴンクロフト",
@@ -9981,7 +11889,13 @@
         "Name": "Bye-ya,  darlings!"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
   },
   {
     "Name": "ネリッサ・レイヴンクロフト",
@@ -10015,7 +11929,13 @@
         "Name": "ツノに触らないで！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
   },
   {
     "Name": "ネリッサ・レイヴンクロフト",
@@ -10042,7 +11962,13 @@
         "Name": "艶なる宴"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
   },
   {
     "Name": "ネリッサ・レイヴンクロフト",
@@ -10069,7 +11995,13 @@
         "Name": "Unleashed Charm"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
   },
   {
     "Name": "常闇トワ",
@@ -10096,7 +12028,13 @@
         "Name": "ありがとうみんな"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -10122,7 +12060,12 @@
         "Name": "キミも一緒にゲームしない？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -10148,7 +12091,12 @@
         "Name": "幸せの場所"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -10174,7 +12122,12 @@
         "Name": "それは嘘じゃん！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -10200,7 +12153,12 @@
         "Name": "氷姿雪魄"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -10227,7 +12185,12 @@
         "Name": "みんなに笑っててほしいから"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -10253,7 +12216,14 @@
         "Name": "おやつ食べてゲーム最高！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -10279,7 +12249,14 @@
         "Name": "満点じゃい！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -10312,7 +12289,14 @@
         "Name": "国王兼喫茶経営者"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "戌神ころね",
@@ -10338,7 +12322,12 @@
         "Name": "YB-2"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -10373,6 +12362,12 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ],
     "ExtraRule": 4
   },
   {
@@ -10400,7 +12395,13 @@
         "Name": "IT's Time to RE4GE !!!!!"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "ラオーラ・パンテーラ",
@@ -10426,7 +12427,13 @@
         "Name": "I see you!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "ラオーラ・パンテーラ",
@@ -10452,7 +12459,13 @@
         "Name": "みんな素晴らしい友達だよ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "ラオーラ・パンテーラ",
@@ -10478,7 +12491,13 @@
         "Name": "Mamma mia"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "ラオーラ・パンテーラ",
@@ -10512,7 +12531,13 @@
         "Name": "LA FINE"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "ラオーラ・パンテーラ",
@@ -10539,6 +12564,12 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#ケモミミ",
+      "#絵"
+    ],
     "ExtraRule": 4
   },
   {
@@ -10566,7 +12597,13 @@
         "Name": "色彩のリナシメント"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "響咲リオナ",
@@ -10589,6 +12626,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
     "ExtraRule": 1
   },
   {
@@ -10615,7 +12656,11 @@
         "Name": "おつりおなああああ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "響咲リオナ",
@@ -10649,7 +12694,11 @@
         "Name": "タイフーン起こすこのホロライブ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "響咲リオナ",
@@ -10675,7 +12724,11 @@
         "Name": "Brr! Brr!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "響咲リオナ",
@@ -10701,7 +12754,11 @@
         "Name": "意外と熱血タイプ？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "響咲リオナ",
@@ -10728,7 +12785,11 @@
         "Name": "レゾナンスロア"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "博衣こより",
@@ -10755,7 +12816,12 @@
         "Name": "青春の１ページ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -10777,7 +12843,11 @@
         "Name": "手作りのお守り"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -10803,7 +12873,11 @@
         "Name": "GOZAGOZA536"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -10826,7 +12900,11 @@
         "Name": "まじかる☆ござるの元気の出る魔法"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -10852,7 +12930,11 @@
         "Name": "ツンツンツン…"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -10879,6 +12961,10 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ],
     "ExtraRule": 4
   },
   {
@@ -10906,7 +12992,11 @@
         "Name": "一緒にすてっぷ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "姫森ルーナ",
@@ -10928,7 +13018,12 @@
         "Name": "んなあああああい"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "姫森ルーナ",
@@ -10961,7 +13056,12 @@
         "Name": "ロイヤル・フラワーブーケ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "姫森ルーナ",
@@ -10987,7 +13087,12 @@
         "Name": "届けたいのら！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "姫森ルーナ",
@@ -11013,7 +13118,12 @@
         "Name": "ずっと一緒なのらね"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "セシリア・イマーグリーン",
@@ -11039,7 +13149,12 @@
         "Name": "春の思い出"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -11065,7 +13180,12 @@
         "Name": "茸 （くさびら）"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "百鬼あやめ",
@@ -11087,7 +13207,12 @@
         "Name": "夏の海でドキドキデート"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "百鬼あやめ",
@@ -11113,7 +13238,12 @@
         "Name": "…二度寝する(:3_ヽ)_"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "百鬼あやめ",
@@ -11139,7 +13269,12 @@
         "Name": "お風呂上がりの幸せな時間"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "百鬼あやめ",
@@ -11165,7 +13300,12 @@
         "Name": "ずっと元気でいられますように…"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "百鬼あやめ",
@@ -11191,7 +13331,12 @@
         "Name": "では参る！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "百鬼あやめ",
@@ -11217,7 +13362,12 @@
         "Name": "百鬼乱舞 -朧月-"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "ハコス・ベールズ",
@@ -11239,7 +13389,12 @@
         "Name": "You can do it!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "ハコス・ベールズ",
@@ -11265,7 +13420,12 @@
         "Name": "Brat Wellness"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "ハコス・ベールズ",
@@ -11291,7 +13451,12 @@
         "Name": "イチゴで彩る誕生日"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "ハコス・ベールズ",
@@ -11317,7 +13482,12 @@
         "Name": "ALWAYS A PEASANT."
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "ハコス・ベールズ",
@@ -11350,7 +13520,12 @@
         "Name": "ありがチュー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "ハコス・ベールズ",
@@ -11384,7 +13559,12 @@
         "Name": "\uD83D\uDCA5¡¡SSꓵHƆSꓶƎԀԀOꓷ\uD83D\uDCA5"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "鷹嶺ルイ",
@@ -11411,7 +13591,13 @@
         "Name": "永久不滅の絆"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
   },
   {
     "Name": "一条莉々華",
@@ -11437,7 +13623,13 @@
         "Name": "ガチでなんもない。タスケテ。"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#料理",
+      "#語学"
+    ]
   },
   {
     "Name": "ムーナ・ホシノヴァ",
@@ -11459,7 +13651,12 @@
         "Name": "ムーンペース"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
   },
   {
     "Name": "ムーナ・ホシノヴァ",
@@ -11485,7 +13682,12 @@
         "Name": "星々の踊り"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
   },
   {
     "Name": "ムーナ・ホシノヴァ",
@@ -11518,7 +13720,12 @@
         "Name": "Lunar Duality"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
   },
   {
     "Name": "ムーナ・ホシノヴァ",
@@ -11552,7 +13759,12 @@
         "Name": "親愛の情"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
   },
   {
     "Name": "ムーナ・ホシノヴァ",
@@ -11580,6 +13792,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ],
     "ExtraRule": 4
   },
   {
@@ -11607,7 +13824,12 @@
         "Name": "Tidal Eclipse"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
   },
   {
     "Name": "雪花ラミィ",
@@ -11634,7 +13856,13 @@
         "Name": "暖かい誕生日とその先へ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
   },
   {
     "Name": "沙花叉クロヱ",
@@ -11661,7 +13889,12 @@
         "Name": "二人で紡いだ魔法"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#海"
+    ]
   },
   {
     "Name": "沙花叉クロヱ",
@@ -11688,7 +13921,12 @@
         "Name": "沙花叉と青春しよ？"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#海"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -11710,7 +13948,12 @@
         "Name": "Mori's Underground Live"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -11736,7 +13979,12 @@
         "Name": "a chef’s journey’s end."
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -11762,7 +14010,12 @@
         "Name": "まどろみの中で"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -11795,7 +14048,12 @@
         "Name": "Memento Mori."
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "ロボ子さん",
@@ -11817,7 +14075,12 @@
         "Name": "ボクと過ごす甘いひと時"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "ロボ子さん",
@@ -11843,7 +14106,12 @@
         "Name": "ひとりじゃないよ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "ロボ子さん",
@@ -11869,7 +14137,12 @@
         "Name": "んーーーおいしい[๑´ڡ`๑]♡"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "ロボ子さん",
@@ -11895,7 +14168,12 @@
         "Name": "がおー！！......ビックリした？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "ロボ子さん",
@@ -11923,6 +14201,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#シューター"
+    ],
     "ExtraRule": 4
   },
   {
@@ -11950,7 +14233,12 @@
         "Name": "＜封印＞ ダークブライダル"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "戌神ころね",
@@ -11976,7 +14264,12 @@
         "Name": "指一本くれや！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "戌神ころね",
@@ -12002,7 +14295,12 @@
         "Name": "おめでとうをありがとう！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "戌神ころね",
@@ -12028,7 +14326,12 @@
         "Name": "しばきあげパンチング"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "戌神ころね",
@@ -12054,7 +14357,12 @@
         "Name": "終焉のウォウウォウアックス"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -12087,7 +14395,12 @@
         "Name": "みんなかつもくせよ！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター"
+    ]
   },
   {
     "Name": "夏色まつり",
@@ -12113,7 +14426,12 @@
         "Name": "ざんね～ん"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "夏色まつり",
@@ -12139,7 +14457,12 @@
         "Name": "ありがとっ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "夏色まつり",
@@ -12165,7 +14488,12 @@
         "Name": "CURE PALE"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "夏色まつり",
@@ -12200,7 +14528,12 @@
         "Name": "ダンスレッスン頑張るぞ！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "夏色まつり",
@@ -12228,6 +14561,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ],
     "ExtraRule": 4
   },
   {
@@ -12255,7 +14593,12 @@
         "Name": "Never give up!! 夏色魂"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -12281,7 +14624,12 @@
         "Name": "取り敢えずPOWERで頑張るっす！！！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -12307,7 +14655,12 @@
         "Name": "さ゛さ゛な゛み゛の゛音゛"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -12333,7 +14686,12 @@
         "Name": "どこへだって行ける"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -12360,7 +14718,12 @@
         "Name": "GUILTY or INNOCENT"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "アーニャ・メルフィッサ",
@@ -12386,7 +14749,12 @@
         "Name": "奇妙な来客"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
   },
   {
     "Name": "ラムダック",
@@ -12413,6 +14781,14 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#4期生",
+      "#トリ",
+      "#ケモミミ",
+      "#歌"
+    ],
     "ExtraRule": 8,
     "ExtraNames": [
       "角巻わため",
@@ -12444,6 +14820,11 @@
       }
     ],
     "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ"
+    ],
     "ExtraRule": 2
   },
   {
@@ -12470,7 +14851,13 @@
         "Name": "スプリングシープ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -12492,7 +14879,13 @@
         "Name": "ガブガブ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -12518,7 +14911,13 @@
         "Name": "みんなの声聞けるかなー？？？？？？？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -12544,7 +14943,13 @@
         "Name": "これボタン弾けちゃうよぉ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -12570,7 +14975,13 @@
         "Name": "わたキャノンもだ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -12596,7 +15007,13 @@
         "Name": "センキューオーバーシープ！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -12623,7 +15040,13 @@
         "Name": "脳天直撃わためハンマー！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "ベスティア・ゼータ",
@@ -12649,7 +15072,11 @@
         "Name": "ノラネコ見つけた~"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "ベスティア・ゼータ",
@@ -12675,7 +15102,11 @@
         "Name": "So, Tell Me Your Secrets?"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "ベスティア・ゼータ",
@@ -12701,7 +15132,11 @@
         "Name": "みんなと一緒にいる時間が好き"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "ベスティア・ゼータ",
@@ -12727,7 +15162,11 @@
         "Name": "うまみ～うまみ～♪"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "ベスティア・ゼータ",
@@ -12755,6 +15194,10 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ],
     "ExtraRule": 4
   },
   {
@@ -12781,7 +15224,11 @@
         "Name": "もっとパフォーマンスしたい！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "ベスティア・ゼータ",
@@ -12808,7 +15255,11 @@
         "Name": "最高のシークレットエージェント"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "白銀ノエル",
@@ -12834,7 +15285,12 @@
         "Name": "元気もりもりさんでーまっする"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
   },
   {
     "Name": "大神ミオ",
@@ -12860,7 +15316,13 @@
         "Name": "MIOON!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
   },
   {
     "Name": "大神ミオ",
@@ -12886,7 +15348,13 @@
         "Name": "今日もいっぱい笑っていこう"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
   },
   {
     "Name": "大神ミオ",
@@ -12912,7 +15380,13 @@
         "Name": "ゲーマーズカフェへようこそ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
   },
   {
     "Name": "大神ミオ",
@@ -12938,7 +15412,13 @@
         "Name": "ちょっとお洒落な感じでしょ？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
   },
   {
     "Name": "大神ミオ",
@@ -12964,7 +15444,13 @@
         "Name": "女王陛下と呼びなさい"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
   },
   {
     "Name": "大神ミオ",
@@ -12991,7 +15477,13 @@
         "Name": "天まで届け、みんなの願い"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
   },
   {
     "Name": "大神ミオ",
@@ -13017,7 +15509,13 @@
         "Name": "Upright Leading"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -13043,7 +15541,11 @@
         "Name": "たくさんの宝物"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "アイラニ・イオフィフティーン",
@@ -13071,6 +15573,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#絵"
+    ],
     "ExtraRule": 4
   },
   {
@@ -13097,7 +15604,11 @@
         "Name": "一陣の夜風"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "輪堂千速",
@@ -13124,7 +15635,11 @@
         "Name": "～Something blue～ 千速"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "輪堂千速",
@@ -13150,7 +15665,11 @@
         "Name": "どっちが速いｶﾅ？！？！？！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "輪堂千速",
@@ -13177,7 +15696,11 @@
         "Name": "サージングエキゾースト"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "赤井はあと",
@@ -13203,7 +15726,12 @@
         "Name": "どちらがお好き？♡"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ]
   },
   {
     "Name": "赤井はあと",
@@ -13229,7 +15757,12 @@
         "Name": "旅はまだ、始まったばかり。"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ]
   },
   {
     "Name": "赤井はあと",
@@ -13255,7 +15788,12 @@
         "Name": "hololiveEN0"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ]
   },
   {
     "Name": "赤井はあと",
@@ -13282,7 +15820,12 @@
         "Name": "俺の名は〝ちゃまお〟漢の中の漢だ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ]
   },
   {
     "Name": "赤井はあと",
@@ -13308,7 +15851,12 @@
         "Name": "当店自慢のはあとんバーガー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ]
   },
   {
     "Name": "赤井はあと",
@@ -13335,7 +15883,12 @@
         "Name": "万物に愛されちゃま計画"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ]
   },
   {
     "Name": "赤井はあと",
@@ -13369,7 +15922,12 @@
         "Name": "幸せへの旅路"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -13396,7 +15954,12 @@
         "Name": "桜は花に顕る"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "尾丸ポルカ",
@@ -13422,7 +15985,12 @@
         "Name": "スタッフファーストです！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "ハコス・ベールズ",
@@ -13450,6 +16018,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ],
     "ExtraRule": 4
   },
   {
@@ -13476,7 +16049,12 @@
         "Name": "Onwards and Upwards!"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#歌"
+    ]
   },
   {
     "Name": "エリザベス・ローズ・ブラッドフレイム",
@@ -13502,7 +16080,12 @@
         "Name": "さあ、かかってくるといい"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#歌"
+    ]
   },
   {
     "Name": "エリザベス・ローズ・ブラッドフレイム",
@@ -13530,6 +16113,11 @@
       }
     ],
     "BatonPassCost": 3,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#歌"
+    ],
     "ExtraRule": 4
   },
   {
@@ -13557,7 +16145,12 @@
         "Name": "不撓のコンチェルタート"
       }
     ],
-    "BatonPassCost": 3
+    "BatonPassCost": 3,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#歌"
+    ]
   },
   {
     "Name": "オーロ・クロニー",
@@ -13583,7 +16176,11 @@
         "Name": "金色のルアー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise"
+    ]
   },
   {
     "Name": "オーロ・クロニー",
@@ -13609,7 +16206,11 @@
         "Name": "Check This Out Yo \uD83D\uDD76️"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise"
+    ]
   },
   {
     "Name": "オーロ・クロニー",
@@ -13635,7 +16236,11 @@
         "Name": "私の新キャッチフレーズ。どうだい？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise"
+    ]
   },
   {
     "Name": "オーロ・クロニー",
@@ -13662,7 +16267,11 @@
         "Name": "Everlasting Flower"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise"
+    ]
   },
   {
     "Name": "オーロ・クロニー",
@@ -13685,6 +16294,10 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise"
+    ],
     "ExtraRule": 4
   },
   {
@@ -13712,7 +16325,11 @@
         "Name": "Life Goes On"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise"
+    ]
   },
   {
     "Name": "オーロ・クロニー",
@@ -13739,7 +16356,11 @@
         "Name": "You're not ready for me."
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise"
+    ]
   },
   {
     "Name": "猫又おかゆ",
@@ -13766,7 +16387,12 @@
         "Name": "おりゃー！！油断したでしょ～"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "こぼ・かなえる",
@@ -13793,7 +16419,11 @@
         "Name": "MANTAP LEE!!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -13819,7 +16449,11 @@
         "Name": "A Cozy, Spooky Night Together"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ]
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -13852,7 +16486,11 @@
         "Name": "Don't Let Her Cook!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ]
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -13878,7 +16516,11 @@
         "Name": "逃がす訳がないでしょう？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ]
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -13904,7 +16546,11 @@
         "Name": "解き放たれた禁断の知識"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ]
   },
   {
     "Name": "AZKi",
@@ -13930,7 +16576,12 @@
         "Name": "君とぴったり密着空間"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "AZKi",
@@ -13952,7 +16603,12 @@
         "Name": "ゆっくりしにおいで♡"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "AZKi",
@@ -13986,7 +16642,12 @@
         "Name": "みんなの声聞かせてええええええ！！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "AZKi",
@@ -14012,7 +16673,12 @@
         "Name": "音楽と歌うことが大好き！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "AZKi",
@@ -14039,7 +16705,12 @@
         "Name": "君と二人きりの夜"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "AZKi",
@@ -14065,7 +16736,12 @@
         "Name": "ホワイトデーのお返し、待ってるね"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "AZKi",
@@ -14100,7 +16776,12 @@
         "Name": "紡いだ軌跡 すべてに捧ぐ歌"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "癒月ちょこ",
@@ -14126,7 +16807,12 @@
         "Name": "がんばって美味しいの作るね♡"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -14152,7 +16838,12 @@
         "Name": "手作りの朝ごはんを要求する"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター"
+    ]
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -14179,7 +16870,12 @@
         "Name": "吾輩との秘密だぞ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター"
+    ]
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -14205,7 +16901,13 @@
         "Name": "吾輩の歌聴いてくれる奴いるううう！？！？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター",
+      "#歌"
+    ]
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -14232,7 +16934,13 @@
         "Name": "吾輩の歌を聴けえええええええ！！！！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター",
+      "#歌"
+    ]
   },
   {
     "Name": "古石ビジュー",
@@ -14258,7 +16966,12 @@
         "Name": "CODE:81800"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "ネリッサ・レイヴンクロフト",
@@ -14286,6 +16999,12 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ],
     "ExtraRule": 4
   },
   {
@@ -14312,7 +17031,13 @@
         "Name": "ねね、酔っちゃった～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ]
   },
   {
     "Name": "桃鈴ねね",
@@ -14338,7 +17063,13 @@
         "Name": "ねねと一緒に楽しもう！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ]
   },
   {
     "Name": "桃鈴ねね",
@@ -14364,7 +17095,13 @@
         "Name": "ご自由にお使いください！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ]
   },
   {
     "Name": "桃鈴ねね",
@@ -14390,7 +17127,13 @@
         "Name": "さいくーにくぅわいい"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ]
   },
   {
     "Name": "桃鈴ねね",
@@ -14416,7 +17159,13 @@
         "Name": "君のハートをブルロック！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ]
   },
   {
     "Name": "桃鈴ねね",
@@ -14442,7 +17191,13 @@
         "Name": "アチョ～～～！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ]
   },
   {
     "Name": "桃鈴ねね",
@@ -14469,7 +17224,13 @@
         "Name": "オーバーチアリーディング"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ]
   },
   {
     "Name": "夏色まつり",
@@ -14496,7 +17257,12 @@
         "Name": "やっぱり、FPSとか？"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -14522,7 +17288,12 @@
         "Name": "元気いっぱいカラフルパフェ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
   },
   {
     "Name": "ジジ・ムリン",
@@ -14549,7 +17320,11 @@
         "Name": "追撃のライオット"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Justice"
+    ]
   },
   {
     "Name": "虎金妃笑虎",
@@ -14575,7 +17350,11 @@
         "Name": "現行犯逮捕だ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "虎金妃笑虎",
@@ -14602,7 +17381,11 @@
         "Name": "みんなが居るから幸せだ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "虎金妃笑虎",
@@ -14628,7 +17411,11 @@
         "Name": "スッゲーワクワクするしょ！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "虎金妃笑虎",
@@ -14654,36 +17441,11 @@
         "Name": "ぶち上げる気合いだ！"
       }
     ],
-    "BatonPassCost": 2
-  },
-  {
-    "Name": "さくらみこ",
-    "Code": "hPR-001",
-    "Color": 0,
-    "BloomLevel": "Spot",
-    "Buzz": false,
-    "InitialHp": 50,
-    "Effects": [
-      {
-        "Type": "CollabEffect",
-        "Name": "誰かの芽吹きになれたら",
-        "Text": "サイコロを１回振れる：１か３か５の時、自分のエールデッキから、[赤エールか青エール]１枚を公開し、自分のバックホロメンに送る。そしてエールデッキをシャッフルする。"
-      },
-      {
-        "Damage": 10,
-        "TextBoostsDamage": false,
-        "UseCost": {
-          "Neutral": 1
-        },
-        "CriticalColor": null,
-        "CriticalAmount": null,
-        "Type": "Arts",
-        "Name": "flower rhapsody",
-        "Text": ""
-      }
-    ],
-    "BatonPassCost": 1,
-    "ExtraRule": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "ときのそら",
@@ -14705,7 +17467,12 @@
         "Name": "(๑╹ᆺ╹)ぬんぬん"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "ときのそら",
@@ -14731,7 +17498,12 @@
         "Name": "オンステージ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "ときのそら",
@@ -14765,7 +17537,12 @@
         "Name": "あなたの心は…くもりのち晴れ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "ときのそら",
@@ -14802,6 +17579,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ],
     "ExtraRule": 4
   },
   {
@@ -14828,7 +17610,12 @@
         "Name": "希望の化身"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ]
   },
   {
     "Name": "AZKi",
@@ -14850,7 +17637,12 @@
         "Name": "がんばれてえらい！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "AZKi",
@@ -14876,7 +17668,12 @@
         "Name": "ほいでほいで"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "AZKi",
@@ -14899,7 +17696,12 @@
         "Name": "きみとあてのない旅"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "AZKi",
@@ -14933,7 +17735,12 @@
         "Name": "デスティニーソング"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "アイラニ・イオフィフティーン",
@@ -14959,7 +17766,12 @@
         "Name": "お絵かきたのしー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#絵"
+    ]
   },
   {
     "Name": "SorAZ",
@@ -14982,6 +17794,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ],
     "ExtraRule": 8,
     "ExtraNames": [
       "ときのそら",
@@ -15010,6 +17827,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌"
+    ],
     "ExtraRule": 2
   },
   {
@@ -15037,6 +17859,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ"
+    ],
     "ExtraRule": 2
   },
   {
@@ -15060,6 +17887,11 @@
       }
     ],
     "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ],
     "ExtraRule": 1
   },
   {
@@ -15086,7 +17918,12 @@
         "Name": "不知火"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "百鬼あやめ",
@@ -15112,7 +17949,12 @@
         "Name": "おだんごおいしい余"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "百鬼あやめ",
@@ -15146,7 +17988,12 @@
         "Name": "おつなきりー"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "百鬼あやめ",
@@ -15172,7 +18019,12 @@
         "Name": "一緒にお祝い"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "百鬼あやめ",
@@ -15198,7 +18050,12 @@
         "Name": "輝いた余を見逃さないでね～～！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "百鬼あやめ",
@@ -15234,6 +18091,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ],
     "ExtraRule": 4
   },
   {
@@ -15268,7 +18130,12 @@
         "Name": "余ーだ余"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -15295,6 +18162,13 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ],
     "ExtraRule": 2
   },
   {
@@ -15322,6 +18196,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ],
     "ExtraRule": 2
   },
   {
@@ -15345,6 +18225,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ],
     "ExtraRule": 1
   },
   {
@@ -15371,7 +18256,12 @@
         "Name": "僕をお家に入れてください"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "猫又おかゆ",
@@ -15397,7 +18287,12 @@
         "Name": "学生猫"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "猫又おかゆ",
@@ -15431,7 +18326,12 @@
         "Name": "えへへないたずら"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "猫又おかゆ",
@@ -15465,7 +18365,13 @@
         "Name": "しゃー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#歌"
+    ]
   },
   {
     "Name": "猫又おかゆ",
@@ -15491,7 +18397,12 @@
         "Name": "全力で僕なりの歌、お届けします！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "猫又おかゆ",
@@ -15519,6 +18430,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ],
     "ExtraRule": 4
   },
   {
@@ -15554,7 +18470,12 @@
         "Name": "おかゆ～"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "戌神ころね",
@@ -15581,6 +18502,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ],
     "ExtraRule": 2
   },
   {
@@ -15615,6 +18541,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター"
+    ],
     "ExtraRule": 2
   },
   {
@@ -15638,6 +18569,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ],
     "ExtraRule": 1
   },
   {
@@ -15665,7 +18601,12 @@
         "Name": "マイキュ～トスチュ～デ～ンツ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
   },
   {
     "Name": "癒月ちょこ",
@@ -15691,7 +18632,12 @@
         "Name": "いっぱい食べてね♡"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
   },
   {
     "Name": "癒月ちょこ",
@@ -15725,7 +18671,12 @@
         "Name": "あ～む（ﾁｭｯ）"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
   },
   {
     "Name": "癒月ちょこ",
@@ -15748,7 +18699,12 @@
         "Name": "禁断のキッス"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
   },
   {
     "Name": "癒月ちょこ",
@@ -15774,7 +18730,12 @@
         "Name": "大好き！ちゅっ♡"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
   },
   {
     "Name": "癒月ちょこ",
@@ -15810,6 +18771,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ],
     "ExtraRule": 4
   },
   {
@@ -15845,7 +18811,12 @@
         "Name": "あくとっ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -15872,6 +18843,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生"
+    ],
     "ExtraRule": 2
   },
   {
@@ -15899,6 +18874,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生"
+    ],
     "ExtraRule": 2
   },
   {
@@ -15922,6 +18901,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ],
     "ExtraRule": 1
   },
   {
@@ -15948,7 +18932,12 @@
         "Name": "お洒落番長"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "轟はじめ",
@@ -15971,7 +18960,12 @@
         "Name": "ReGLOSSの番長"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "轟はじめ",
@@ -16004,7 +18998,12 @@
         "Name": "うぃー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "轟はじめ",
@@ -16038,7 +19037,12 @@
         "Name": "ありあとりゃあすっ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "轟はじめ",
@@ -16064,7 +19068,12 @@
         "Name": "度胸、愛嬌、最強"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "轟はじめ",
@@ -16087,6 +19096,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ],
     "ExtraRule": 4
   },
   {
@@ -16114,7 +19128,12 @@
         "Name": "滅紫の雷"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -16136,7 +19155,12 @@
         "Name": "ちょいと一席"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "一条莉々華",
@@ -16162,7 +19186,12 @@
         "Name": "社長の推し事"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#料理"
+    ]
   },
   {
     "Name": "火威青",
@@ -16188,7 +19217,12 @@
         "Name": "世界一かわいいよ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#絵"
+    ]
   },
   {
     "Name": "音乃瀬奏",
@@ -16214,7 +19248,12 @@
         "Name": "ガハw"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#歌"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -16240,7 +19279,11 @@
         "Name": "いえす！ｼﾞｬｷﾝｼﾞｬｷﾝ！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -16262,7 +19305,11 @@
         "Name": "一刀両断叩き斬る"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -16285,7 +19332,11 @@
         "Name": "照れ屋な用心棒"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -16311,7 +19362,11 @@
         "Name": "かざまといっしょ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "風真いろは",
@@ -16339,6 +19394,10 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ],
     "ExtraRule": 4
   },
   {
@@ -16366,7 +19425,11 @@
         "Name": "天才では？"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
   },
   {
     "Name": "博衣こより",
@@ -16392,7 +19455,12 @@
         "Name": "どやぁ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "鷹嶺ルイ",
@@ -16414,7 +19482,13 @@
         "Name": "頼れる女幹部"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -16436,7 +19510,12 @@
         "Name": "狂気の宴"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#シューター"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -16470,6 +19549,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ],
     "ExtraRule": 1
   },
   {
@@ -16496,7 +19580,12 @@
         "Name": "キミといっしょにお出かけ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -16518,7 +19607,12 @@
         "Name": "ワンダフルライフ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -16552,7 +19646,12 @@
         "Name": "キミとティータイム"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -16578,7 +19677,12 @@
         "Name": "キミを1番好きなのはわたしぃ～♡"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -16605,7 +19709,12 @@
         "Name": "キミに見てほしいな！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -16629,6 +19738,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ],
     "ExtraRule": 4
   },
   {
@@ -16656,7 +19770,12 @@
         "Name": "情熱ステージ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
   },
   {
     "Name": "白銀ノエル",
@@ -16682,7 +19801,12 @@
         "Name": "いっぱい建築したいです"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -16708,7 +19832,12 @@
         "Name": "魔王軍は無くなりました"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "尾丸ポルカ",
@@ -16734,7 +19863,12 @@
         "Name": "骨を埋める覚悟"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -16760,7 +19894,12 @@
         "Name": "雇ってください‼"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "天音かなた",
@@ -16786,7 +19925,13 @@
         "Name": "浴衣似合うでしょ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#サマー"
+    ]
   },
   {
     "Name": "天音かなた",
@@ -16813,7 +19958,12 @@
         "Name": "みんなのスパダリ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌"
+    ]
   },
   {
     "Name": "天音かなた",
@@ -16840,7 +19990,12 @@
         "Name": "きみの背中に追いつけるように"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌"
+    ]
   },
   {
     "Name": "姫森ルーナ",
@@ -16866,7 +20021,13 @@
         "Name": "お祭りなのら"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ベイビー",
+      "#サマー"
+    ]
   },
   {
     "Name": "常闇トワ",
@@ -16892,7 +20053,14 @@
         "Name": "トワに見惚れちゃった？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター",
+      "#サマー"
+    ]
   },
   {
     "Name": "角巻わため",
@@ -16918,7 +20086,14 @@
         "Name": "わたあめおいしいねぇ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌",
+      "#サマー"
+    ]
   },
   {
     "Name": "宝鐘マリン",
@@ -16944,7 +20119,14 @@
         "Name": "船長も一緒にい・か・が？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海",
+      "#サマー"
+    ]
   },
   {
     "Name": "宝鐘マリン",
@@ -16972,6 +20154,12 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海"
+    ],
     "ExtraRule": 4
   },
   {
@@ -17006,7 +20194,13 @@
         "Name": "キミたちと水平線の向こう側へ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海"
+    ]
   },
   {
     "Name": "白銀ノエル",
@@ -17032,7 +20226,13 @@
         "Name": "夏が来たぞー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒",
+      "#サマー"
+    ]
   },
   {
     "Name": "兎田ぺこら",
@@ -17058,7 +20258,13 @@
         "Name": "ご注文のかき氷ぺこ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ケモミミ",
+      "#サマー"
+    ]
   },
   {
     "Name": "不知火フレア",
@@ -17084,7 +20290,13 @@
         "Name": "冷たいものお待ちどうさま♪"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ",
+      "#サマー"
+    ]
   },
   {
     "Name": "輪堂千速",
@@ -17107,6 +20319,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
     "ExtraRule": 1
   },
   {
@@ -17141,7 +20357,11 @@
         "Name": "全身全霊 越えてく限界"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "輪堂千速",
@@ -17168,7 +20388,11 @@
         "Name": "パワフルな運転手だよ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "輪堂千速",
@@ -17194,7 +20418,11 @@
         "Name": "行きます！！！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "輪堂千速",
@@ -17229,7 +20457,11 @@
         "Name": "アクセラビートブレイズ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "綺々羅々ヴィヴィ",
@@ -17252,6 +20484,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
     "ExtraRule": 1
   },
   {
@@ -17278,7 +20514,11 @@
         "Name": "そこに愛はあるんや！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "綺々羅々ヴィヴィ",
@@ -17305,7 +20545,11 @@
         "Name": "ヴィジランスヴィーナス"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "響咲リオナ",
@@ -17332,6 +20576,10 @@
       }
     ],
     "BatonPassCost": 0,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
     "ExtraRule": 2
   },
   {
@@ -17355,6 +20603,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
     "ExtraRule": 1
   },
   {
@@ -17388,7 +20640,11 @@
         "Name": "期待せよ 牙で噛まれちゃうシゲキ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "虎金妃笑虎",
@@ -17415,7 +20671,11 @@
         "Name": "自分の人生すらも捧げられる"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "虎金妃笑虎",
@@ -17441,7 +20701,11 @@
         "Name": "百折不撓"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "虎金妃笑虎",
@@ -17467,7 +20731,11 @@
         "Name": "虎嘯風生"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "水宮枢",
@@ -17490,6 +20758,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
     "ExtraRule": 1
   },
   {
@@ -17516,7 +20788,11 @@
         "Name": "愛は時間ですよ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "水宮枢",
@@ -17543,7 +20819,11 @@
         "Name": "スゥイートオブセッション"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -17569,7 +20849,11 @@
         "Name": "アデュー、親愛なる聞き手様"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ]
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -17602,7 +20886,11 @@
         "Name": "Just a Humble, Kind Witch"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ]
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -17628,7 +20916,11 @@
         "Name": "車窓から見える星がとてもきれいよ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ]
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -17656,6 +20948,10 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ],
     "ExtraRule": 4
   },
   {
@@ -17683,7 +20979,11 @@
         "Name": "私達を見くびらないで貰える？"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent"
+    ]
   },
   {
     "Name": "古石ビジュー",
@@ -17709,7 +21009,12 @@
         "Name": "私……この頃よく夢を見るの。"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "古石ビジュー",
@@ -17735,7 +21040,12 @@
         "Name": "とっても感謝してるの"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "古石ビジュー",
@@ -17769,7 +21079,12 @@
         "Name": "Your Princess AWAKENS!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "古石ビジュー",
@@ -17796,7 +21111,12 @@
         "Name": "キラキラぜーんぶ受け止めて！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "ネリッサ・レイヴンクロフト",
@@ -17819,7 +21139,13 @@
         "Name": "綾なす想いは、儚きブルー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
   },
   {
     "Name": "モココ・アビスガード",
@@ -17845,7 +21171,12 @@
         "Name": "ほんまにほんま～！！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "フワワ・アビスガード",
@@ -17871,7 +21202,12 @@
         "Name": "ほんまにほんまだよ！"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
   },
   {
     "Name": "エリザベス・ローズ・ブラッドフレイム",
@@ -17894,6 +21230,11 @@
       }
     ],
     "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#歌"
+    ],
     "ExtraRule": 1
   },
   {
@@ -17928,7 +21269,12 @@
         "Name": "私の心の炎は青い"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#歌"
+    ]
   },
   {
     "Name": "エリザベス・ローズ・ブラッドフレイム",
@@ -17955,7 +21301,12 @@
         "Name": "Lovely to See You, to See You, Lovely～♡"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#歌"
+    ]
   },
   {
     "Name": "エリザベス・ローズ・ブラッドフレイム",
@@ -17981,7 +21332,12 @@
         "Name": "守護るべきもの"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#歌"
+    ]
   },
   {
     "Name": "エリザベス・ローズ・ブラッドフレイム",
@@ -18008,7 +21364,12 @@
         "Name": "悪斬りのカデンツァ"
       }
     ],
-    "BatonPassCost": 3
+    "BatonPassCost": 3,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#歌"
+    ]
   },
   {
     "Name": "ジジ・ムリン",
@@ -18035,6 +21396,10 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice"
+    ],
     "ExtraRule": 1
   },
   {
@@ -18061,7 +21426,11 @@
         "Name": "YIPPEEE"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice"
+    ]
   },
   {
     "Name": "ジジ・ムリン",
@@ -18095,7 +21464,11 @@
         "Name": "悪戯好きのグレムリン"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice"
+    ]
   },
   {
     "Name": "ジジ・ムリン",
@@ -18122,7 +21495,11 @@
         "Name": "すべての意味を追い求めて"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice"
+    ]
   },
   {
     "Name": "ジジ・ムリン",
@@ -18149,7 +21526,11 @@
         "Name": "負けるわけにはいかない"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice"
+    ]
   },
   {
     "Name": "ジジ・ムリン",
@@ -18176,7 +21557,11 @@
         "Name": "殻破りのライオット"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Justice"
+    ]
   },
   {
     "Name": "セシリア・イマーグリーン",
@@ -18203,6 +21588,11 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ],
     "ExtraRule": 2
   },
   {
@@ -18230,6 +21620,12 @@
       }
     ],
     "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#ケモミミ",
+      "#絵"
+    ],
     "ExtraRule": 2
   },
   {
@@ -18252,7 +21648,14 @@
         "Name": "はじまんぼう！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -18274,7 +21677,14 @@
         "Name": "今日もあなたのそばに -フブキ-"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -18300,7 +21710,14 @@
         "Name": "ハイ\u3000フレンズ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -18326,7 +21743,14 @@
         "Name": "いつでもいけるよ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -18360,7 +21784,14 @@
         "Name": "キラキラなきーつね！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -18386,7 +21817,14 @@
         "Name": "あーまいーこのきーもちー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -18412,7 +21850,14 @@
         "Name": "一緒に行こう(??????)??"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "白上フブキ",
@@ -18439,7 +21884,14 @@
         "Name": "胸を張って歌い続けるよ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#絵"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -18461,7 +21913,12 @@
         "Name": "寄ってらっしゃい見てらっしゃい"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -18483,7 +21940,12 @@
         "Name": "今日もあなたのそばに -らでん-"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -18509,7 +21971,12 @@
         "Name": "散歩でもいかがですかな？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -18535,7 +22002,12 @@
         "Name": "そろそろ始めちゃいますか"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -18570,7 +22042,12 @@
         "Name": "ちょいと一席付き合ってみませんか？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -18596,7 +22073,12 @@
         "Name": "この博物館おもしろそう！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -18623,7 +22105,12 @@
         "Name": "きのこ狩り"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "儒烏風亭らでん",
@@ -18650,7 +22137,12 @@
         "Name": "伝統と革新をあなたに"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#お酒"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -18672,7 +22164,12 @@
         "Name": "さくらみこだよ～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -18694,7 +22191,12 @@
         "Name": "エリート巫女アイドル！ さくらみこだよ～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -18720,7 +22222,12 @@
         "Name": "でゃまれ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -18742,7 +22249,12 @@
         "Name": "桜風ランニング"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -18776,7 +22288,12 @@
         "Name": "いっくぞぉおおおお"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -18802,7 +22319,12 @@
         "Name": "みこの耳かきスキルに蕩けちゃえ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -18828,7 +22350,12 @@
         "Name": "いっぱい遊ぼっ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "さくらみこ",
@@ -18855,7 +22382,12 @@
         "Name": "この瞬間を見せてあげたいなって"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#ベイビー"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -18877,7 +22409,12 @@
         "Name": "バーチャルアイドル・星街すいせい"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -18899,7 +22436,12 @@
         "Name": "今日もあなたのそばに -すいせい-"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -18925,7 +22467,12 @@
         "Name": "私だけの輝き"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -18947,7 +22494,12 @@
         "Name": "よーし、レッスン開始だー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -18981,7 +22533,12 @@
         "Name": "みんな準備はできてる？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -19007,7 +22564,12 @@
         "Name": "バレンタイン……か……"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -19034,7 +22596,12 @@
         "Name": "あなたの一番星"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "星街すいせい",
@@ -19061,7 +22628,12 @@
         "Name": "キラキラの向こう側へ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -19083,7 +22655,12 @@
         "Name": "Nice to reap you"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -19105,7 +22682,12 @@
         "Name": "今日もあなたのそばに -カリオペ-"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -19131,7 +22713,12 @@
         "Name": "あたためて貰えますか…？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -19157,7 +22744,12 @@
         "Name": "一緒に、どう？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -19191,7 +22783,12 @@
         "Name": "負けない。諦めない。"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -19217,7 +22814,12 @@
         "Name": "手伝ってもらって助かるよ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -19244,7 +22846,12 @@
         "Name": "OK、もう一曲行こう！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "森カリオペ",
@@ -19270,7 +22877,12 @@
         "Name": "刻むぞ冥界のビート"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#歌"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -19292,7 +22904,12 @@
         "Name": "あじまるあじまる～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -19314,7 +22931,12 @@
         "Name": "今日もあなたのそばに -スバル-"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -19340,7 +22962,12 @@
         "Name": "しゅばぁ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -19366,7 +22993,12 @@
         "Name": "いっちにー、ホワッ、ホワッ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -19400,7 +23032,12 @@
         "Name": "いっぱい楽しむ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -19426,7 +23063,12 @@
         "Name": "忘れてなんかやるもんか"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -19448,7 +23090,12 @@
         "Name": "萌え萌えギュン"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   },
   {
     "Name": "大空スバル",
@@ -19470,6 +23117,11 @@
         "Name": "ダンシング・プレアデス"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
   }
 ]

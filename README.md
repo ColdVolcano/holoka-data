@@ -23,6 +23,7 @@ An array of objects representing holomem cards.
 | `Buzz`          | Boolean | Whether the card is a "Buzz" card.                                                                                                                  |
 | `InitialHp`     | Number  | The printed HP of the holomem.                                                                                                                      |
 | `Effects`       | Array   | A list of effects or arts. See [Effect Structure](#effect-structure).                                                                               |
+| `Tags`          | Array   | The list of tags of the holomem.                                                                                                                    |
 | `BatonPassCost` | Number  | The baton pass cost.                                                                                                                                |
 | `ExtraRule`     | Number  | The Extra Rule types in the holomem.                                                                                                                |
 | `ExtraNames`    | Array   | The names added to the card by its Extra Rules                                                                                                      |

@@ -711,7 +711,11 @@
     "Name": "アキ・ローゼンタールの斧",
     "Code": "hBP05-082",
     "Type": "Tool",
-    "Limited": false
+    "Limited": false,
+    "ExtraRule": 8,
+    "ExtraNames": [
+      "石の斧"
+    ]
   },
   {
     "Name": "ネリッサ・レイヴンクロフトの杖",

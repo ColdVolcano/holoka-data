@@ -19,7 +19,8 @@
         "Name": "こんかなた～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "天音かなた",
@@ -168,7 +169,8 @@
         "Name": "Oh,Hi"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "七詩ムメイ",
@@ -325,7 +327,8 @@
         "Name": "みんな～こんそめ～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "ときのそら",
@@ -400,7 +403,8 @@
         "Name": "ミッションスタート"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "ベスティア・ゼータ",
@@ -487,7 +491,8 @@
         "Name": "アクセスコード:ID"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "IRyS",
@@ -509,7 +514,8 @@
         "Name": "ハイRyS！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "IRyS",
@@ -607,7 +613,8 @@
         "Name": "アロ～ナ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "アキ・ローゼンタール",
@@ -767,7 +774,8 @@
         "Name": "こんぺこー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "兎田ぺこら",
@@ -924,7 +932,8 @@
         "Name": "こんあずき～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "AZKi",
@@ -1025,7 +1034,8 @@
         "Name": "皆殿、風真いろはでござる～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "風真いろは",
@@ -1121,7 +1131,8 @@
         "Name": "風華の輝き"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "アイラニ・イオフィフティーン",
@@ -1143,7 +1154,8 @@
         "Name": "スラマッパギ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "アイラニ・イオフィフティーン",
@@ -1240,7 +1252,8 @@
         "Name": "皆さん、待っ鷹ね？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "鷹嶺ルイ",
@@ -1408,7 +1421,8 @@
         "Name": "キッケリキー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "小鳥遊キアラ",
@@ -1570,7 +1584,8 @@
         "Name": "ポルカおるよ！"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "ExtraRule": 1
   },
   {
     "Name": "尾丸ポルカ",
@@ -1658,7 +1673,8 @@
         "Name": "ポルカサーカス"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 4
   },
   {
     "Name": "ハコス・ベールズ",
@@ -1680,7 +1696,8 @@
         "Name": "WAZZUP!!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "ハコス・ベールズ",
@@ -1778,7 +1795,8 @@
         "Name": "スターの原石"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "星街すいせい",
@@ -1939,7 +1957,8 @@
         "Name": "ぼこぼこぼこぼ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "こぼ・かなえる",
@@ -2105,7 +2124,8 @@
         "Name": "ムーン ムーン ムーナだよ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "ムーナ・ホシノヴァ",
@@ -2188,7 +2208,8 @@
         "Name": "ムーンナイトディーバ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "オーロ・クロニー",
@@ -2210,7 +2231,8 @@
         "Name": "クロにちは～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "オーロ・クロニー",
@@ -2323,7 +2345,8 @@
         "Name": "ぺこら～扉の向こう側へ～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "不知火フレア",
@@ -2349,7 +2372,8 @@
         "Name": "フレア～扉の向こう側へ～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "白銀ノエル",
@@ -2375,7 +2399,8 @@
         "Name": "ノエル～扉の向こう側へ～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "宝鐘マリン",
@@ -2401,7 +2426,8 @@
         "Name": "マリン～扉の向こう側へ～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "森カリオペ",
@@ -2427,7 +2453,8 @@
         "Name": "ソウルご案内"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "ワトソン・アメリア",
@@ -2453,7 +2480,8 @@
         "Name": "初歩的なことなんでしょう？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "白上フブキ",
@@ -2475,7 +2503,8 @@
         "Name": "こんこんきーつね！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "白上フブキ",
@@ -2637,7 +2666,8 @@
         "Name": "こんまっする～！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "白銀ノエル",
@@ -2731,7 +2761,8 @@
         "Name": "3期生ぱわー"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "パヴォリア・レイネ",
@@ -2753,7 +2784,8 @@
         "Name": "ペルハティアン！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "パヴォリア・レイネ",
@@ -2904,7 +2936,8 @@
         "Name": "うちうち、うちだよ～大神ミオだよ～"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 1
   },
   {
     "Name": "大神ミオ",
@@ -2987,7 +3020,8 @@
         "Name": "タロットの導き"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "宝鐘マリン",
@@ -3009,7 +3043,8 @@
         "Name": "宝鐘海賊団船長の宝鐘マリンですぅー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "宝鐘マリン",
@@ -3184,7 +3219,8 @@
         "Name": "オーガニックショット"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "沙花叉クロヱ",
@@ -3206,7 +3242,8 @@
         "Name": "ばっくばっくばく～ん"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "沙花叉クロヱ",
@@ -3362,7 +3399,8 @@
         "Name": "ぽいずん猫"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "紫咲シオン",
@@ -3384,7 +3422,8 @@
         "Name": "どうも～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "紫咲シオン",
@@ -3545,7 +3584,8 @@
         "Name": "ゾンばんは！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "クレイジー・オリー",
@@ -3706,7 +3746,8 @@
         "Name": "グリム・リーパーの第一弟子"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "森カリオペ",
@@ -3862,7 +3903,8 @@
         "Name": "隠しきれない魅力"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 4
   },
   {
     "Name": "一伊那尓栖",
@@ -3884,7 +3926,8 @@
         "Name": "WAH!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "一伊那尓栖",
@@ -3955,7 +3998,8 @@
         "Name": "アルカイックスマイル"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "ネリッサ・レイヴンクロフト",
@@ -3977,7 +4021,8 @@
         "Name": "Hiya darlings!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "ネリッサ・レイヴンクロフト",
@@ -4090,7 +4135,8 @@
         "Name": "『巫女』の『ホロ』！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "魔法少女かなた",
@@ -4116,7 +4162,8 @@
         "Name": "『天使』の『ホロ』！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "魔法少女ルーナ",
@@ -4142,7 +4189,8 @@
         "Name": "『姫』の『ホロ』！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "魔法少女シオン",
@@ -4168,7 +4216,8 @@
         "Name": "『魔女』の『ホロ』！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "魔法少女マリン",
@@ -4194,7 +4243,8 @@
         "Name": "『海賊』の『ホロ』！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "魔法少女クロヱ",
@@ -4220,7 +4270,8 @@
         "Name": "『シャチ』の『ホロ』！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "姫森ルーナ",
@@ -4242,7 +4293,8 @@
         "Name": "みんな～、おりゅ～？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "姫森ルーナ",
@@ -4431,7 +4483,8 @@
         "Name": "ららーいおん♪"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "獅白ぼたん",
@@ -4597,7 +4650,8 @@
         "Name": "情熱のベリーダンサー"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "兎田ぺこら",
@@ -4624,7 +4678,8 @@
         "Name": "カードするぺこ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "風真いろは",
@@ -4673,7 +4728,8 @@
         "Name": "にゃっはろ～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "さくらみこ",
@@ -4844,7 +4900,8 @@
         "Name": "おはるーじゅ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "赤井はあと",
@@ -4920,7 +4977,8 @@
         "Name": "レッド オア ルージュ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "鷹嶺ルイ",
@@ -4943,7 +5001,8 @@
         "Name": "challenger"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "小鳥遊キアラ",
@@ -4992,7 +5051,8 @@
         "Name": "フワワじゃないよ、モココだよ"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "ExtraRule": 1
   },
   {
     "Name": "モココ・アビスガード",
@@ -5045,7 +5105,8 @@
         "Name": "もこもこしてる方"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 4
   },
   {
     "Name": "フワワ・アビスガード",
@@ -5067,7 +5128,8 @@
         "Name": "チワワじゃないよ、フワワだよ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "フワワ・アビスガード",
@@ -5216,7 +5278,8 @@
         "Name": "元気いっぱい！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "火威青",
@@ -5249,7 +5312,8 @@
         "Name": "じゃじゃーん！ 青くんでした。"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "火威青",
@@ -5332,7 +5396,8 @@
         "Name": "イケメンにお任せを"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "FUWAMOCO",
@@ -5366,7 +5431,12 @@
         "Name": "2人揃ってFUWAMOCOです！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 8,
+    "ExtraNames": [
+      "フワワ・アビスガード",
+      "モココ・アビスガード"
+    ]
   },
   {
     "Name": "常闇トワ",
@@ -5388,7 +5458,8 @@
         "Name": "こんやっぴー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "常闇トワ",
@@ -5560,7 +5631,8 @@
         "Name": "はろーぼー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "ロボ子さん",
@@ -5675,7 +5747,8 @@
         "Name": "ゆびゆび～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "戌神ころね",
@@ -5832,7 +5905,8 @@
         "Name": "こんばんドドド～！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "角巻わため",
@@ -6000,7 +6074,8 @@
         "Name": "ぷるぷる～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "アユンダ・リス",
@@ -6163,7 +6238,8 @@
         "Name": "サンライズエール"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "音乃瀬奏",
@@ -6196,7 +6272,8 @@
         "Name": "音楽家の卵！ 音乃瀬～奏で～～～す！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "音乃瀬奏",
@@ -6272,7 +6349,8 @@
         "Name": "歌姫 音乃瀬奏さん"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "博衣こより",
@@ -6294,7 +6372,8 @@
         "Name": "こんこよ～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "博衣こより",
@@ -6475,7 +6554,8 @@
         "Name": "The Race Queen"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "ラオーラ・パンテーラ",
@@ -6497,7 +6577,8 @@
         "Name": "チアオーラ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "ラオーラ・パンテーラ",
@@ -6605,7 +6686,8 @@
         "Name": "儒烏風亭らでんでございます！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "儒烏風亭らでん",
@@ -6819,7 +6901,8 @@
         "Name": "正義の調べ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "セシリア・イマーグリーン",
@@ -6917,7 +7000,8 @@
         "Name": "こんりり"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "一条莉々華",
@@ -7113,7 +7197,8 @@
         "Name": "おはエラ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "カエラ・コヴァルスキア",
@@ -7207,7 +7292,8 @@
         "Name": "お墨付きの一品"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "雪花ラミィ",
@@ -7229,7 +7315,8 @@
         "Name": "こんらみ～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "雪花ラミィ",
@@ -7421,7 +7508,8 @@
         "Name": "しおり～ん！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -7507,7 +7595,8 @@
         "Name": "思い出の栞"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -7529,7 +7618,8 @@
         "Name": "貴様ら、刮目せよ！！"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "ExtraRule": 1
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -7694,7 +7784,8 @@
         "Name": "ゲーム配信中"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "クレイジー・オリー",
@@ -7748,7 +7839,8 @@
         "Name": "最期の一杯"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "古石ビジュー",
@@ -7774,7 +7866,8 @@
         "Name": "ボンビジュー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "古石ビジュー",
@@ -7883,7 +7976,8 @@
         "Name": "ちわーす！ ホロライブ2期生 大空スバルっス!!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "大空スバル",
@@ -8052,7 +8146,8 @@
         "Name": "おはよー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "アーニャ・メルフィッサ",
@@ -8218,7 +8313,8 @@
         "Name": "ホロライブの清楚担当"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "夏色まつり",
@@ -8325,7 +8421,8 @@
         "Name": "こんねね～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "桃鈴ねね",
@@ -8445,7 +8542,8 @@
         "Name": "ERB"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "ジジ・ムリン",
@@ -8471,7 +8569,8 @@
         "Name": "怒らないでよ！"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "ExtraRule": 2
   },
   {
     "Name": "白銀ノエル",
@@ -8752,7 +8851,8 @@
         "Name": "ぱくぱく"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "ベスティア・ゼータ",
@@ -8952,7 +9052,8 @@
         "Name": "帰っちゃうの？"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "アキ・ローゼンタール",
@@ -9055,7 +9156,8 @@
         "Name": "ここからが俺たちのスタートだ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 4
   },
   {
     "Name": "儒烏風亭らでん",
@@ -9090,7 +9192,8 @@
         "Name": "漸く自分の人生を生きてる"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "尾丸ポルカ",
@@ -9367,7 +9470,8 @@
         "Name": "いつでも軌道修正できる"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "miComet",
@@ -9393,7 +9497,12 @@
         "Name": "ビジネスパートナー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 8,
+    "ExtraNames": [
+      "さくらみこ",
+      "星街すいせい"
+    ]
   },
   {
     "Name": "猫又おかゆ",
@@ -9658,7 +9767,8 @@
         "Name": "キーボードクラッシャー"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "火威青",
@@ -10262,7 +10372,8 @@
         "Name": "わためと海辺デート"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "アユンダ・リス",
@@ -10427,7 +10538,8 @@
         "Name": "一緒に世界を征服しよう！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "ラオーラ・パンテーラ",
@@ -10476,7 +10588,8 @@
         "Name": "おかえりおな～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "響咲リオナ",
@@ -10765,7 +10878,8 @@
         "Name": "喜んでもらえたらいいな"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "風真いろは",
@@ -11465,7 +11579,8 @@
         "Name": "下弦の月"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "ムーナ・ホシノヴァ",
@@ -11807,7 +11922,8 @@
         "Name": "かけがえのない日々"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "ロボ子さん",
@@ -12111,7 +12227,8 @@
         "Name": "まつりちゃんにメロメロになれよ❤︎"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "夏色まつり",
@@ -12295,7 +12412,12 @@
         "Name": "I am スバル＆わため！ Yeah！！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 8,
+    "ExtraNames": [
+      "角巻わため",
+      "大空スバル"
+    ]
   },
   {
     "Name": "AIこより",
@@ -12321,7 +12443,8 @@
         "Name": "「ハッピーリーフ！」"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "ExtraRule": 2
   },
   {
     "Name": "角巻わため",
@@ -12631,7 +12754,8 @@
         "Name": "ホロライブID初代ダンスクイーン"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "ベスティア・ゼータ",
@@ -12946,7 +13070,8 @@
         "Name": "ひとつになる声"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "輪堂千速",
@@ -13324,7 +13449,8 @@
         "Name": "キミがいないと楽しくないもん"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "エリザベス・ローズ・ブラッドフレイム",
@@ -13403,7 +13529,8 @@
         "Name": "Because I love people's voices"
       }
     ],
-    "BatonPassCost": 3
+    "BatonPassCost": 3,
+    "ExtraRule": 4
   },
   {
     "Name": "エリザベス・ローズ・ブラッドフレイム",
@@ -13557,7 +13684,8 @@
         "Name": "I'm pretty shy…uwu"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "オーロ・クロニー",
@@ -14157,7 +14285,8 @@
         "Name": "あら、捕まえられちゃった！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "桃鈴ねね",
@@ -14553,7 +14682,8 @@
         "Text": ""
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "ときのそら",
@@ -14671,7 +14801,8 @@
         "Name": "SorAZ シンパシー"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "IRyS",
@@ -14850,7 +14981,12 @@
         "Name": "越えたい未来"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 8,
+    "ExtraNames": [
+      "ときのそら",
+      "AZKi"
+    ]
   },
   {
     "Name": "天音かなた",
@@ -14873,7 +15009,8 @@
         "Name": "へい"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "博衣こより",
@@ -14899,7 +15036,8 @@
         "Name": "ピュアピュアピュア～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "百鬼あやめ",
@@ -14921,7 +15059,8 @@
         "Name": "こんなきり～"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "ExtraRule": 1
   },
   {
     "Name": "百鬼あやめ",
@@ -15094,7 +15233,8 @@
         "Name": "プレゼント何かな？"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 4
   },
   {
     "Name": "百鬼あやめ",
@@ -15154,7 +15294,8 @@
         "Name": "あやふぶみの「ふぶ」担当"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "大神ミオ",
@@ -15180,7 +15321,8 @@
         "Name": "あやふぶみの「み」担当"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "猫又おかゆ",
@@ -15202,7 +15344,8 @@
         "Name": "もぐもぐ～おかゆ～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "猫又おかゆ",
@@ -15375,7 +15518,8 @@
         "Name": "いちばんえらい猫又おかゆ～"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "猫又おかゆ",
@@ -15436,7 +15580,8 @@
         "Name": "おらよ～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "ラプラス・ダークネス",
@@ -15469,7 +15614,8 @@
         "Name": "絶対、食わせてみせるわ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "癒月ちょこ",
@@ -15491,7 +15637,8 @@
         "Name": "魔界の保健医"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "癒月ちょこ",
@@ -15662,7 +15809,8 @@
         "Name": "召し上がれ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 4
   },
   {
     "Name": "癒月ちょこ",
@@ -15723,7 +15871,8 @@
         "Name": "地獄くじ引き、引かせるぞっ"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "姫森ルーナ",
@@ -15749,7 +15898,8 @@
         "Name": "んな～～～～～～～～"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "轟はじめ",
@@ -15771,7 +15921,8 @@
         "Name": "ぶんぶんぶーん！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "轟はじめ",
@@ -15935,7 +16086,8 @@
         "Name": "……なんか、番長っぽくなってきたかも！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "轟はじめ",
@@ -16186,7 +16338,8 @@
         "Name": "刀の錆になるでござる！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "風真いろは",
@@ -16316,7 +16469,8 @@
         "Name": "不知火フレアだよ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "不知火フレア",
@@ -16474,7 +16628,8 @@
         "Name": "エルフレパーティー"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "不知火フレア",
@@ -16816,7 +16971,8 @@
         "Name": "マリンに任せろってマジで"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "宝鐘マリン",
@@ -16950,7 +17106,8 @@
         "Name": "はじまりんど～～～！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "輪堂千速",
@@ -17094,7 +17251,8 @@
         "Name": "ん〜〜〜〜〜ッヴィヴィ〜！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "綺々羅々ヴィヴィ",
@@ -17173,7 +17331,8 @@
         "Name": "RIONA IN DA HOUSE～!"
       }
     ],
-    "BatonPassCost": 0
+    "BatonPassCost": 0,
+    "ExtraRule": 2
   },
   {
     "Name": "虎金妃笑虎",
@@ -17195,7 +17354,8 @@
         "Name": "ニコたんが～来たァー！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "虎金妃笑虎",
@@ -17329,7 +17489,8 @@
         "Name": "しゅぴしゅわー"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "水宮枢",
@@ -17494,7 +17655,8 @@
         "Name": "初歩的なことよ"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 4
   },
   {
     "Name": "シオリ・ノヴェラ",
@@ -17731,7 +17893,8 @@
         "Name": "オーッホッホッホッ！"
       }
     ],
-    "BatonPassCost": 2
+    "BatonPassCost": 2,
+    "ExtraRule": 1
   },
   {
     "Name": "エリザベス・ローズ・ブラッドフレイム",
@@ -17871,7 +18034,8 @@
         "Name": "GI MURIN!!!!"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 1
   },
   {
     "Name": "ジジ・ムリン",
@@ -18038,7 +18202,8 @@
         "Name": "紅茶をどうぞ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "ラオーラ・パンテーラ",
@@ -18064,7 +18229,8 @@
         "Name": "コーヒーをどうぞ！"
       }
     ],
-    "BatonPassCost": 1
+    "BatonPassCost": 1,
+    "ExtraRule": 2
   },
   {
     "Name": "白上フブキ",

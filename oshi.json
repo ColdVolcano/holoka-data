@@ -7,13 +7,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Green～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -25,13 +23,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Green～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -43,13 +39,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "イエローエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Yellow～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -61,13 +55,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～White～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -79,13 +71,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～White～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -97,13 +87,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パープルエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Purple～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -115,13 +103,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "イエローエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Yellow～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -133,13 +119,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～White～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -151,13 +135,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Green～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -169,13 +151,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Blue～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -187,13 +167,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パープルエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Purple～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -205,13 +183,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～White～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -223,13 +199,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パープルエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Purple～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -241,13 +215,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Blue～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -259,13 +231,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Red～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -277,13 +247,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Anniversary Gift ～Blue～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -295,13 +263,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Green～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -313,13 +279,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "イエローエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Yellow～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -331,13 +295,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Red～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -349,13 +311,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Blue～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -367,13 +327,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Red～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -385,13 +343,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Green～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -403,13 +359,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パープルエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Purple～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -421,13 +375,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Blue～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -439,13 +391,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Green～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -457,13 +407,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Blue～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -475,13 +423,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Blue～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -493,13 +439,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Red～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -511,13 +455,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Red～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -529,13 +471,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "イエローエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Yellow～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -547,13 +487,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Blue～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -565,13 +503,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～White～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -583,13 +519,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～White～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -601,13 +535,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Blue～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -619,13 +551,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "イエローエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Yellow～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -637,13 +567,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "イエローエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Yellow～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -655,13 +583,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パープルエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Purple～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -673,13 +599,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パープルエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Purple～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -691,13 +615,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "イエローエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Yellow～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -709,13 +631,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～White～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -727,13 +647,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Red～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -745,13 +663,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Blue～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -763,13 +679,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～White～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -781,13 +695,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Red～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -799,13 +711,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～White～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -817,13 +727,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パープルエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Purple～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -835,13 +743,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パープルエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Purple～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -853,13 +759,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パープルエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Purple～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -871,13 +775,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～White～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -889,13 +791,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "イエローエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Yellow～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -907,13 +807,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～White～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -925,13 +823,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Red～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -943,13 +839,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Blue～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -961,13 +855,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Green～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -979,13 +871,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Green～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -997,13 +887,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "イエローエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Yellow～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1015,13 +903,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Red～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1033,13 +919,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Green～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1051,13 +935,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Green～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1069,13 +951,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "イエローエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Yellow～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1087,13 +967,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Red～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1105,13 +983,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パープルエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Purple～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1123,13 +999,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Red～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1141,13 +1015,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Green～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1159,13 +1031,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パープルエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Purple～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1177,13 +1047,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Red～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1195,13 +1063,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "イエローエンハンス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Birthday Gift ～Yellow～"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1213,13 +1079,11 @@
     "Skills": [
       {
         "Cost": 3,
-        "Type": "OshiSkill",
-        "Name": "ぎゅっぎゅっ"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "握りつぶしちゃうぞ"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1231,13 +1095,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "文明の守護者"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "アメイジング・ドローイング"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1249,13 +1111,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "サバイバルパワー"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "大地の唄"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1267,13 +1127,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "野兎たち～"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 3,
-        "Type": "SpOshiSkill",
-        "Name": "幸運兎"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1285,13 +1143,11 @@
     "Skills": [
       {
         "Cost": null,
-        "Type": "OshiSkill",
-        "Name": "女幹部の采配"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "ホークアイ"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1303,13 +1159,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "フェニックステール"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "Rise from the ashes"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1321,13 +1175,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ほうき星"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "シューティングスター"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1339,13 +1191,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "レイン・シャーマニズム"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 3,
-        "Type": "SpOshiSkill",
-        "Name": "雨乞い"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1357,13 +1207,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "マスコット創造"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "フブキングダム"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1375,13 +1223,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "HALU"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "極彩色の宴"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1393,13 +1239,11 @@
     "Skills": [
       {
         "Cost": 3,
-        "Type": "OshiSkill",
-        "Name": "Ahoy!"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "出航～！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1411,13 +1255,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "ぽえぽえぽえ～"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 3,
-        "Type": "SpOshiSkill",
-        "Name": "人生リセットボタン"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1429,13 +1271,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "ねえ゛え゛え゛え゛え゛え゛え゛"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "シオンのすごい魔法"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1447,13 +1287,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ゾンビ戦術"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "蘇るオリー"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1465,13 +1303,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "サンプリング"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "死神ラップ"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1483,13 +1319,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パソコンならわかるのら"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "ルーナイト集合"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1501,13 +1335,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "poi"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "狙撃"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1519,13 +1351,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "35P帰ってくるのかッ！？って！"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "あきらめない心にぇ"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1537,13 +1367,11 @@
     "Skills": [
       {
         "Cost": 3,
-        "Type": "OshiSkill",
-        "Name": "モコちゃん！"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "BAU BAU!"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1555,13 +1383,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "デビルズヴォイス"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "悪魔的所業"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1573,13 +1399,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "無限の体力"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 3,
-        "Type": "SpOshiSkill",
-        "Name": "ウォウウォウウォウウォウ"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1591,13 +1415,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "Member sheep いらっしゃい！"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "わためは悪くないよねぇ？"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1609,13 +1431,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホロライブID一家"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "がんばり～リス！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1627,13 +1447,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "こより実験中"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "助手くん、んーまっ！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1645,13 +1463,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ReGLOSSの風流人"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "余った時間でぐるぐる"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1663,13 +1479,11 @@
     "Skills": [
       {
         "Cost": 3,
-        "Type": "OshiSkill",
-        "Name": "Reach the top！"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "かわいい！ ポジティブ！ ジーニアス！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1681,13 +1495,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "愛してる"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 3,
-        "Type": "SpOshiSkill",
-        "Name": "ぶーん、バリバリバリバリ"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1699,13 +1511,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "総帥のお仕事"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 3,
-        "Type": "SpOshiSkill",
-        "Name": "我ら秘密結社holoX！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1717,13 +1527,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "メンタル！ フィジカル！ パッション！"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "リアクション芸"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1735,13 +1543,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "神秘の儀式"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "人生のこと考えていた方が勝てる"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1753,13 +1559,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "白銀の騎士達"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "スーパーまずった太郎"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1771,13 +1575,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "IOFORIA~!"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 3,
-        "Type": "SpOshiSkill",
-        "Name": "Kekuatan Iofi"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1789,13 +1591,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ポルカの伝説"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "成功体験－！！！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1807,13 +1607,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "いっくよー"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 3,
-        "Type": "SpOshiSkill",
-        "Name": "ウマウマ！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1825,13 +1623,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "ちょこまみれになっちゃえっ！"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "ちょこっとクッキング"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1843,13 +1639,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "Liebesträume"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 4,
-        "Type": "SpOshiSkill",
-        "Name": "Shoot for the Moon"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1861,13 +1655,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "キミの力になりたいから"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "みんなで盛り上がろう！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1879,13 +1671,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "BIG CAT means…"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "BIG TROUBLE!!"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1897,13 +1687,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "やりたいように、私は私らしく"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "生き抜いていくんです！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1915,13 +1703,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "迷ったらまず実行！"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "アルティメットつよつよござる"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1933,13 +1719,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "鬼閻魔"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "二刀一閃！ 鬼神斬り"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1951,13 +1735,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "混沌の化身"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "\uD83C\uDFB2ƎNOZ N∩Ⅎ ƎH⊥ O⊥ ƎWOϽ˥ƎM\uD83C\uDFB2"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1969,13 +1751,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "満月の輝き"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "双月の斉唱"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -1987,13 +1767,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "PONじゃないもん！！"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "ボクの『高性能っぷり』を堪能してよね♡"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2005,13 +1783,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "おまつりわっしょーい！！！"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "絶対勝ちたい！！！！！！！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2023,13 +1799,11 @@
     "Skills": [
       {
         "Cost": null,
-        "Type": "OshiStageSkill",
-        "Name": "ドドドライブ"
+        "Type": "OshiStageSkill"
       },
       {
         "Cost": 6,
-        "Type": "OshiSkill",
-        "Name": "角ドリルしたろか？"
+        "Type": "OshiSkill"
       }
     ]
   },
@@ -2041,13 +1815,11 @@
     "Skills": [
       {
         "Cost": 3,
-        "Type": "OshiSkill",
-        "Name": "Good Luck, holoh3ro!"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "不可能なんてないんだから！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2059,13 +1831,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "神札の導き"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "みんなのママ"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2077,13 +1847,11 @@
     "Skills": [
       {
         "Cost": null,
-        "Type": "OshiStageSkill",
-        "Name": "はあちゃまなう"
+        "Type": "OshiStageSkill"
       },
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ワールドワイドな最強アイドル！"
+        "Type": "OshiSkill"
       }
     ]
   },
@@ -2095,13 +1863,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "忘却の輪の上で"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 4,
-        "Type": "SpOshiSkill",
-        "Name": "時間の典獄"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2113,13 +1879,11 @@
     "Skills": [
       {
         "Cost": null,
-        "Type": "OshiStageSkill",
-        "Name": "ETERNiTY FRONTiER"
+        "Type": "OshiStageSkill"
       },
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "行くよ、開拓者。"
+        "Type": "OshiSkill"
       }
     ]
   },
@@ -2131,13 +1895,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "スーパーねぽらぼエナジー"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "ねねちの大・暴・走！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2149,13 +1911,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "リプレイスメント"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "じゃあ敵だね？"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2167,13 +1927,11 @@
     "Skills": [
       {
         "Cost": 3,
-        "Type": "OshiSkill",
-        "Name": "左手に地図"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 3,
-        "Type": "SpOshiSkill",
-        "Name": "右手にマイク"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2185,13 +1943,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドマイク"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "さあ！もう一度！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2203,13 +1959,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーマイク"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "バックショット"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2221,13 +1975,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "パープルマイク"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "カードチェンジ"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2239,13 +1991,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトマイク"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "クイックガード"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2257,13 +2007,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンマイク"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "みんな頑張ろー！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2275,13 +2023,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "イエローマイク"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "後は引き受けた！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2293,13 +2039,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトマイク"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "クイックガード"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2311,13 +2055,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドマイク"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "さあ！もう一度！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2329,13 +2071,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "エンジン全開！レッツゴー！"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "向こう側の景色を見に行かない？"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2347,13 +2087,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "虎視眈々"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "ニコたんの名を呼ぶがいいさ！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2365,13 +2103,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "収集家"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 3,
-        "Type": "SpOshiSkill",
-        "Name": "リベリオン"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2383,13 +2119,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "Biboo Tax"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "古代魔石の輝き"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2401,13 +2135,11 @@
     "Skills": [
       {
         "Cost": 3,
-        "Type": "OshiSkill",
-        "Name": "秩序の先駆者"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 3,
-        "Type": "SpOshiSkill",
-        "Name": "JUST LIKE THAT"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2419,13 +2151,11 @@
     "Skills": [
       {
         "Cost": 1,
-        "Type": "OshiSkill",
-        "Name": "Boat Goes Binted"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 3,
-        "Type": "SpOshiSkill",
-        "Name": "自由奔放な『追跡者』"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2437,13 +2167,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "みんな一緒にいくぞぉおっ"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "マスコッツ、アッセンブル!!"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2455,13 +2183,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ちょっとまつたけ～♪"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "あなたの世界を広げに行こう"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2473,13 +2199,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "35Pこっちこっちー"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "35Pいくぞー！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2491,13 +2215,11 @@
     "Skills": [
       {
         "Cost": 3,
-        "Type": "OshiSkill",
-        "Name": "張り切ってがんばろーー!!!"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "流れ星"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2509,13 +2231,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ライミング"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "世界を繋げるラップ"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2527,13 +2247,11 @@
     "Skills": [
       {
         "Cost": 3,
-        "Type": "OshiSkill",
-        "Name": "ごめんｹﾄﾞ"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 2,
-        "Type": "SpOshiSkill",
-        "Name": "おさんぽスバル"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2545,13 +2263,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ホワイトバトン"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "クイックガード"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2563,13 +2279,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "グリーンバトン"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "みんな頑張ろー！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2581,13 +2295,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "レッドバトン"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "さあ！もう一度！"
+        "Type": "SpOshiSkill"
       }
     ]
   },
@@ -2599,13 +2311,11 @@
     "Skills": [
       {
         "Cost": 2,
-        "Type": "OshiSkill",
-        "Name": "ブルーバトン"
+        "Type": "OshiSkill"
       },
       {
         "Cost": 1,
-        "Type": "SpOshiSkill",
-        "Name": "バックショット"
+        "Type": "SpOshiSkill"
       }
     ]
   }

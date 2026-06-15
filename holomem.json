@@ -16464,6 +16464,2446 @@
     ]
   },
   {
+    "Name": "IRyS",
+    "Code": "hBP08-008",
+    "Color": 1,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "IRyS",
+    "Code": "hBP08-009",
+    "Color": 1,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 110,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "IRyS",
+    "Code": "hBP08-010",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "IRyS",
+    "Code": "hBP08-011",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "IRyS",
+    "Code": "hBP08-012",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "White": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "IRyS",
+    "Code": "hBP08-013",
+    "Color": 1,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 70,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "White": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "IRyS",
+    "Code": "hBP08-014",
+    "Color": 1,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 130,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "White": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "ときのそら",
+    "Code": "hBP08-015",
+    "Color": 1,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "ときのそら",
+    "Code": "hBP08-016",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 180,
+    "Effects": [
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      },
+      {
+        "Damage": 90,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "White": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "ときのそら",
+    "Code": "hBP08-017",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "White": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "ときのそら",
+    "Code": "hBP08-018",
+    "Color": 1,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 150,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "White": 1,
+          "Neutral": 3
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "ラオーラ・パンテーラ",
+    "Code": "hBP08-019",
+    "Color": 1,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 10,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "White": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#ケモミミ",
+      "#絵"
+    ]
+  },
+  {
+    "Name": "響咲リオナ",
+    "Code": "hBP08-020",
+    "Color": 1,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 180,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 110,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "White": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  {
+    "Name": "セシリア・イマーグリーン",
+    "Code": "hBP08-021",
+    "Color": 2,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 0,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ]
+  },
+  {
+    "Name": "セシリア・イマーグリーン",
+    "Code": "hBP08-022",
+    "Color": 2,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 0,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ]
+  },
+  {
+    "Name": "セシリア・イマーグリーン",
+    "Code": "hBP08-023",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Green": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ]
+  },
+  {
+    "Name": "セシリア・イマーグリーン",
+    "Code": "hBP08-024",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 60,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Green": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ]
+  },
+  {
+    "Name": "セシリア・イマーグリーン",
+    "Code": "hBP08-025",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ]
+  },
+  {
+    "Name": "セシリア・イマーグリーン",
+    "Code": "hBP08-026",
+    "Color": 2,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 90,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ]
+  },
+  {
+    "Name": "セシリア・イマーグリーン",
+    "Code": "hBP08-027",
+    "Color": 2,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 200,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 3
+        },
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#語学"
+    ]
+  },
+  {
+    "Name": "アキ・ローゼンタール",
+    "Code": "hBP08-028",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#ハーフエルフ",
+      "#お酒",
+      "#サマー"
+    ]
+  },
+  {
+    "Name": "風真いろは",
+    "Code": "hBP08-029",
+    "Color": 2,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Green": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
+  },
+  {
+    "Name": "パヴォリア・レイネ",
+    "Code": "hBP08-030",
+    "Color": 2,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 10,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#トリ",
+      "#絵"
+    ]
+  },
+  {
+    "Name": "パヴォリア・レイネ",
+    "Code": "hBP08-031",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": true,
+    "InitialHp": 250,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 60,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#トリ",
+      "#絵"
+    ],
+    "ExtraRule": 4
+  },
+  {
+    "Name": "パヴォリア・レイネ",
+    "Code": "hBP08-032",
+    "Color": 2,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 180,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 80,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Neutral": 2
+        },
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#トリ",
+      "#絵"
+    ]
+  },
+  {
+    "Name": "パヴォリア・レイネ",
+    "Code": "hBP08-033",
+    "Color": 2,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 190,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 140,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#トリ",
+      "#絵"
+    ]
+  },
+  {
+    "Name": "モココ・アビスガード",
+    "Code": "hBP08-034",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 0,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
+  },
+  {
+    "Name": "モココ・アビスガード",
+    "Code": "hBP08-035",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Damage": 10,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Red": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
+  },
+  {
+    "Name": "モココ・アビスガード",
+    "Code": "hBP08-036",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
+  },
+  {
+    "Name": "モココ・アビスガード",
+    "Code": "hBP08-037",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Red": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
+  },
+  {
+    "Name": "モココ・アビスガード",
+    "Code": "hBP08-038",
+    "Color": 4,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 190,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 100,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 2
+        },
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
+  },
+  {
+    "Name": "モココ・アビスガード",
+    "Code": "hBP08-039",
+    "Color": 4,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 90,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Red": 3
+        },
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
+  },
+  {
+    "Name": "百鬼あやめ",
+    "Code": "hBP08-040",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": true,
+    "InitialHp": 220,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Red": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ],
+    "ExtraRule": 4
+  },
+  {
+    "Name": "小鳥遊キアラ",
+    "Code": "hBP08-041",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#トリ"
+    ]
+  },
+  {
+    "Name": "小鳥遊キアラ",
+    "Code": "hBP08-042",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Red": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#トリ"
+    ]
+  },
+  {
+    "Name": "小鳥遊キアラ",
+    "Code": "hBP08-043",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": true,
+    "InitialHp": 240,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Red": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#トリ"
+    ],
+    "ExtraRule": 4
+  },
+  {
+    "Name": "小鳥遊キアラ",
+    "Code": "hBP08-044",
+    "Color": 4,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 100,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Red": 2
+        },
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#トリ"
+    ]
+  },
+  {
+    "Name": "ハコス・ベールズ",
+    "Code": "hBP08-045",
+    "Color": 4,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Red": 1
+        },
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
+  },
+  {
+    "Name": "エリザベス・ローズ・ブラッドフレイム",
+    "Code": "hBP08-046",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Red": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "水宮枢",
+    "Code": "hBP08-047",
+    "Color": 8,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  {
+    "Name": "水宮枢",
+    "Code": "hBP08-048",
+    "Color": 8,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 110,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  {
+    "Name": "水宮枢",
+    "Code": "hBP08-049",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  {
+    "Name": "水宮枢",
+    "Code": "hBP08-050",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  {
+    "Name": "水宮枢",
+    "Code": "hBP08-051",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  {
+    "Name": "水宮枢",
+    "Code": "hBP08-052",
+    "Color": 8,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Damage": 70,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      },
+      {
+        "Damage": 180,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 3
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  {
+    "Name": "水宮枢",
+    "Code": "hBP08-053",
+    "Color": 8,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 2,
+          "Neutral": 1
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  {
+    "Name": "ムーナ・ホシノヴァ",
+    "Code": "hBP08-054",
+    "Color": 8,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 130,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 3
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "フワワ・アビスガード",
+    "Code": "hBP08-055",
+    "Color": 8,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 110,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
+  },
+  {
+    "Name": "フワワ・アビスガード",
+    "Code": "hBP08-056",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
+  },
+  {
+    "Name": "フワワ・アビスガード",
+    "Code": "hBP08-057",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 180,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
+  },
+  {
+    "Name": "フワワ・アビスガード",
+    "Code": "hBP08-058",
+    "Color": 8,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Damage": 100,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      },
+      {
+        "Damage": 160,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Blue": 2,
+          "Neutral": 2
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
+  },
+  {
+    "Name": "フワワ・アビスガード",
+    "Code": "hBP08-059",
+    "Color": 8,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 80,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Blue": 3
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ]
+  },
+  {
+    "Name": "FUWAMOCO",
+    "Code": "hBP08-060",
+    "Color": 12,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#ケモミミ"
+    ],
+    "ExtraRule": 8,
+    "ExtraNames": [
+      "フワワ・アビスガード",
+      "モココ・アビスガード"
+    ]
+  },
+  {
+    "Name": "鷹嶺ルイ",
+    "Code": "hBP08-061",
+    "Color": 16,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
+  },
+  {
+    "Name": "鷹嶺ルイ",
+    "Code": "hBP08-062",
+    "Color": 16,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
+  },
+  {
+    "Name": "鷹嶺ルイ",
+    "Code": "hBP08-063",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Purple": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
+  },
+  {
+    "Name": "鷹嶺ルイ",
+    "Code": "hBP08-064",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
+  },
+  {
+    "Name": "鷹嶺ルイ",
+    "Code": "hBP08-065",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 180,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Purple": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
+  },
+  {
+    "Name": "鷹嶺ルイ",
+    "Code": "hBP08-066",
+    "Color": 16,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 60,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
+  },
+  {
+    "Name": "鷹嶺ルイ",
+    "Code": "hBP08-067",
+    "Color": 16,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 130,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Purple": 3
+        },
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#トリ",
+      "#お酒"
+    ]
+  },
+  {
+    "Name": "一伊那尓栖",
+    "Code": "hBP08-068",
+    "Color": 16,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 10,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Purple": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#絵",
+      "#海"
+    ]
+  },
+  {
+    "Name": "一伊那尓栖",
+    "Code": "hBP08-069",
+    "Color": 16,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 100,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#絵",
+      "#海"
+    ]
+  },
+  {
+    "Name": "一伊那尓栖",
+    "Code": "hBP08-070",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 180,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Purple": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#絵",
+      "#海"
+    ]
+  },
+  {
+    "Name": "一伊那尓栖",
+    "Code": "hBP08-071",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 50,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#絵",
+      "#海"
+    ]
+  },
+  {
+    "Name": "一伊那尓栖",
+    "Code": "hBP08-072",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Purple": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#絵",
+      "#海",
+      "#サマー"
+    ]
+  },
+  {
+    "Name": "一伊那尓栖",
+    "Code": "hBP08-073",
+    "Color": 16,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 90,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 2
+        },
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#絵",
+      "#海"
+    ]
+  },
+  {
+    "Name": "一伊那尓栖",
+    "Code": "hBP08-074",
+    "Color": 16,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 110,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 3
+        },
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Myth",
+      "#絵",
+      "#海"
+    ]
+  },
+  {
+    "Name": "ロボ子さん",
+    "Code": "hBP08-075",
+    "Color": 16,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 110,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Purple": 2
+        },
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#シューター"
+    ]
+  },
+  {
+    "Name": "癒月ちょこ",
+    "Code": "hBP08-076",
+    "Color": 16,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 120,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Purple": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#料理"
+    ]
+  },
+  {
+    "Name": "音乃瀬奏",
+    "Code": "hBP08-077",
+    "Color": 32,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "音乃瀬奏",
+    "Code": "hBP08-078",
+    "Color": 32,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 100,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "音乃瀬奏",
+    "Code": "hBP08-079",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 10,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "音乃瀬奏",
+    "Code": "hBP08-080",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "音乃瀬奏",
+    "Code": "hBP08-081",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 40,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Yellow": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "音乃瀬奏",
+    "Code": "hBP08-082",
+    "Color": 32,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 190,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 100,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Yellow": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "音乃瀬奏",
+    "Code": "hBP08-083",
+    "Color": 32,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 190,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 120,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Yellow": 2,
+          "Neutral": 1
+        },
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#歌"
+    ]
+  },
+  {
+    "Name": "夏色まつり",
+    "Code": "hBP08-084",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 190,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
+  },
+  {
+    "Name": "不知火フレア",
+    "Code": "hBP08-085",
+    "Color": 32,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 10,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
+  },
+  {
+    "Name": "不知火フレア",
+    "Code": "hBP08-086",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 20,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
+  },
+  {
+    "Name": "不知火フレア",
+    "Code": "hBP08-087",
+    "Color": 32,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 90,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Neutral": 2
+        },
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
+  },
+  {
+    "Name": "不知火フレア",
+    "Code": "hBP08-088",
+    "Color": 32,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 140,
+        "TextBoostsDamage": true,
+        "UseCost": {
+          "Yellow": 2,
+          "Neutral": 1
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#ハーフエルフ"
+    ]
+  },
+  {
+    "Name": "ジジ・ムリン",
+    "Code": "hBP08-089",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostsDamage": false,
+        "UseCost": {
+          "Yellow": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Justice"
+    ]
+  },
+  {
     "Name": "さくらみこ",
     "Code": "hPR-001",
     "Color": 0,

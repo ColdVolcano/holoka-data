@@ -1904,6 +1904,118 @@
     ]
   },
   {
+    "Name": "IRyS",
+    "Code": "hBP08-001",
+    "Color": 1,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      },
+      {
+        "Cost": 2,
+        "Type": "SpOshiSkill"
+      }
+    ]
+  },
+  {
+    "Name": "セシリア・イマーグリーン",
+    "Code": "hBP08-002",
+    "Color": 2,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
+  {
+    "Name": "FUWAMOCO",
+    "Code": "hBP08-003",
+    "Color": 4,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
+  {
+    "Name": "水宮枢",
+    "Code": "hBP08-004",
+    "Color": 8,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": 1,
+        "Type": "OshiSkill"
+      },
+      {
+        "Cost": 2,
+        "Type": "SpOshiSkill"
+      }
+    ]
+  },
+  {
+    "Name": "鷹嶺ルイ",
+    "Code": "hBP08-005",
+    "Color": 16,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
+  {
+    "Name": "一伊那尓栖",
+    "Code": "hBP08-006",
+    "Color": 16,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": null,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
+  {
+    "Name": "音乃瀬奏",
+    "Code": "hBP08-007",
+    "Color": 32,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      },
+      {
+        "Cost": 1,
+        "Type": "SpOshiSkill"
+      }
+    ]
+  },
+  {
     "Name": "ときのそら",
     "Code": "hSD01-001",
     "Color": 1,

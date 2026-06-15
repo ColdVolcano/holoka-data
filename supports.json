@@ -1000,6 +1000,141 @@
     "Limited": false
   },
   {
+    "Name": "エレガントパソコン",
+    "Code": "hBP08-090",
+    "Type": "Item",
+    "Limited": true
+  },
+  {
+    "Name": "クリエイターパソコン",
+    "Code": "hBP08-091",
+    "Type": "Item",
+    "Limited": false
+  },
+  {
+    "Name": "思い出のドーナツショップ",
+    "Code": "hBP08-092",
+    "Type": "Event",
+    "Limited": true
+  },
+  {
+    "Name": "ちょこのなすユッケ",
+    "Code": "hBP08-093",
+    "Type": "Event",
+    "Tags": [
+      "#食べ物"
+    ],
+    "Limited": false
+  },
+  {
+    "Name": "パパは仕事を辞める",
+    "Code": "hBP08-094",
+    "Type": "Event",
+    "Limited": true
+  },
+  {
+    "Name": "破滅の呪文",
+    "Code": "hBP08-095",
+    "Type": "Event",
+    "Limited": true
+  },
+  {
+    "Name": "優しいモンスター",
+    "Code": "hBP08-096",
+    "Type": "Event",
+    "Limited": true
+  },
+  {
+    "Name": "りっちしょこらのハンバーグ",
+    "Code": "hBP08-097",
+    "Type": "Event",
+    "Tags": [
+      "#食べ物"
+    ],
+    "Limited": false
+  },
+  {
+    "Name": "hololive Mythology",
+    "Code": "hBP08-098",
+    "Type": "Event",
+    "Limited": true
+  },
+  {
+    "Name": "HOLOTORI",
+    "Code": "hBP08-099",
+    "Type": "Event",
+    "Limited": false
+  },
+  {
+    "Name": "Myth",
+    "Code": "hBP08-100",
+    "Type": "Event",
+    "Limited": true
+  },
+  {
+    "Name": "We are ReGLOSS",
+    "Code": "hBP08-101",
+    "Type": "Event",
+    "Limited": true
+  },
+  {
+    "Name": "クールなパーカー",
+    "Code": "hBP08-102",
+    "Type": "Tool",
+    "Tags": [
+      "#Buzzグッズ"
+    ],
+    "Limited": false
+  },
+  {
+    "Name": "ホロマント",
+    "Code": "hBP08-103",
+    "Type": "Tool",
+    "Limited": false
+  },
+  {
+    "Name": "けはい",
+    "Code": "hBP08-104",
+    "Type": "Tool",
+    "Limited": false
+  },
+  {
+    "Name": "Bloom＆Gloom",
+    "Code": "hBP08-105",
+    "Type": "Mascot",
+    "Limited": false
+  },
+  {
+    "Name": "GuyRyS",
+    "Code": "hBP08-106",
+    "Type": "Fan",
+    "Limited": false
+  },
+  {
+    "Name": "Otomo",
+    "Code": "hBP08-107",
+    "Type": "Fan",
+    "Limited": false
+  },
+  {
+    "Name": "いたずらなRuffians",
+    "Code": "hBP08-108",
+    "Type": "Fan",
+    "Limited": false
+  },
+  {
+    "Name": "ルイ友",
+    "Code": "hBP08-109",
+    "Type": "Fan",
+    "Limited": false
+  },
+  {
+    "Name": "Takodachi",
+    "Code": "hBP08-110",
+    "Type": "Fan",
+    "Limited": false
+  },
+  {
     "Name": "ReGLOSS",
     "Code": "hPR-002",
     "Type": "Event",

@@ -17711,6 +17711,610 @@
       "#Justice"
     ]
   },
+  "hEB01-004": {
+    "Name": "ときのそら",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Red": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌",
+      "#サマー"
+    ]
+  },
+  "hEB01-005": {
+    "Name": "ときのそら",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌",
+      "#サマー"
+    ]
+  },
+  "hEB01-006": {
+    "Name": "ときのそら",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 50,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Red": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌",
+      "#サマー"
+    ]
+  },
+  "hEB01-007": {
+    "Name": "ときのそら",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌",
+      "#サマー"
+    ]
+  },
+  "hEB01-008": {
+    "Name": "ときのそら",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 70,
+        "UseCost": {
+          "Red": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌",
+      "#サマー"
+    ]
+  },
+  "hEB01-009": {
+    "Name": "ときのそら",
+    "Color": 4,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 50,
+        "UseCost": {
+          "Red": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌",
+      "#サマー"
+    ]
+  },
+  "hEB01-010": {
+    "Name": "ときのそら",
+    "Color": 4,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 100,
+        "UseCost": {
+          "Red": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌",
+      "#サマー"
+    ]
+  },
+  "hEB01-011": {
+    "Name": "宝鐘マリン",
+    "Color": 8,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海",
+      "#サマー"
+    ]
+  },
+  "hEB01-012": {
+    "Name": "宝鐘マリン",
+    "Color": 8,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海",
+      "#サマー"
+    ]
+  },
+  "hEB01-013": {
+    "Name": "宝鐘マリン",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 50,
+        "UseCost": {
+          "Neutral": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海",
+      "#サマー"
+    ]
+  },
+  "hEB01-014": {
+    "Name": "宝鐘マリン",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海",
+      "#サマー"
+    ]
+  },
+  "hEB01-015": {
+    "Name": "宝鐘マリン",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": true,
+    "InitialHp": 250,
+    "Effects": [
+      {
+        "Damage": 60,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海",
+      "#サマー"
+    ],
+    "ExtraRule": 4
+  },
+  "hEB01-016": {
+    "Name": "宝鐘マリン",
+    "Color": 8,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Damage": 40,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海",
+      "#サマー"
+    ]
+  },
+  "hEB01-017": {
+    "Name": "宝鐘マリン",
+    "Color": 8,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 100,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Blue": 2,
+          "Neutral": 2
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#絵",
+      "#海",
+      "#サマー"
+    ]
+  },
+  "hEB01-018": {
+    "Name": "博衣こより",
+    "Color": 32,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 20,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ",
+      "#サマー"
+    ]
+  },
+  "hEB01-019": {
+    "Name": "博衣こより",
+    "Color": 32,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 10,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ",
+      "#サマー"
+    ]
+  },
+  "hEB01-020": {
+    "Name": "博衣こより",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 190,
+    "Effects": [
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      },
+      {
+        "Damage": 50,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Yellow": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ",
+      "#サマー"
+    ]
+  },
+  "hEB01-021": {
+    "Name": "博衣こより",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ",
+      "#サマー"
+    ]
+  },
+  "hEB01-022": {
+    "Name": "博衣こより",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Yellow": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ",
+      "#サマー"
+    ]
+  },
+  "hEB01-023": {
+    "Name": "博衣こより",
+    "Color": 32,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 50,
+        "UseCost": {
+          "Neutral": 2
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ",
+      "#サマー"
+    ]
+  },
+  "hEB01-024": {
+    "Name": "博衣こより",
+    "Color": 32,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 120,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Yellow": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX",
+      "#ケモミミ",
+      "#サマー"
+    ]
+  },
   "hPR-001": {
     "Name": "さくらみこ",
     "Color": 0,

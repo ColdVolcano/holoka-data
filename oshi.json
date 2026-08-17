@@ -1889,6 +1889,51 @@
       }
     ]
   },
+  "hEB01-001": {
+    "Name": "ときのそら",
+    "Color": 4,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": 4,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
+  "hEB01-002": {
+    "Name": "宝鐘マリン",
+    "Color": 8,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
+  "hEB01-003": {
+    "Name": "博衣こより",
+    "Color": 32,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
   "hSD01-001": {
     "Name": "ときのそら",
     "Color": 1,

@@ -958,6 +958,59 @@
     "Type": "Fan",
     "Limited": false
   },
+  "hEB01-025": {
+    "Name": "サマーパソコン",
+    "Type": "Item",
+    "Limited": false
+  },
+  "hEB01-026": {
+    "Name": "クマリン",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hEB01-027": {
+    "Name": "サマーライブ",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hEB01-028": {
+    "Name": "スイカ割り",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hEB01-029": {
+    "Name": "スプラッシュシュート",
+    "Type": "Event",
+    "Limited": false
+  },
+  "hEB01-030": {
+    "Name": "ホロライブ・サマー",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hEB01-031": {
+    "Name": "水遊び",
+    "Type": "Event",
+    "Limited": false
+  },
+  "hEB01-032": {
+    "Name": "STAR STAR☆T",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hEB01-033": {
+    "Name": "ビーチボール",
+    "Type": "Tool",
+    "Limited": false
+  },
+  "hEB01-034": {
+    "Name": "なんでも爆解！",
+    "Type": "Tool",
+    "Tags": [
+      "#こよラボ"
+    ],
+    "Limited": false
+  },
   "hPR-002": {
     "Name": "ReGLOSS",
     "Type": "Event",

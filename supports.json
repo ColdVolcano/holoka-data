@@ -958,6 +958,135 @@
     "Type": "Fan",
     "Limited": false
   },
+  "hBP09-090": {
+    "Name": "コラボパソコン",
+    "Type": "Item",
+    "Limited": false
+  },
+  "hBP09-091": {
+    "Name": "あずいろ BESTIE DAYS",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hBP09-092": {
+    "Name": "雨の日ヴィヴィ",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hBP09-093": {
+    "Name": "応援するホロリス",
+    "Type": "Event",
+    "Limited": false
+  },
+  "hBP09-094": {
+    "Name": "大空警察",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hBP09-095": {
+    "Name": "君に乾杯",
+    "Type": "Event",
+    "Tags": [
+      "#ラミィのお酒"
+    ],
+    "Limited": false
+  },
+  "hBP09-096": {
+    "Name": "コンコ コンコンコ コンコンコン",
+    "Type": "Event",
+    "Limited": false
+  },
+  "hBP09-097": {
+    "Name": "コンビプレイ",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hBP09-098": {
+    "Name": "スイカバブル",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hBP09-099": {
+    "Name": "スピード違反",
+    "Type": "Event",
+    "Limited": false
+  },
+  "hBP09-100": {
+    "Name": "ノエルの特盛牛丼",
+    "Type": "Event",
+    "Tags": [
+      "#食べ物"
+    ],
+    "Limited": false,
+    "ExtraRule": 8,
+    "ExtraNames": [
+      "牛丼"
+    ]
+  },
+  "hBP09-101": {
+    "Name": "バカ！変態！うるさーい！もう知らなーい！",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hBP09-102": {
+    "Name": "ばんちょーダンス",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hBP09-103": {
+    "Name": "変な動き",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hBP09-104": {
+    "Name": "ホロライブ体力王決定戦",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hBP09-105": {
+    "Name": "BIG3",
+    "Type": "Event",
+    "Limited": true
+  },
+  "hBP09-106": {
+    "Name": "カエラが作ったホロシールド",
+    "Type": "Tool",
+    "Tags": [
+      "#カエラ'sアームズ"
+    ],
+    "Limited": false
+  },
+  "hBP09-107": {
+    "Name": "カエラが作ったホロソード",
+    "Type": "Tool",
+    "Tags": [
+      "#カエラ'sアームズ"
+    ],
+    "Limited": false
+  },
+  "hBP09-108": {
+    "Name": "常闇トワのブレイクマイク",
+    "Type": "Tool",
+    "Limited": false
+  },
+  "hBP09-109": {
+    "Name": "メイクアップ",
+    "Type": "Tool",
+    "Limited": false
+  },
+  "hBP09-110": {
+    "Name": "雪夜月",
+    "Type": "Tool",
+    "Tags": [
+      "#ラミィのお酒"
+    ],
+    "Limited": false
+  },
+  "hBP09-111": {
+    "Name": "Pemaloe",
+    "Type": "Fan",
+    "Limited": false
+  },
   "hEB01-025": {
     "Name": "サマーパソコン",
     "Type": "Item",

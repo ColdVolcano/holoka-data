@@ -1889,6 +1889,111 @@
       }
     ]
   },
+  "hBP09-001": {
+    "Name": "大空スバル",
+    "Color": 1,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
+  "hBP09-002": {
+    "Name": "轟はじめ",
+    "Color": 1,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": null,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
+  "hBP09-003": {
+    "Name": "白銀ノエル",
+    "Color": 2,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
+  "hBP09-004": {
+    "Name": "カエラ・コヴァルスキア",
+    "Color": 4,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
+  "hBP09-005": {
+    "Name": "常闇トワ",
+    "Color": 8,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
+  "hBP09-006": {
+    "Name": "綺々羅々ヴィヴィ",
+    "Color": 16,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      },
+      {
+        "Cost": 3,
+        "Type": "SpOshiSkill"
+      }
+    ]
+  },
+  "hBP09-007": {
+    "Name": "雪花ラミィ",
+    "Color": 32,
+    "Life": 5,
+    "Skills": [
+      {
+        "Cost": null,
+        "Type": "OshiStageSkill"
+      },
+      {
+        "Cost": 2,
+        "Type": "OshiSkill"
+      }
+    ]
+  },
   "hEB01-001": {
     "Name": "ときのそら",
     "Color": 4,

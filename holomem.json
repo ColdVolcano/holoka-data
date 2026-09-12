@@ -17711,6 +17711,2313 @@
       "#Justice"
     ]
   },
+  "hBP09-008": {
+    "Name": "大空スバル",
+    "Color": 1,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 110,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "White": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
+  },
+  "hBP09-009": {
+    "Name": "大空スバル",
+    "Color": 1,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
+  },
+  "hBP09-010": {
+    "Name": "大空スバル",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "White": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
+  },
+  "hBP09-011": {
+    "Name": "大空スバル",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 180,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 40,
+        "UseCost": {
+          "White": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
+  },
+  "hBP09-012": {
+    "Name": "大空スバル",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 80,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "White": 2,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
+  },
+  "hBP09-013": {
+    "Name": "大空スバル",
+    "Color": 1,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 190,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 100,
+        "UseCost": {
+          "White": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
+  },
+  "hBP09-014": {
+    "Name": "大空スバル",
+    "Color": 1,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 160,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "White": 3
+        },
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#トリ"
+    ]
+  },
+  "hBP09-015": {
+    "Name": "轟はじめ",
+    "Color": 1,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 20,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "White": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
+  },
+  "hBP09-016": {
+    "Name": "轟はじめ",
+    "Color": 1,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 110,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 0,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
+  },
+  "hBP09-017": {
+    "Name": "轟はじめ",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 0,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
+  },
+  "hBP09-018": {
+    "Name": "轟はじめ",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
+  },
+  "hBP09-019": {
+    "Name": "轟はじめ",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 40,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "White": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
+  },
+  "hBP09-020": {
+    "Name": "轟はじめ",
+    "Color": 1,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 190,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 60,
+        "UseCost": {
+          "White": 1
+        },
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
+  },
+  "hBP09-021": {
+    "Name": "轟はじめ",
+    "Color": 1,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 80,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "White": 2
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#ReGLOSS",
+      "#ベイビー"
+    ]
+  },
+  "hBP09-022": {
+    "Name": "角巻わため",
+    "Color": 1,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 100,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "White": 2
+        },
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#ケモミミ",
+      "#歌"
+    ]
+  },
+  "hBP09-023": {
+    "Name": "ベスティア・ゼータ",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": true,
+    "InitialHp": 220,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 120,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "White": 2,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ],
+    "ExtraRule": 4
+  },
+  "hBP09-024": {
+    "Name": "響咲リオナ",
+    "Color": 1,
+    "BloomLevel": "First",
+    "Buzz": true,
+    "InitialHp": 240,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 70,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "White": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ],
+    "ExtraRule": 4
+  },
+  "hBP09-025": {
+    "Name": "白銀ノエル",
+    "Color": 2,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
+  },
+  "hBP09-026": {
+    "Name": "白銀ノエル",
+    "Color": 2,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Green": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
+  },
+  "hBP09-027": {
+    "Name": "白銀ノエル",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 40,
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
+  },
+  "hBP09-028": {
+    "Name": "白銀ノエル",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
+  },
+  "hBP09-029": {
+    "Name": "白銀ノエル",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": true,
+    "InitialHp": 260,
+    "Effects": [
+      {
+        "Damage": 100,
+        "UseCost": {
+          "Green": 2,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 3,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ],
+    "ExtraRule": 4
+  },
+  "hBP09-030": {
+    "Name": "白銀ノエル",
+    "Color": 2,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 220,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 100,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
+  },
+  "hBP09-031": {
+    "Name": "白銀ノエル",
+    "Color": 2,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 220,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 10,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Green": 3,
+          "Neutral": 1
+        },
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 3,
+    "Tags": [
+      "#JP",
+      "#3期生",
+      "#お酒"
+    ]
+  },
+  "hBP09-032": {
+    "Name": "大神ミオ",
+    "Color": 2,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 100,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Green": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
+  },
+  "hBP09-033": {
+    "Name": "大神ミオ",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 50,
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
+  },
+  "hBP09-034": {
+    "Name": "大神ミオ",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": true,
+    "InitialHp": 240,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 110,
+        "UseCost": {
+          "Green": 2,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ],
+    "ExtraRule": 4
+  },
+  "hBP09-035": {
+    "Name": "大神ミオ",
+    "Color": 2,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 180,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Green": 1,
+          "Neutral": 3
+        },
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ",
+      "#料理"
+    ]
+  },
+  "hBP09-036": {
+    "Name": "風真いろは",
+    "Color": 2,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#秘密結社holoX"
+    ]
+  },
+  "hBP09-037": {
+    "Name": "輪堂千速",
+    "Color": 2,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 80,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Green": 2,
+          "Neutral": 1
+        },
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  "hBP09-038": {
+    "Name": "カエラ・コヴァルスキア",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 110,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Red": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
+  },
+  "hBP09-039": {
+    "Name": "カエラ・コヴァルスキア",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
+  },
+  "hBP09-040": {
+    "Name": "カエラ・コヴァルスキア",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 180,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 40,
+        "UseCost": {
+          "Red": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
+  },
+  "hBP09-041": {
+    "Name": "カエラ・コヴァルスキア",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 30,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Red": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
+  },
+  "hBP09-042": {
+    "Name": "カエラ・コヴァルスキア",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": true,
+    "InitialHp": 240,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 70,
+        "UseCost": {
+          "Red": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ],
+    "ExtraRule": 4
+  },
+  "hBP09-043": {
+    "Name": "カエラ・コヴァルスキア",
+    "Color": 4,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 60,
+        "UseCost": {
+          "Red": 1
+        },
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
+  },
+  "hBP09-044": {
+    "Name": "カエラ・コヴァルスキア",
+    "Color": 4,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 100,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Red": 2
+        },
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID3期生"
+    ]
+  },
+  "hBP09-045": {
+    "Name": "赤井はあと",
+    "Color": 4,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 170,
+        "UseCost": {
+          "Red": 2,
+          "Neutral": 1
+        },
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#料理"
+    ]
+  },
+  "hBP09-046": {
+    "Name": "百鬼あやめ",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 110,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Red": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#2期生",
+      "#シューター"
+    ]
+  },
+  "hBP09-047": {
+    "Name": "ハコス・ベールズ",
+    "Color": 4,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 100,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 0,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
+  },
+  "hBP09-048": {
+    "Name": "ハコス・ベールズ",
+    "Color": 4,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
+  },
+  "hBP09-049": {
+    "Name": "ハコス・ベールズ",
+    "Color": 4,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 190,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 80,
+        "UseCost": {
+          "Neutral": 3
+        },
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
+  },
+  "hBP09-050": {
+    "Name": "ハコス・ベールズ",
+    "Color": 4,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 100,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Neutral": 3
+        },
+        "CriticalColor": 16,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Promise",
+      "#ケモミミ"
+    ]
+  },
+  "hBP09-051": {
+    "Name": "常闇トワ",
+    "Color": 8,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
+  },
+  "hBP09-052": {
+    "Name": "常闇トワ",
+    "Color": 8,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
+  },
+  "hBP09-053": {
+    "Name": "常闇トワ",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 180,
+    "Effects": [
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      },
+      {
+        "Damage": 80,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
+  },
+  "hBP09-054": {
+    "Name": "常闇トワ",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
+  },
+  "hBP09-055": {
+    "Name": "常闇トワ",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      },
+      {
+        "Damage": 50,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
+  },
+  "hBP09-056": {
+    "Name": "常闇トワ",
+    "Color": 8,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Damage": 40,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      },
+      {
+        "Damage": 50,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
+  },
+  "hBP09-057": {
+    "Name": "常闇トワ",
+    "Color": 8,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Damage": 70,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      },
+      {
+        "Damage": 100,
+        "UseCost": {
+          "Blue": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#4期生",
+      "#歌",
+      "#シューター"
+    ]
+  },
+  "hBP09-058": {
+    "Name": "猫又おかゆ",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#ゲーマーズ",
+      "#ケモミミ"
+    ]
+  },
+  "hBP09-059": {
+    "Name": "ムーナ・ホシノヴァ",
+    "Color": 8,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
+  },
+  "hBP09-060": {
+    "Name": "ムーナ・ホシノヴァ",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 50,
+        "UseCost": {
+          "Blue": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
+  },
+  "hBP09-061": {
+    "Name": "ムーナ・ホシノヴァ",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 180,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 80,
+        "UseCost": {
+          "Blue": 3
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
+  },
+  "hBP09-062": {
+    "Name": "ムーナ・ホシノヴァ",
+    "Color": 8,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 120,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Blue": 5
+        },
+        "CriticalColor": 4,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#歌"
+    ]
+  },
+  "hBP09-063": {
+    "Name": "オーロ・クロニー",
+    "Color": 8,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Blue": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Promise"
+    ]
+  },
+  "hBP09-064": {
+    "Name": "綺々羅々ヴィヴィ",
+    "Color": 16,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Damage": 20,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Purple": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  "hBP09-065": {
+    "Name": "綺々羅々ヴィヴィ",
+    "Color": 16,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 120,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  "hBP09-066": {
+    "Name": "綺々羅々ヴィヴィ",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Purple": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  "hBP09-067": {
+    "Name": "綺々羅々ヴィヴィ",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 50,
+        "UseCost": {
+          "Purple": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  "hBP09-068": {
+    "Name": "綺々羅々ヴィヴィ",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Damage": 40,
+        "UseCost": {
+          "Purple": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      },
+      {
+        "Damage": 60,
+        "UseCost": {
+          "Purple": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  "hBP09-069": {
+    "Name": "綺々羅々ヴィヴィ",
+    "Color": 16,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 100,
+        "UseCost": {
+          "Purple": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  "hBP09-070": {
+    "Name": "綺々羅々ヴィヴィ",
+    "Color": 16,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 120,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Purple": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": 32,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#DEV_IS",
+      "#FLOW GLOW"
+    ]
+  },
+  "hBP09-071": {
+    "Name": "AZKi",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 40,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#0期生",
+      "#歌"
+    ]
+  },
+  "hBP09-072": {
+    "Name": "クレイジー・オリー",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Purple": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID2期生",
+      "#語学"
+    ]
+  },
+  "hBP09-073": {
+    "Name": "ネリッサ・レイヴンクロフト",
+    "Color": 16,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
+  },
+  "hBP09-074": {
+    "Name": "ネリッサ・レイヴンクロフト",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 50,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Neutral": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
+  },
+  "hBP09-075": {
+    "Name": "ネリッサ・レイヴンクロフト",
+    "Color": 16,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 40,
+        "UseCost": {
+          "Purple": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
+  },
+  "hBP09-076": {
+    "Name": "ネリッサ・レイヴンクロフト",
+    "Color": 16,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 140,
+        "UseCost": {
+          "Purple": 2,
+          "Neutral": 1
+        },
+        "CriticalColor": 2,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#EN",
+      "#Advent",
+      "#歌",
+      "#トリ"
+    ]
+  },
+  "hBP09-077": {
+    "Name": "雪花ラミィ",
+    "Color": 32,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Yellow": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
+  },
+  "hBP09-078": {
+    "Name": "雪花ラミィ",
+    "Color": 32,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 130,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 10,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
+  },
+  "hBP09-079": {
+    "Name": "雪花ラミィ",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 160,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 30,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
+  },
+  "hBP09-080": {
+    "Name": "雪花ラミィ",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 190,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
+  },
+  "hBP09-081": {
+    "Name": "雪花ラミィ",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 60,
+        "UseCost": {
+          "Yellow": 2
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
+  },
+  "hBP09-082": {
+    "Name": "雪花ラミィ",
+    "Color": 32,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 130,
+        "UseCost": {
+          "Yellow": 1,
+          "Neutral": 2
+        },
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
+  },
+  "hBP09-083": {
+    "Name": "雪花ラミィ",
+    "Color": 32,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 200,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 160,
+        "TextBoostBehaviour": "BoostOrReduce",
+        "UseCost": {
+          "Yellow": 1
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#ハーフエルフ",
+      "#お酒"
+    ]
+  },
+  "hBP09-084": {
+    "Name": "夏色まつり",
+    "Color": 32,
+    "BloomLevel": "Debut",
+    "Buzz": false,
+    "InitialHp": 110,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 20,
+        "UseCost": {
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
+  },
+  "hBP09-085": {
+    "Name": "夏色まつり",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 140,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 50,
+        "UseCost": {
+          "Yellow": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
+  },
+  "hBP09-086": {
+    "Name": "夏色まつり",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 170,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 40,
+        "UseCost": {
+          "Yellow": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
+  },
+  "hBP09-087": {
+    "Name": "夏色まつり",
+    "Color": 32,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 210,
+    "Effects": [
+      {
+        "Type": "CollabEffect"
+      },
+      {
+        "Damage": 60,
+        "TextBoostBehaviour": "Boost",
+        "UseCost": {
+          "Yellow": 1
+        },
+        "CriticalColor": 1,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#1期生",
+      "#シューター"
+    ]
+  },
+  "hBP09-088": {
+    "Name": "桃鈴ねね",
+    "Color": 32,
+    "BloomLevel": "Second",
+    "Buzz": false,
+    "InitialHp": 180,
+    "Effects": [
+      {
+        "Type": "Gift"
+      },
+      {
+        "Damage": 100,
+        "UseCost": {
+          "Yellow": 2
+        },
+        "CriticalColor": 8,
+        "CriticalAmount": 50,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 2,
+    "Tags": [
+      "#JP",
+      "#5期生",
+      "#歌",
+      "#絵"
+    ]
+  },
+  "hBP09-089": {
+    "Name": "アユンダ・リス",
+    "Color": 32,
+    "BloomLevel": "First",
+    "Buzz": false,
+    "InitialHp": 150,
+    "Effects": [
+      {
+        "Type": "BloomEffect"
+      },
+      {
+        "Damage": 50,
+        "UseCost": {
+          "Yellow": 1,
+          "Neutral": 1
+        },
+        "CriticalColor": null,
+        "CriticalAmount": null,
+        "Type": "Arts"
+      }
+    ],
+    "BatonPassCost": 1,
+    "Tags": [
+      "#ID",
+      "#ID1期生",
+      "#ケモミミ",
+      "#歌"
+    ]
+  },
   "hEB01-004": {
     "Name": "ときのそら",
     "Color": 4,
